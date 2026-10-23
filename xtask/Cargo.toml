@@ -1,0 +1,15 @@
+[package]
+name = "xtask"
+version = "0.1.0"
+description = "Repository automation for Corliss: CI gates and release checks run through `cargo xtask`."
+edition = "2024"
+rust-version = "1.98.1"
+license = "GPL-2.0-only"
+publish = false
+
+[lints.rust]
+unsafe_code = "forbid"
+missing_docs = "warn"
+
+[lints.clippy]
+all = "warn"

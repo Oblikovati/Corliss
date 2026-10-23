@@ -1,0 +1,14 @@
+[graph]
+all-features = true
+
+[advisories]
+yanked = "deny"
+
+[licenses]
+# Corliss is GPL-2.0-only; every dependency must be compatible with it.
+allow = ["MIT", "Apache-2.0 WITH LLVM-exception", "GPL-2.0-only"]
+confidence-threshold = 0.93
+
+[bans]
+multiple-versions = "warn"
+wildcards = "deny"
