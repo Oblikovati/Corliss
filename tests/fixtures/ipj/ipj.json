@@ -1,0 +1,812 @@
+{
+ "syn_invalid.ipj": {
+  "lossless": true,
+  "layout": "inventor",
+  "regenerates": false,
+  "findings": [
+   "root: schemarevid=15 outside 10..14 (Inventor rejects the file)",
+   "value InventorProject/ProjectOptions/ProjectType='single' not in ['None', 'Shared', 'Semi-Isolated', 'Vault']",
+   "InventorProject/ProjectPaths/ProjectPath: empty PathName or Path (Inventor ignores the entry)",
+   "unknown element InventorProject/Mystery"
+  ],
+  "project": {
+   "schemarevid": 15,
+   "contentcenterguid": "d91248cf-46e1-4ed1-8afc-705685f7bbe9",
+   "addin_configs": [
+    [
+     "AutodeskIntent",
+     "<AutodeskIntent configguid=\"aaaaaaaaaaaaaaaaaaaaaaaaaa\"/>"
+    ]
+   ],
+   "project_type": "single",
+   "included_project": "",
+   "old_versions_to_keep": 1,
+   "using_unique_filenames": false,
+   "owner": "",
+   "release_id": "",
+   "imported_comp_folder": "Imported Components",
+   "imported_asm_folder": "Imported Components",
+   "appearance_libraries": [
+    [
+     "",
+     1,
+     false
+    ],
+    [
+     "",
+     2,
+     false
+    ],
+    [
+     "",
+     3,
+     true
+    ]
+   ],
+   "physical_libraries": [
+    [
+     "",
+     2,
+     false
+    ],
+    [
+     "",
+     3,
+     true
+    ]
+   ],
+   "paths": [
+    [
+     "Workgroup",
+     "X",
+     "",
+     null
+    ]
+   ],
+   "design_data": {
+    "path": null,
+    "vault_path": null,
+    "use_styles": "Read Only",
+    "config_xml": null
+   },
+   "templates": {
+    "path": null,
+    "vault_path": null,
+    "use_styles": null,
+    "config_xml": null
+   },
+   "presets": {
+    "path": null,
+    "vault_path": null,
+    "use_styles": null,
+    "config_xml": null
+   },
+   "content_center": {
+    "path": null,
+    "vault_path": null,
+    "use_styles": null,
+    "config_xml": "<ContentCenterConfig>\n        <ConfiguredLibraries>\n          <Library DisplayName=\"Inventor ANSI\" InternalName=\"7c4b738e-bdd6-4b6b-8700-5bf288a284c0\" IsReadOnly=\"True\" LibraryAttachName=\"Inventor ANSI\" ServerName=\"localhost\"/>\n          <Library DisplayName=\"Inventor DIN\" InternalName=\"8b22eb12-e4e8-449b-a97b-ae3d5bbbfd12\" IsReadOnly=\"True\" LibraryAttachName=\"Inventor DIN\" ServerName=\"localhost\"/>\n          <Library DisplayName=\"Inventor Feature\" InternalName=\"4367dfbc-f228-49f6-b4da-1a8b0df49d3f\" IsReadOnly=\"True\" LibraryAttachName=\"Inventor Feature\" ServerName=\"localhost\"/>\n          <Library DisplayName=\"Inventor ISO\" InternalName=\"2558d7ef-04ac-43eb-8a44-e3748e516d14\" IsReadOnly=\"True\" LibraryAttachName=\"Inventor ISO\" ServerName=\"localhost\"/>\n          <Library DisplayName=\"Inventor JIS &amp; GB\" InternalName=\"42d3d0d7-3c4b-4ae9-970d-954ebb779482\" IsReadOnly=\"True\" LibraryAttachName=\"Inventor JIS &amp; GB\" ServerName=\"localhost\"/>\n          <Library DisplayName=\"Inventor OTHER\" InternalName=\"271cc27b-14af-45c8-8686-bc036143cde5\" IsReadOnly=\"True\" LibraryAttachName=\"Inventor OTHER\" ServerName=\"localhost\"/>\n          <Library DisplayName=\"Inventor Parker\" InternalName=\"e759e04d-3827-4431-81a2-046642bff133\" IsReadOnly=\"True\" LibraryAttachName=\"Inventor Parker\" ServerName=\"localhost\"/>\n          <Library DisplayName=\"Inventor GOST\" InternalName=\"5d735970-f300-11db-8314-0800200c9a66\" IsReadOnly=\"True\" LibraryAttachName=\"Inventor GOST\" ServerName=\"localhost\"/>\n          <Library DisplayName=\"Inventor Sheet Metal\" InternalName=\"0ec56ebe-3a6e-11dc-8314-0800200c9a66\" IsReadOnly=\"True\" LibraryAttachName=\"Inventor Sheet Metal\" ServerName=\"localhost\"/>\n          <Library DisplayName=\"Routed Systems Other\" InternalName=\"92f6856b-8619-4dbf-ac8b-636b5161eabb\" IsReadOnly=\"True\" LibraryAttachName=\"Routed Systems Other\" ServerName=\"localhost\"/>\n          <Library DisplayName=\"Inventor Mold Imperial\" InternalName=\"51dd6d3f-f272-4019-a724-002be458a6de\" IsReadOnly=\"True\" LibraryAttachName=\"Inventor Mold Imperial\" ServerName=\"localhost\"/>\n          <Library DisplayName=\"Inventor Mold Meusburger\" InternalName=\"512f8b67-01f6-4de7-9c9d-0e6cc2b64fb6\" IsReadOnly=\"True\" LibraryAttachName=\"Inventor Mold Meusburger\" ServerName=\"localhost\"/>\n          <Library DisplayName=\"Inventor Mold Metric\" InternalName=\"22c81190-8bba-44ee-94bd-e4dfe60d0815\" IsReadOnly=\"True\" LibraryAttachName=\"Inventor Mold Metric\" ServerName=\"localhost\"/>\n          <Library DisplayName=\"Inventor IDF\" InternalName=\"f436ed6d-3e79-40c4-95f7-ef53c8feba9e\" IsReadOnly=\"True\" LibraryAttachName=\"AI2017_Inventor IDF\" ServerName=\"localhost\"/>\n          <Library DisplayName=\"Custom Content\" InternalName=\"8d24ac1f-7b83-45c7-8174-f5f0bfde3674\" IsReadOnly=\"True\" LibraryAttachName=\"Custom\" ServerName=\"localhost\"/>\n        </ConfiguredLibraries>\n      </ContentCenterConfig>"
+   },
+   "vault_server": "",
+   "vault_database": "",
+   "vault_virtual_folder": "",
+   "publish_folder": "",
+   "custom_sections": []
+  }
+ },
+ "syn_shared_overrides.ipj": {
+  "lossless": true,
+  "layout": "inventor",
+  "regenerates": true,
+  "findings": [],
+  "project": {
+   "schemarevid": 14,
+   "contentcenterguid": "d91248cf-46e1-4ed1-8afc-705685f7bbe9",
+   "addin_configs": [
+    [
+     "AutodeskIntent",
+     "<AutodeskIntent configguid=\"aaaaaaaaaaaaaaaaaaaaaaaaaa\"/>"
+    ]
+   ],
+   "project_type": "Shared",
+   "included_project": "",
+   "old_versions_to_keep": 3,
+   "using_unique_filenames": false,
+   "owner": "Engineering",
+   "release_id": "R-2027-01",
+   "imported_comp_folder": "Imported Components",
+   "imported_asm_folder": "Imported Components",
+   "appearance_libraries": [
+    [
+     "",
+     1,
+     false
+    ],
+    [
+     "",
+     2,
+     false
+    ],
+    [
+     "",
+     3,
+     true
+    ]
+   ],
+   "physical_libraries": [
+    [
+     "",
+     2,
+     false
+    ],
+    [
+     "",
+     3,
+     true
+    ]
+   ],
+   "paths": [
+    [
+     "Workspace",
+     "Workspace",
+     ".",
+     null
+    ],
+    [
+     "Workgroup",
+     "Team",
+     "\\\\server\\cad\\team",
+     null
+    ],
+    [
+     "Library",
+     "Purchased",
+     "\\\\server\\cad\\purchased",
+     "$/Libraries/Purchased"
+    ]
+   ],
+   "design_data": {
+    "path": "\\\\server\\cad\\Design Data\\",
+    "vault_path": null,
+    "use_styles": "Yes",
+    "config_xml": null
+   },
+   "templates": {
+    "path": null,
+    "vault_path": null,
+    "use_styles": null,
+    "config_xml": null
+   },
+   "presets": {
+    "path": ".\\Presets\\",
+    "vault_path": null,
+    "use_styles": null,
+    "config_xml": null
+   },
+   "content_center": {
+    "path": "\\\\server\\cad\\Content Center Files\\",
+    "vault_path": "$/Content Center Files",
+    "use_styles": null,
+    "config_xml": "<ContentCenterConfig>\n        <ConfiguredLibraries>\n          <Library DisplayName=\"Inventor ANSI\" InternalName=\"7c4b738e-bdd6-4b6b-8700-5bf288a284c0\" IsReadOnly=\"True\" LibraryAttachName=\"Inventor ANSI\" ServerName=\"localhost\"/>\n          <Library DisplayName=\"Inventor DIN\" InternalName=\"8b22eb12-e4e8-449b-a97b-ae3d5bbbfd12\" IsReadOnly=\"True\" LibraryAttachName=\"Inventor DIN\" ServerName=\"localhost\"/>\n          <Library DisplayName=\"Inventor Feature\" InternalName=\"4367dfbc-f228-49f6-b4da-1a8b0df49d3f\" IsReadOnly=\"True\" LibraryAttachName=\"Inventor Feature\" ServerName=\"localhost\"/>\n          <Library DisplayName=\"Inventor ISO\" InternalName=\"2558d7ef-04ac-43eb-8a44-e3748e516d14\" IsReadOnly=\"True\" LibraryAttachName=\"Inventor ISO\" ServerName=\"localhost\"/>\n          <Library DisplayName=\"Inventor JIS &amp; GB\" InternalName=\"42d3d0d7-3c4b-4ae9-970d-954ebb779482\" IsReadOnly=\"True\" LibraryAttachName=\"Inventor JIS &amp; GB\" ServerName=\"localhost\"/>\n          <Library DisplayName=\"Inventor OTHER\" InternalName=\"271cc27b-14af-45c8-8686-bc036143cde5\" IsReadOnly=\"True\" LibraryAttachName=\"Inventor OTHER\" ServerName=\"localhost\"/>\n          <Library DisplayName=\"Inventor Parker\" InternalName=\"e759e04d-3827-4431-81a2-046642bff133\" IsReadOnly=\"True\" LibraryAttachName=\"Inventor Parker\" ServerName=\"localhost\"/>\n          <Library DisplayName=\"Inventor GOST\" InternalName=\"5d735970-f300-11db-8314-0800200c9a66\" IsReadOnly=\"True\" LibraryAttachName=\"Inventor GOST\" ServerName=\"localhost\"/>\n          <Library DisplayName=\"Inventor Sheet Metal\" InternalName=\"0ec56ebe-3a6e-11dc-8314-0800200c9a66\" IsReadOnly=\"True\" LibraryAttachName=\"Inventor Sheet Metal\" ServerName=\"localhost\"/>\n          <Library DisplayName=\"Routed Systems Other\" InternalName=\"92f6856b-8619-4dbf-ac8b-636b5161eabb\" IsReadOnly=\"True\" LibraryAttachName=\"Routed Systems Other\" ServerName=\"localhost\"/>\n          <Library DisplayName=\"Inventor Mold Imperial\" InternalName=\"51dd6d3f-f272-4019-a724-002be458a6de\" IsReadOnly=\"True\" LibraryAttachName=\"Inventor Mold Imperial\" ServerName=\"localhost\"/>\n          <Library DisplayName=\"Inventor Mold Meusburger\" InternalName=\"512f8b67-01f6-4de7-9c9d-0e6cc2b64fb6\" IsReadOnly=\"True\" LibraryAttachName=\"Inventor Mold Meusburger\" ServerName=\"localhost\"/>\n          <Library DisplayName=\"Inventor Mold Metric\" InternalName=\"22c81190-8bba-44ee-94bd-e4dfe60d0815\" IsReadOnly=\"True\" LibraryAttachName=\"Inventor Mold Metric\" ServerName=\"localhost\"/>\n          <Library DisplayName=\"Inventor IDF\" InternalName=\"f436ed6d-3e79-40c4-95f7-ef53c8feba9e\" IsReadOnly=\"True\" LibraryAttachName=\"AI2017_Inventor IDF\" ServerName=\"localhost\"/>\n          <Library DisplayName=\"Custom Content\" InternalName=\"8d24ac1f-7b83-45c7-8174-f5f0bfde3674\" IsReadOnly=\"True\" LibraryAttachName=\"Custom\" ServerName=\"localhost\"/>\n        </ConfiguredLibraries>\n      </ContentCenterConfig>"
+   },
+   "vault_server": "",
+   "vault_database": "",
+   "vault_virtual_folder": "",
+   "publish_folder": "",
+   "custom_sections": []
+  }
+ },
+ "syn_vault_included_custom.ipj": {
+  "lossless": true,
+  "layout": "default",
+  "regenerates": true,
+  "findings": [],
+  "project": {
+   "schemarevid": 14,
+   "contentcenterguid": "d91248cf-46e1-4ed1-8afc-705685f7bbe9",
+   "addin_configs": [
+    [
+     "AutodeskIntent",
+     "<AutodeskIntent configguid=\"aaaaaaaaaaaaaaaaaaaaaaaaaa\"/>"
+    ]
+   ],
+   "project_type": "Vault",
+   "included_project": "..\\Company.ipj",
+   "old_versions_to_keep": 1,
+   "using_unique_filenames": false,
+   "owner": "",
+   "release_id": "",
+   "imported_comp_folder": "Imported Components",
+   "imported_asm_folder": "Imported Components",
+   "appearance_libraries": [
+    [
+     "",
+     1,
+     false
+    ],
+    [
+     "",
+     2,
+     false
+    ],
+    [
+     "",
+     3,
+     true
+    ]
+   ],
+   "physical_libraries": [
+    [
+     "",
+     2,
+     false
+    ],
+    [
+     "",
+     3,
+     true
+    ]
+   ],
+   "paths": [
+    [
+     "Workspace",
+     "Workspace",
+     ".\\Designs",
+     null
+    ]
+   ],
+   "design_data": {
+    "path": null,
+    "vault_path": null,
+    "use_styles": "No",
+    "config_xml": null
+   },
+   "templates": {
+    "path": null,
+    "vault_path": null,
+    "use_styles": null,
+    "config_xml": null
+   },
+   "presets": {
+    "path": null,
+    "vault_path": null,
+    "use_styles": null,
+    "config_xml": null
+   },
+   "content_center": {
+    "path": null,
+    "vault_path": null,
+    "use_styles": null,
+    "config_xml": "<ContentCenterConfig>\n        <ConfiguredLibraries>\n          <Library DisplayName=\"Inventor ANSI\" ServerName=\"localhost\" LibraryAttachName=\"Inventor ANSI\" InternalName=\"7c4b738e-bdd6-4b6b-8700-5bf288a284c0\" IsReadOnly=\"True\"/>\n          <Library DisplayName=\"Inventor DIN\" ServerName=\"localhost\" LibraryAttachName=\"Inventor DIN\" InternalName=\"8b22eb12-e4e8-449b-a97b-ae3d5bbbfd12\" IsReadOnly=\"True\"/>\n          <Library DisplayName=\"Inventor Feature\" ServerName=\"localhost\" LibraryAttachName=\"Inventor Feature\" InternalName=\"4367dfbc-f228-49f6-b4da-1a8b0df49d3f\" IsReadOnly=\"True\"/>\n          <Library DisplayName=\"Inventor ISO\" ServerName=\"localhost\" LibraryAttachName=\"Inventor ISO\" InternalName=\"2558d7ef-04ac-43eb-8a44-e3748e516d14\" IsReadOnly=\"True\"/>\n          <Library DisplayName=\"Inventor JIS &amp; GB\" ServerName=\"localhost\" LibraryAttachName=\"Inventor JIS &amp; GB\" InternalName=\"42d3d0d7-3c4b-4ae9-970d-954ebb779482\" IsReadOnly=\"True\"/>\n          <Library DisplayName=\"Inventor OTHER\" ServerName=\"localhost\" LibraryAttachName=\"Inventor OTHER\" InternalName=\"271cc27b-14af-45c8-8686-bc036143cde5\" IsReadOnly=\"True\"/>\n          <Library DisplayName=\"Inventor Parker\" ServerName=\"localhost\" LibraryAttachName=\"Inventor Parker\" InternalName=\"e759e04d-3827-4431-81a2-046642bff133\" IsReadOnly=\"True\"/>\n          <Library DisplayName=\"Inventor GOST\" ServerName=\"localhost\" LibraryAttachName=\"Inventor GOST\" InternalName=\"5d735970-f300-11db-8314-0800200c9a66\" IsReadOnly=\"True\"/>\n          <Library DisplayName=\"Inventor Sheet Metal\" ServerName=\"localhost\" LibraryAttachName=\"Inventor Sheet Metal\" InternalName=\"0ec56ebe-3a6e-11dc-8314-0800200c9a66\" IsReadOnly=\"True\"/>\n          <Library DisplayName=\"Routed Systems Other\" ServerName=\"localhost\" LibraryAttachName=\"Routed Systems Other\" InternalName=\"92f6856b-8619-4dbf-ac8b-636b5161eabb\" IsReadOnly=\"True\"/>\n          <Library DisplayName=\"Inventor Mold Imperial\" ServerName=\"localhost\" LibraryAttachName=\"Inventor Mold Imperial\" InternalName=\"51dd6d3f-f272-4019-a724-002be458a6de\" IsReadOnly=\"True\"/>\n          <Library DisplayName=\"Inventor Mold Meusburger\" ServerName=\"localhost\" LibraryAttachName=\"Inventor Mold Meusburger\" InternalName=\"512f8b67-01f6-4de7-9c9d-0e6cc2b64fb6\" IsReadOnly=\"True\"/>\n          <Library DisplayName=\"Inventor Mold Metric\" ServerName=\"localhost\" LibraryAttachName=\"Inventor Mold Metric\" InternalName=\"22c81190-8bba-44ee-94bd-e4dfe60d0815\" IsReadOnly=\"True\"/>\n          <Library DisplayName=\"Inventor IDF\" ServerName=\"localhost\" LibraryAttachName=\"AI2017_Inventor IDF\" InternalName=\"f436ed6d-3e79-40c4-95f7-ef53c8feba9e\" IsReadOnly=\"True\"/>\n          <Library DisplayName=\"Custom Content\" ServerName=\"localhost\" LibraryAttachName=\"Custom\" InternalName=\"8d24ac1f-7b83-45c7-8174-f5f0bfde3674\" IsReadOnly=\"True\"/>\n        </ConfiguredLibraries>\n      </ContentCenterConfig>"
+   },
+   "vault_server": "vaultsrv",
+   "vault_database": "Vault",
+   "vault_virtual_folder": "$/Designs",
+   "publish_folder": "$/Published",
+   "custom_sections": [
+    [
+     "MyAddIn",
+     "<MyAddIn><Setting name=\"a\">1</Setting></MyAddIn>"
+    ]
+   ]
+  }
+ },
+ "syn_workspace_libraries.ipj": {
+  "lossless": true,
+  "layout": "inventor",
+  "regenerates": true,
+  "findings": [],
+  "project": {
+   "schemarevid": 14,
+   "contentcenterguid": "d91248cf-46e1-4ed1-8afc-705685f7bbe9",
+   "addin_configs": [
+    [
+     "AutodeskIntent",
+     "<AutodeskIntent configguid=\"aaaaaaaaaaaaaaaaaaaaaaaaaa\"/>"
+    ]
+   ],
+   "project_type": "None",
+   "included_project": "",
+   "old_versions_to_keep": 1,
+   "using_unique_filenames": true,
+   "owner": "",
+   "release_id": "",
+   "imported_comp_folder": "Imported Components",
+   "imported_asm_folder": "Imported Components",
+   "appearance_libraries": [
+    [
+     "",
+     1,
+     false
+    ],
+    [
+     "",
+     2,
+     false
+    ],
+    [
+     "",
+     3,
+     true
+    ]
+   ],
+   "physical_libraries": [
+    [
+     "",
+     2,
+     false
+    ],
+    [
+     "",
+     3,
+     true
+    ]
+   ],
+   "paths": [
+    [
+     "Workspace",
+     "Workspace",
+     ".",
+     null
+    ],
+    [
+     "Library",
+     "Vendor Parts",
+     "..\\Libraries\\Vendor",
+     null
+    ],
+    [
+     "Library",
+     "Standard",
+     "C:\\CAD\\Standard Library\\",
+     null
+    ],
+    [
+     "FrequentlyUsedFolder",
+     "Fasteners",
+     "Workspace\\Fasteners",
+     null
+    ],
+    [
+     "FrequentlyUsedFolder",
+     "Frames",
+     "Workspace\\Frames",
+     null
+    ]
+   ],
+   "design_data": {
+    "path": null,
+    "vault_path": null,
+    "use_styles": "Read Only",
+    "config_xml": null
+   },
+   "templates": {
+    "path": ".\\Templates\\",
+    "vault_path": null,
+    "use_styles": null,
+    "config_xml": null
+   },
+   "presets": {
+    "path": null,
+    "vault_path": null,
+    "use_styles": null,
+    "config_xml": null
+   },
+   "content_center": {
+    "path": null,
+    "vault_path": null,
+    "use_styles": null,
+    "config_xml": "<ContentCenterConfig>\n        <ConfiguredLibraries>\n          <Library DisplayName=\"Inventor ANSI\" InternalName=\"7c4b738e-bdd6-4b6b-8700-5bf288a284c0\" IsReadOnly=\"True\" LibraryAttachName=\"Inventor ANSI\" ServerName=\"localhost\"/>\n          <Library DisplayName=\"Inventor DIN\" InternalName=\"8b22eb12-e4e8-449b-a97b-ae3d5bbbfd12\" IsReadOnly=\"True\" LibraryAttachName=\"Inventor DIN\" ServerName=\"localhost\"/>\n          <Library DisplayName=\"Inventor Feature\" InternalName=\"4367dfbc-f228-49f6-b4da-1a8b0df49d3f\" IsReadOnly=\"True\" LibraryAttachName=\"Inventor Feature\" ServerName=\"localhost\"/>\n          <Library DisplayName=\"Inventor ISO\" InternalName=\"2558d7ef-04ac-43eb-8a44-e3748e516d14\" IsReadOnly=\"True\" LibraryAttachName=\"Inventor ISO\" ServerName=\"localhost\"/>\n          <Library DisplayName=\"Inventor JIS &amp; GB\" InternalName=\"42d3d0d7-3c4b-4ae9-970d-954ebb779482\" IsReadOnly=\"True\" LibraryAttachName=\"Inventor JIS &amp; GB\" ServerName=\"localhost\"/>\n          <Library DisplayName=\"Inventor OTHER\" InternalName=\"271cc27b-14af-45c8-8686-bc036143cde5\" IsReadOnly=\"True\" LibraryAttachName=\"Inventor OTHER\" ServerName=\"localhost\"/>\n          <Library DisplayName=\"Inventor Parker\" InternalName=\"e759e04d-3827-4431-81a2-046642bff133\" IsReadOnly=\"True\" LibraryAttachName=\"Inventor Parker\" ServerName=\"localhost\"/>\n          <Library DisplayName=\"Inventor GOST\" InternalName=\"5d735970-f300-11db-8314-0800200c9a66\" IsReadOnly=\"True\" LibraryAttachName=\"Inventor GOST\" ServerName=\"localhost\"/>\n          <Library DisplayName=\"Inventor Sheet Metal\" InternalName=\"0ec56ebe-3a6e-11dc-8314-0800200c9a66\" IsReadOnly=\"True\" LibraryAttachName=\"Inventor Sheet Metal\" ServerName=\"localhost\"/>\n          <Library DisplayName=\"Routed Systems Other\" InternalName=\"92f6856b-8619-4dbf-ac8b-636b5161eabb\" IsReadOnly=\"True\" LibraryAttachName=\"Routed Systems Other\" ServerName=\"localhost\"/>\n          <Library DisplayName=\"Inventor Mold Imperial\" InternalName=\"51dd6d3f-f272-4019-a724-002be458a6de\" IsReadOnly=\"True\" LibraryAttachName=\"Inventor Mold Imperial\" ServerName=\"localhost\"/>\n          <Library DisplayName=\"Inventor Mold Meusburger\" InternalName=\"512f8b67-01f6-4de7-9c9d-0e6cc2b64fb6\" IsReadOnly=\"True\" LibraryAttachName=\"Inventor Mold Meusburger\" ServerName=\"localhost\"/>\n          <Library DisplayName=\"Inventor Mold Metric\" InternalName=\"22c81190-8bba-44ee-94bd-e4dfe60d0815\" IsReadOnly=\"True\" LibraryAttachName=\"Inventor Mold Metric\" ServerName=\"localhost\"/>\n          <Library DisplayName=\"Inventor IDF\" InternalName=\"f436ed6d-3e79-40c4-95f7-ef53c8feba9e\" IsReadOnly=\"True\" LibraryAttachName=\"AI2017_Inventor IDF\" ServerName=\"localhost\"/>\n          <Library DisplayName=\"Custom Content\" InternalName=\"8d24ac1f-7b83-45c7-8174-f5f0bfde3674\" IsReadOnly=\"True\" LibraryAttachName=\"Custom\" ServerName=\"localhost\"/>\n        </ConfiguredLibraries>\n      </ContentCenterConfig>"
+   },
+   "vault_server": "",
+   "vault_database": "",
+   "vault_virtual_folder": "",
+   "publish_folder": "",
+   "custom_sections": []
+  }
+ },
+ "var_crlf.ipj": {
+  "lossless": true,
+  "layout": "default",
+  "regenerates": false,
+  "findings": [],
+  "project": {
+   "schemarevid": 14,
+   "contentcenterguid": "d91248cf-46e1-4ed1-8afc-705685f7bbe9",
+   "addin_configs": [
+    [
+     "AutodeskIntent",
+     "<AutodeskIntent configguid=\"aaaaaaaaaaaaaaaaaaaaaaaaaa\"/>"
+    ]
+   ],
+   "project_type": "Vault",
+   "included_project": "..\\Company.ipj",
+   "old_versions_to_keep": 1,
+   "using_unique_filenames": false,
+   "owner": "",
+   "release_id": "",
+   "imported_comp_folder": "Imported Components",
+   "imported_asm_folder": "Imported Components",
+   "appearance_libraries": [
+    [
+     "",
+     1,
+     false
+    ],
+    [
+     "",
+     2,
+     false
+    ],
+    [
+     "",
+     3,
+     true
+    ]
+   ],
+   "physical_libraries": [
+    [
+     "",
+     2,
+     false
+    ],
+    [
+     "",
+     3,
+     true
+    ]
+   ],
+   "paths": [
+    [
+     "Workspace",
+     "Workspace",
+     ".\\Designs",
+     null
+    ]
+   ],
+   "design_data": {
+    "path": null,
+    "vault_path": null,
+    "use_styles": "No",
+    "config_xml": null
+   },
+   "templates": {
+    "path": null,
+    "vault_path": null,
+    "use_styles": null,
+    "config_xml": null
+   },
+   "presets": {
+    "path": null,
+    "vault_path": null,
+    "use_styles": null,
+    "config_xml": null
+   },
+   "content_center": {
+    "path": null,
+    "vault_path": null,
+    "use_styles": null,
+    "config_xml": "<ContentCenterConfig>\r\n        <ConfiguredLibraries>\r\n          <Library DisplayName=\"Inventor ANSI\" ServerName=\"localhost\" LibraryAttachName=\"Inventor ANSI\" InternalName=\"7c4b738e-bdd6-4b6b-8700-5bf288a284c0\" IsReadOnly=\"True\"/>\r\n          <Library DisplayName=\"Inventor DIN\" ServerName=\"localhost\" LibraryAttachName=\"Inventor DIN\" InternalName=\"8b22eb12-e4e8-449b-a97b-ae3d5bbbfd12\" IsReadOnly=\"True\"/>\r\n          <Library DisplayName=\"Inventor Feature\" ServerName=\"localhost\" LibraryAttachName=\"Inventor Feature\" InternalName=\"4367dfbc-f228-49f6-b4da-1a8b0df49d3f\" IsReadOnly=\"True\"/>\r\n          <Library DisplayName=\"Inventor ISO\" ServerName=\"localhost\" LibraryAttachName=\"Inventor ISO\" InternalName=\"2558d7ef-04ac-43eb-8a44-e3748e516d14\" IsReadOnly=\"True\"/>\r\n          <Library DisplayName=\"Inventor JIS &amp; GB\" ServerName=\"localhost\" LibraryAttachName=\"Inventor JIS &amp; GB\" InternalName=\"42d3d0d7-3c4b-4ae9-970d-954ebb779482\" IsReadOnly=\"True\"/>\r\n          <Library DisplayName=\"Inventor OTHER\" ServerName=\"localhost\" LibraryAttachName=\"Inventor OTHER\" InternalName=\"271cc27b-14af-45c8-8686-bc036143cde5\" IsReadOnly=\"True\"/>\r\n          <Library DisplayName=\"Inventor Parker\" ServerName=\"localhost\" LibraryAttachName=\"Inventor Parker\" InternalName=\"e759e04d-3827-4431-81a2-046642bff133\" IsReadOnly=\"True\"/>\r\n          <Library DisplayName=\"Inventor GOST\" ServerName=\"localhost\" LibraryAttachName=\"Inventor GOST\" InternalName=\"5d735970-f300-11db-8314-0800200c9a66\" IsReadOnly=\"True\"/>\r\n          <Library DisplayName=\"Inventor Sheet Metal\" ServerName=\"localhost\" LibraryAttachName=\"Inventor Sheet Metal\" InternalName=\"0ec56ebe-3a6e-11dc-8314-0800200c9a66\" IsReadOnly=\"True\"/>\r\n          <Library DisplayName=\"Routed Systems Other\" ServerName=\"localhost\" LibraryAttachName=\"Routed Systems Other\" InternalName=\"92f6856b-8619-4dbf-ac8b-636b5161eabb\" IsReadOnly=\"True\"/>\r\n          <Library DisplayName=\"Inventor Mold Imperial\" ServerName=\"localhost\" LibraryAttachName=\"Inventor Mold Imperial\" InternalName=\"51dd6d3f-f272-4019-a724-002be458a6de\" IsReadOnly=\"True\"/>\r\n          <Library DisplayName=\"Inventor Mold Meusburger\" ServerName=\"localhost\" LibraryAttachName=\"Inventor Mold Meusburger\" InternalName=\"512f8b67-01f6-4de7-9c9d-0e6cc2b64fb6\" IsReadOnly=\"True\"/>\r\n          <Library DisplayName=\"Inventor Mold Metric\" ServerName=\"localhost\" LibraryAttachName=\"Inventor Mold Metric\" InternalName=\"22c81190-8bba-44ee-94bd-e4dfe60d0815\" IsReadOnly=\"True\"/>\r\n          <Library DisplayName=\"Inventor IDF\" ServerName=\"localhost\" LibraryAttachName=\"AI2017_Inventor IDF\" InternalName=\"f436ed6d-3e79-40c4-95f7-ef53c8feba9e\" IsReadOnly=\"True\"/>\r\n          <Library DisplayName=\"Custom Content\" ServerName=\"localhost\" LibraryAttachName=\"Custom\" InternalName=\"8d24ac1f-7b83-45c7-8174-f5f0bfde3674\" IsReadOnly=\"True\"/>\r\n        </ConfiguredLibraries>\r\n      </ContentCenterConfig>"
+   },
+   "vault_server": "vaultsrv",
+   "vault_database": "Vault",
+   "vault_virtual_folder": "$/Designs",
+   "publish_folder": "$/Published",
+   "custom_sections": [
+    [
+     "MyAddIn",
+     "<MyAddIn><Setting name=\"a\">1</Setting></MyAddIn>"
+    ]
+   ]
+  }
+ },
+ "var_invalid.ipj": {
+  "lossless": true,
+  "layout": "default",
+  "regenerates": false,
+  "findings": [
+   "root: schemarevid=9 outside 10..14 (Inventor rejects the file)",
+   "InventorProject/AddInConfigs: ignored by Inventor below schemarevid 13",
+   "value InventorProject/ProjectOptions/ProjectType='vault' not in ['None', 'Shared', 'Semi-Isolated', 'Vault'] (case differs; Inventor compares case-insensitively)",
+   "value InventorProject/ProjectPaths/ProjectPath@pathtype='Local' not in ['Workspace', 'Workgroup', 'Library', 'FrequentlyUsedFolder']",
+   "InventorProject/ProjectPaths/ProjectPath: empty PathName or Path (Inventor ignores the entry)",
+   "InventorProject/CustomSelections: ignored by Inventor below schemarevid 14",
+   "unknown element InventorProject/Extra"
+  ],
+  "project": {
+   "schemarevid": 9,
+   "contentcenterguid": "d91248cf-46e1-4ed1-8afc-705685f7bbe9",
+   "addin_configs": [
+    [
+     "AutodeskIntent",
+     "<AutodeskIntent configguid=\"aaaaaaaaaaaaaaaaaaaaaaaaaa\"/>"
+    ]
+   ],
+   "project_type": "vault",
+   "included_project": "..\\Company.ipj",
+   "old_versions_to_keep": 1,
+   "using_unique_filenames": false,
+   "owner": "",
+   "release_id": "",
+   "imported_comp_folder": "Imported Components",
+   "imported_asm_folder": "Imported Components",
+   "appearance_libraries": [
+    [
+     "",
+     1,
+     false
+    ],
+    [
+     "",
+     2,
+     false
+    ],
+    [
+     "",
+     3,
+     true
+    ]
+   ],
+   "physical_libraries": [
+    [
+     "",
+     2,
+     false
+    ],
+    [
+     "",
+     3,
+     true
+    ]
+   ],
+   "paths": [
+    [
+     "Workspace",
+     "Workspace",
+     ".\\Designs",
+     null
+    ],
+    [
+     "Local",
+     "a",
+     "",
+     null
+    ]
+   ],
+   "design_data": {
+    "path": null,
+    "vault_path": null,
+    "use_styles": "No",
+    "config_xml": null
+   },
+   "templates": {
+    "path": null,
+    "vault_path": null,
+    "use_styles": null,
+    "config_xml": null
+   },
+   "presets": {
+    "path": null,
+    "vault_path": null,
+    "use_styles": null,
+    "config_xml": null
+   },
+   "content_center": {
+    "path": null,
+    "vault_path": null,
+    "use_styles": null,
+    "config_xml": "<ContentCenterConfig>\n        <ConfiguredLibraries>\n          <Library DisplayName=\"Inventor ANSI\" ServerName=\"localhost\" LibraryAttachName=\"Inventor ANSI\" InternalName=\"7c4b738e-bdd6-4b6b-8700-5bf288a284c0\" IsReadOnly=\"True\"/>\n          <Library DisplayName=\"Inventor DIN\" ServerName=\"localhost\" LibraryAttachName=\"Inventor DIN\" InternalName=\"8b22eb12-e4e8-449b-a97b-ae3d5bbbfd12\" IsReadOnly=\"True\"/>\n          <Library DisplayName=\"Inventor Feature\" ServerName=\"localhost\" LibraryAttachName=\"Inventor Feature\" InternalName=\"4367dfbc-f228-49f6-b4da-1a8b0df49d3f\" IsReadOnly=\"True\"/>\n          <Library DisplayName=\"Inventor ISO\" ServerName=\"localhost\" LibraryAttachName=\"Inventor ISO\" InternalName=\"2558d7ef-04ac-43eb-8a44-e3748e516d14\" IsReadOnly=\"True\"/>\n          <Library DisplayName=\"Inventor JIS &amp; GB\" ServerName=\"localhost\" LibraryAttachName=\"Inventor JIS &amp; GB\" InternalName=\"42d3d0d7-3c4b-4ae9-970d-954ebb779482\" IsReadOnly=\"True\"/>\n          <Library DisplayName=\"Inventor OTHER\" ServerName=\"localhost\" LibraryAttachName=\"Inventor OTHER\" InternalName=\"271cc27b-14af-45c8-8686-bc036143cde5\" IsReadOnly=\"True\"/>\n          <Library DisplayName=\"Inventor Parker\" ServerName=\"localhost\" LibraryAttachName=\"Inventor Parker\" InternalName=\"e759e04d-3827-4431-81a2-046642bff133\" IsReadOnly=\"True\"/>\n          <Library DisplayName=\"Inventor GOST\" ServerName=\"localhost\" LibraryAttachName=\"Inventor GOST\" InternalName=\"5d735970-f300-11db-8314-0800200c9a66\" IsReadOnly=\"True\"/>\n          <Library DisplayName=\"Inventor Sheet Metal\" ServerName=\"localhost\" LibraryAttachName=\"Inventor Sheet Metal\" InternalName=\"0ec56ebe-3a6e-11dc-8314-0800200c9a66\" IsReadOnly=\"True\"/>\n          <Library DisplayName=\"Routed Systems Other\" ServerName=\"localhost\" LibraryAttachName=\"Routed Systems Other\" InternalName=\"92f6856b-8619-4dbf-ac8b-636b5161eabb\" IsReadOnly=\"True\"/>\n          <Library DisplayName=\"Inventor Mold Imperial\" ServerName=\"localhost\" LibraryAttachName=\"Inventor Mold Imperial\" InternalName=\"51dd6d3f-f272-4019-a724-002be458a6de\" IsReadOnly=\"True\"/>\n          <Library DisplayName=\"Inventor Mold Meusburger\" ServerName=\"localhost\" LibraryAttachName=\"Inventor Mold Meusburger\" InternalName=\"512f8b67-01f6-4de7-9c9d-0e6cc2b64fb6\" IsReadOnly=\"True\"/>\n          <Library DisplayName=\"Inventor Mold Metric\" ServerName=\"localhost\" LibraryAttachName=\"Inventor Mold Metric\" InternalName=\"22c81190-8bba-44ee-94bd-e4dfe60d0815\" IsReadOnly=\"True\"/>\n          <Library DisplayName=\"Inventor IDF\" ServerName=\"localhost\" LibraryAttachName=\"AI2017_Inventor IDF\" InternalName=\"f436ed6d-3e79-40c4-95f7-ef53c8feba9e\" IsReadOnly=\"True\"/>\n          <Library DisplayName=\"Custom Content\" ServerName=\"localhost\" LibraryAttachName=\"Custom\" InternalName=\"8d24ac1f-7b83-45c7-8174-f5f0bfde3674\" IsReadOnly=\"True\"/>\n        </ConfiguredLibraries>\n      </ContentCenterConfig>"
+   },
+   "vault_server": "vaultsrv",
+   "vault_database": "Vault",
+   "vault_virtual_folder": "$/Designs",
+   "publish_folder": "$/Published",
+   "custom_sections": [
+    [
+     "MyAddIn",
+     "<MyAddIn><Setting name=\"a\">1</Setting></MyAddIn>"
+    ]
+   ]
+  }
+ },
+ "var_legacy.ipj": {
+  "lossless": true,
+  "layout": "default",
+  "regenerates": false,
+  "findings": [
+   "InventorProject/AddInConfigs: ignored by Inventor below schemarevid 13",
+   "legacy element InventorProject/FolderOptions/StylesFolder (read only by migration, never written)",
+   "legacy element InventorProject/FolderOptions/StylesFolder/Path (read only by migration, never written)",
+   "legacy element InventorProject/FolderOptions/StylesFolder/UseFolder (read only by migration, never written)",
+   "InventorProject/CustomSelections: ignored by Inventor below schemarevid 14"
+  ],
+  "project": {
+   "schemarevid": 11,
+   "contentcenterguid": "d91248cf-46e1-4ed1-8afc-705685f7bbe9",
+   "addin_configs": [
+    [
+     "AutodeskIntent",
+     "<AutodeskIntent configguid=\"aaaaaaaaaaaaaaaaaaaaaaaaaa\"/>"
+    ]
+   ],
+   "project_type": "Vault",
+   "included_project": "..\\Company.ipj",
+   "old_versions_to_keep": 1,
+   "using_unique_filenames": false,
+   "owner": "",
+   "release_id": "",
+   "imported_comp_folder": "Imported Components",
+   "imported_asm_folder": "Imported Components",
+   "appearance_libraries": [
+    [
+     "",
+     1,
+     false
+    ],
+    [
+     "",
+     2,
+     false
+    ],
+    [
+     "",
+     3,
+     true
+    ]
+   ],
+   "physical_libraries": [
+    [
+     "",
+     2,
+     false
+    ],
+    [
+     "",
+     3,
+     true
+    ]
+   ],
+   "paths": [
+    [
+     "Workspace",
+     "Workspace",
+     ".\\Designs",
+     null
+    ]
+   ],
+   "design_data": {
+    "path": "C:\\S\\",
+    "vault_path": null,
+    "use_styles": "No",
+    "config_xml": null
+   },
+   "templates": {
+    "path": null,
+    "vault_path": null,
+    "use_styles": null,
+    "config_xml": null
+   },
+   "presets": {
+    "path": null,
+    "vault_path": null,
+    "use_styles": null,
+    "config_xml": null
+   },
+   "content_center": {
+    "path": null,
+    "vault_path": null,
+    "use_styles": null,
+    "config_xml": "<ContentCenterConfig>\n        <ConfiguredLibraries>\n          <Library DisplayName=\"Inventor ANSI\" ServerName=\"localhost\" LibraryAttachName=\"Inventor ANSI\" InternalName=\"7c4b738e-bdd6-4b6b-8700-5bf288a284c0\" IsReadOnly=\"True\"/>\n          <Library DisplayName=\"Inventor DIN\" ServerName=\"localhost\" LibraryAttachName=\"Inventor DIN\" InternalName=\"8b22eb12-e4e8-449b-a97b-ae3d5bbbfd12\" IsReadOnly=\"True\"/>\n          <Library DisplayName=\"Inventor Feature\" ServerName=\"localhost\" LibraryAttachName=\"Inventor Feature\" InternalName=\"4367dfbc-f228-49f6-b4da-1a8b0df49d3f\" IsReadOnly=\"True\"/>\n          <Library DisplayName=\"Inventor ISO\" ServerName=\"localhost\" LibraryAttachName=\"Inventor ISO\" InternalName=\"2558d7ef-04ac-43eb-8a44-e3748e516d14\" IsReadOnly=\"True\"/>\n          <Library DisplayName=\"Inventor JIS &amp; GB\" ServerName=\"localhost\" LibraryAttachName=\"Inventor JIS &amp; GB\" InternalName=\"42d3d0d7-3c4b-4ae9-970d-954ebb779482\" IsReadOnly=\"True\"/>\n          <Library DisplayName=\"Inventor OTHER\" ServerName=\"localhost\" LibraryAttachName=\"Inventor OTHER\" InternalName=\"271cc27b-14af-45c8-8686-bc036143cde5\" IsReadOnly=\"True\"/>\n          <Library DisplayName=\"Inventor Parker\" ServerName=\"localhost\" LibraryAttachName=\"Inventor Parker\" InternalName=\"e759e04d-3827-4431-81a2-046642bff133\" IsReadOnly=\"True\"/>\n          <Library DisplayName=\"Inventor GOST\" ServerName=\"localhost\" LibraryAttachName=\"Inventor GOST\" InternalName=\"5d735970-f300-11db-8314-0800200c9a66\" IsReadOnly=\"True\"/>\n          <Library DisplayName=\"Inventor Sheet Metal\" ServerName=\"localhost\" LibraryAttachName=\"Inventor Sheet Metal\" InternalName=\"0ec56ebe-3a6e-11dc-8314-0800200c9a66\" IsReadOnly=\"True\"/>\n          <Library DisplayName=\"Routed Systems Other\" ServerName=\"localhost\" LibraryAttachName=\"Routed Systems Other\" InternalName=\"92f6856b-8619-4dbf-ac8b-636b5161eabb\" IsReadOnly=\"True\"/>\n          <Library DisplayName=\"Inventor Mold Imperial\" ServerName=\"localhost\" LibraryAttachName=\"Inventor Mold Imperial\" InternalName=\"51dd6d3f-f272-4019-a724-002be458a6de\" IsReadOnly=\"True\"/>\n          <Library DisplayName=\"Inventor Mold Meusburger\" ServerName=\"localhost\" LibraryAttachName=\"Inventor Mold Meusburger\" InternalName=\"512f8b67-01f6-4de7-9c9d-0e6cc2b64fb6\" IsReadOnly=\"True\"/>\n          <Library DisplayName=\"Inventor Mold Metric\" ServerName=\"localhost\" LibraryAttachName=\"Inventor Mold Metric\" InternalName=\"22c81190-8bba-44ee-94bd-e4dfe60d0815\" IsReadOnly=\"True\"/>\n          <Library DisplayName=\"Inventor IDF\" ServerName=\"localhost\" LibraryAttachName=\"AI2017_Inventor IDF\" InternalName=\"f436ed6d-3e79-40c4-95f7-ef53c8feba9e\" IsReadOnly=\"True\"/>\n          <Library DisplayName=\"Custom Content\" ServerName=\"localhost\" LibraryAttachName=\"Custom\" InternalName=\"8d24ac1f-7b83-45c7-8174-f5f0bfde3674\" IsReadOnly=\"True\"/>\n        </ConfiguredLibraries>\n      </ContentCenterConfig>"
+   },
+   "vault_server": "vaultsrv",
+   "vault_database": "Vault",
+   "vault_virtual_folder": "$/Designs",
+   "publish_folder": "$/Published",
+   "custom_sections": [
+    [
+     "Mine",
+     "<Mine a=\"1\"><b/></Mine>"
+    ],
+    [
+     "MyAddIn",
+     "<MyAddIn><Setting name=\"a\">1</Setting></MyAddIn>"
+    ]
+   ]
+  }
+ },
+ "var_version_only.ipj": {
+  "lossless": true,
+  "layout": "default",
+  "regenerates": false,
+  "findings": [],
+  "project": {
+   "schemarevid": 10,
+   "contentcenterguid": "d91248cf-46e1-4ed1-8afc-705685f7bbe9",
+   "addin_configs": [
+    [
+     "AutodeskIntent",
+     "<AutodeskIntent configguid=\"aaaaaaaaaaaaaaaaaaaaaaaaaa\"/>"
+    ]
+   ],
+   "project_type": "Vault",
+   "included_project": "..\\Company.ipj",
+   "old_versions_to_keep": 1,
+   "using_unique_filenames": false,
+   "owner": "",
+   "release_id": "",
+   "imported_comp_folder": "Imported Components",
+   "imported_asm_folder": "Imported Components",
+   "appearance_libraries": [
+    [
+     "",
+     1,
+     false
+    ],
+    [
+     "",
+     2,
+     false
+    ],
+    [
+     "",
+     3,
+     true
+    ]
+   ],
+   "physical_libraries": [
+    [
+     "",
+     2,
+     false
+    ],
+    [
+     "",
+     3,
+     true
+    ]
+   ],
+   "paths": [
+    [
+     "Workspace",
+     "Workspace",
+     ".\\Designs",
+     null
+    ]
+   ],
+   "design_data": {
+    "path": null,
+    "vault_path": null,
+    "use_styles": "No",
+    "config_xml": null
+   },
+   "templates": {
+    "path": null,
+    "vault_path": null,
+    "use_styles": null,
+    "config_xml": null
+   },
+   "presets": {
+    "path": null,
+    "vault_path": null,
+    "use_styles": null,
+    "config_xml": null
+   },
+   "content_center": {
+    "path": null,
+    "vault_path": null,
+    "use_styles": null,
+    "config_xml": "<ContentCenterConfig>\n        <ConfiguredLibraries>\n          <Library DisplayName=\"Inventor ANSI\" ServerName=\"localhost\" LibraryAttachName=\"Inventor ANSI\" InternalName=\"7c4b738e-bdd6-4b6b-8700-5bf288a284c0\" IsReadOnly=\"True\"/>\n          <Library DisplayName=\"Inventor DIN\" ServerName=\"localhost\" LibraryAttachName=\"Inventor DIN\" InternalName=\"8b22eb12-e4e8-449b-a97b-ae3d5bbbfd12\" IsReadOnly=\"True\"/>\n          <Library DisplayName=\"Inventor Feature\" ServerName=\"localhost\" LibraryAttachName=\"Inventor Feature\" InternalName=\"4367dfbc-f228-49f6-b4da-1a8b0df49d3f\" IsReadOnly=\"True\"/>\n          <Library DisplayName=\"Inventor ISO\" ServerName=\"localhost\" LibraryAttachName=\"Inventor ISO\" InternalName=\"2558d7ef-04ac-43eb-8a44-e3748e516d14\" IsReadOnly=\"True\"/>\n          <Library DisplayName=\"Inventor JIS &amp; GB\" ServerName=\"localhost\" LibraryAttachName=\"Inventor JIS &amp; GB\" InternalName=\"42d3d0d7-3c4b-4ae9-970d-954ebb779482\" IsReadOnly=\"True\"/>\n          <Library DisplayName=\"Inventor OTHER\" ServerName=\"localhost\" LibraryAttachName=\"Inventor OTHER\" InternalName=\"271cc27b-14af-45c8-8686-bc036143cde5\" IsReadOnly=\"True\"/>\n          <Library DisplayName=\"Inventor Parker\" ServerName=\"localhost\" LibraryAttachName=\"Inventor Parker\" InternalName=\"e759e04d-3827-4431-81a2-046642bff133\" IsReadOnly=\"True\"/>\n          <Library DisplayName=\"Inventor GOST\" ServerName=\"localhost\" LibraryAttachName=\"Inventor GOST\" InternalName=\"5d735970-f300-11db-8314-0800200c9a66\" IsReadOnly=\"True\"/>\n          <Library DisplayName=\"Inventor Sheet Metal\" ServerName=\"localhost\" LibraryAttachName=\"Inventor Sheet Metal\" InternalName=\"0ec56ebe-3a6e-11dc-8314-0800200c9a66\" IsReadOnly=\"True\"/>\n          <Library DisplayName=\"Routed Systems Other\" ServerName=\"localhost\" LibraryAttachName=\"Routed Systems Other\" InternalName=\"92f6856b-8619-4dbf-ac8b-636b5161eabb\" IsReadOnly=\"True\"/>\n          <Library DisplayName=\"Inventor Mold Imperial\" ServerName=\"localhost\" LibraryAttachName=\"Inventor Mold Imperial\" InternalName=\"51dd6d3f-f272-4019-a724-002be458a6de\" IsReadOnly=\"True\"/>\n          <Library DisplayName=\"Inventor Mold Meusburger\" ServerName=\"localhost\" LibraryAttachName=\"Inventor Mold Meusburger\" InternalName=\"512f8b67-01f6-4de7-9c9d-0e6cc2b64fb6\" IsReadOnly=\"True\"/>\n          <Library DisplayName=\"Inventor Mold Metric\" ServerName=\"localhost\" LibraryAttachName=\"Inventor Mold Metric\" InternalName=\"22c81190-8bba-44ee-94bd-e4dfe60d0815\" IsReadOnly=\"True\"/>\n          <Library DisplayName=\"Inventor IDF\" ServerName=\"localhost\" LibraryAttachName=\"AI2017_Inventor IDF\" InternalName=\"f436ed6d-3e79-40c4-95f7-ef53c8feba9e\" IsReadOnly=\"True\"/>\n          <Library DisplayName=\"Custom Content\" ServerName=\"localhost\" LibraryAttachName=\"Custom\" InternalName=\"8d24ac1f-7b83-45c7-8174-f5f0bfde3674\" IsReadOnly=\"True\"/>\n        </ConfiguredLibraries>\n      </ContentCenterConfig>"
+   },
+   "vault_server": "vaultsrv",
+   "vault_database": "Vault",
+   "vault_virtual_folder": "$/Designs",
+   "publish_folder": "$/Published",
+   "custom_sections": [
+    [
+     "MyAddIn",
+     "<MyAddIn><Setting name=\"a\">1</Setting></MyAddIn>"
+    ]
+   ]
+  }
+ }
+}

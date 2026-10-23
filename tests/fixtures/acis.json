@@ -1,0 +1,9686 @@
+{
+"fixture_assy.iam": [
+{
+"flags": 3,
+"live": {
+"asmheader": 1
+},
+"n_entities": 1,
+"node": 2,
+"records": 3,
+"segment": "AmBREPSegment",
+"subtype_definitions": 0,
+"version": 23200
+},
+{
+"flags": 3,
+"live": {
+"asmheader": 1
+},
+"n_entities": 1,
+"node": 27,
+"records": 3,
+"segment": "AmDcSegment",
+"subtype_definitions": 0,
+"version": 23200
+}
+],
+"fixture_part.ipt": [
+{
+"flags": 3,
+"live": {
+"ATTRIB_CUSTOM-attrib": 30,
+"asmheader": 1,
+"body": 1,
+"coedge": 24,
+"edge": 12,
+"face": 6,
+"loop": 6,
+"lump": 1,
+"plane-surface": 6,
+"point": 8,
+"shell": 1,
+"straight-curve": 13,
+"vertex": 8
+},
+"n_entities": 2,
+"node": 5,
+"records": 120,
+"segment": "PmBRepSegment",
+"subtype_definitions": 0,
+"version": 23200
+},
+{
+"flags": 3,
+"live": {
+"ATTRIB_CUSTOM-attrib": 8,
+"asmheader": 1,
+"body": 1,
+"coedge": 4,
+"edge": 4,
+"lump": 1,
+"point": 4,
+"shell": 1,
+"straight-curve": 4,
+"vertex": 4,
+"wire": 1
+},
+"n_entities": 2,
+"node": 68,
+"records": 35,
+"segment": "PmDCSegment",
+"subtype_definitions": 0,
+"version": 23200
+}
+],
+"spec/ap_body.ipt": [
+{
+"flags": 3,
+"live": {
+"ATTRIB_CUSTOM-attrib": 37,
+"asmheader": 1,
+"body": 1,
+"coedge": 24,
+"edge": 12,
+"face": 6,
+"loop": 6,
+"lump": 1,
+"plane-surface": 6,
+"point": 8,
+"shell": 1,
+"straight-curve": 13,
+"vertex": 8
+},
+"n_entities": 2,
+"node": 5,
+"records": 144,
+"segment": "PmBRepSegment",
+"subtype_definitions": 0,
+"version": 23200
+},
+{
+"flags": 3,
+"live": {
+"ATTRIB_CUSTOM-attrib": 8,
+"asmheader": 1,
+"body": 1,
+"coedge": 4,
+"edge": 4,
+"face": 1,
+"loop": 1,
+"lump": 1,
+"plane-surface": 1,
+"point": 4,
+"shell": 1,
+"straight-curve": 4,
+"vertex": 4
+},
+"n_entities": 2,
+"node": 72,
+"records": 37,
+"segment": "PmDCSegment",
+"subtype_definitions": 0,
+"version": 23200
+}
+],
+"spec/ap_face.ipt": [
+{
+"flags": 3,
+"live": {
+"ATTRIB_CUSTOM-attrib": 31,
+"asmheader": 1,
+"body": 1,
+"coedge": 24,
+"edge": 12,
+"face": 6,
+"loop": 6,
+"lump": 1,
+"plane-surface": 6,
+"point": 8,
+"shell": 1,
+"straight-curve": 13,
+"vertex": 8
+},
+"n_entities": 2,
+"node": 5,
+"records": 124,
+"segment": "PmBRepSegment",
+"subtype_definitions": 0,
+"version": 23200
+},
+{
+"flags": 3,
+"live": {
+"ATTRIB_CUSTOM-attrib": 8,
+"asmheader": 1,
+"body": 1,
+"coedge": 4,
+"edge": 4,
+"face": 1,
+"loop": 1,
+"lump": 1,
+"plane-surface": 1,
+"point": 4,
+"shell": 1,
+"straight-curve": 4,
+"vertex": 4
+},
+"n_entities": 2,
+"node": 72,
+"records": 37,
+"segment": "PmDCSegment",
+"subtype_definitions": 0,
+"version": 23200
+}
+],
+"spec/ap_feature.ipt": [
+{
+"flags": 3,
+"live": {
+"ATTRIB_CUSTOM-attrib": 37,
+"asmheader": 1,
+"body": 1,
+"coedge": 24,
+"edge": 12,
+"face": 6,
+"loop": 6,
+"lump": 1,
+"plane-surface": 6,
+"point": 8,
+"shell": 1,
+"straight-curve": 13,
+"vertex": 8
+},
+"n_entities": 2,
+"node": 5,
+"records": 144,
+"segment": "PmBRepSegment",
+"subtype_definitions": 0,
+"version": 23200
+},
+{
+"flags": 3,
+"live": {
+"ATTRIB_CUSTOM-attrib": 8,
+"asmheader": 1,
+"body": 1,
+"coedge": 4,
+"edge": 4,
+"face": 1,
+"loop": 1,
+"lump": 1,
+"plane-surface": 1,
+"point": 4,
+"shell": 1,
+"straight-curve": 4,
+"vertex": 4
+},
+"n_entities": 2,
+"node": 72,
+"records": 37,
+"segment": "PmDCSegment",
+"subtype_definitions": 0,
+"version": 23200
+}
+],
+"spec/ap_part.ipt": [
+{
+"flags": 3,
+"live": {
+"ATTRIB_CUSTOM-attrib": 30,
+"asmheader": 1,
+"body": 1,
+"coedge": 24,
+"edge": 12,
+"face": 6,
+"loop": 6,
+"lump": 1,
+"plane-surface": 6,
+"point": 8,
+"shell": 1,
+"straight-curve": 13,
+"vertex": 8
+},
+"n_entities": 2,
+"node": 5,
+"records": 120,
+"segment": "PmBRepSegment",
+"subtype_definitions": 0,
+"version": 23200
+},
+{
+"flags": 3,
+"live": {
+"ATTRIB_CUSTOM-attrib": 8,
+"asmheader": 1,
+"body": 1,
+"coedge": 4,
+"edge": 4,
+"face": 1,
+"loop": 1,
+"lump": 1,
+"plane-surface": 1,
+"point": 4,
+"shell": 1,
+"straight-curve": 4,
+"vertex": 4
+},
+"n_entities": 2,
+"node": 71,
+"records": 37,
+"segment": "PmDCSegment",
+"subtype_definitions": 0,
+"version": 23200
+}
+],
+"spec/as_angle.iam": [
+{
+"flags": 3,
+"live": {
+"asmheader": 1
+},
+"n_entities": 1,
+"node": 2,
+"records": 3,
+"segment": "AmBREPSegment",
+"subtype_definitions": 0,
+"version": 23200
+},
+{
+"flags": 3,
+"live": {
+"asmheader": 1
+},
+"n_entities": 1,
+"node": 78,
+"records": 3,
+"segment": "AmDcSegment",
+"subtype_definitions": 0,
+"version": 23200
+}
+],
+"spec/as_bomref.iam": [
+{
+"flags": 3,
+"live": {
+"asmheader": 1
+},
+"n_entities": 1,
+"node": 2,
+"records": 3,
+"segment": "AmBREPSegment",
+"subtype_definitions": 0,
+"version": 23200
+},
+{
+"flags": 3,
+"live": {
+"asmheader": 1
+},
+"n_entities": 1,
+"node": 27,
+"records": 3,
+"segment": "AmDcSegment",
+"subtype_definitions": 0,
+"version": 23200
+}
+],
+"spec/as_cpattern.iam": [
+{
+"flags": 3,
+"live": {
+"asmheader": 1
+},
+"n_entities": 1,
+"node": 2,
+"records": 3,
+"segment": "AmBREPSegment",
+"subtype_definitions": 0,
+"version": 23200
+},
+{
+"flags": 3,
+"live": {
+"asmheader": 1
+},
+"n_entities": 1,
+"node": 42,
+"records": 3,
+"segment": "AmDcSegment",
+"subtype_definitions": 0,
+"version": 23200
+}
+],
+"spec/as_del2.iam": [
+{
+"flags": 3,
+"live": {
+"asmheader": 1
+},
+"n_entities": 1,
+"node": 2,
+"records": 3,
+"segment": "AmBREPSegment",
+"subtype_definitions": 0,
+"version": 23200
+},
+{
+"flags": 3,
+"live": {
+"asmheader": 1
+},
+"n_entities": 1,
+"node": 27,
+"records": 3,
+"segment": "AmDcSegment",
+"subtype_definitions": 0,
+"version": 23200
+}
+],
+"spec/as_delmate.iam": [
+{
+"flags": 3,
+"live": {
+"asmheader": 1
+},
+"n_entities": 1,
+"node": 2,
+"records": 3,
+"segment": "AmBREPSegment",
+"subtype_definitions": 0,
+"version": 23200
+},
+{
+"flags": 3,
+"live": {
+"asmheader": 1
+},
+"n_entities": 1,
+"node": 25,
+"records": 3,
+"segment": "AmDcSegment",
+"subtype_definitions": 0,
+"version": 23200
+}
+],
+"spec/as_empty.iam": [
+{
+"flags": 3,
+"live": {
+"asmheader": 1
+},
+"n_entities": 1,
+"node": 2,
+"records": 3,
+"segment": "AmBREPSegment",
+"subtype_definitions": 0,
+"version": 23200
+},
+{
+"flags": 3,
+"live": {
+"asmheader": 1
+},
+"n_entities": 1,
+"node": 21,
+"records": 3,
+"segment": "AmDcSegment",
+"subtype_definitions": 0,
+"version": 23200
+}
+],
+"spec/as_feat.iam": [
+{
+"flags": 3,
+"live": {
+"ATTRIB_CUSTOM-attrib": 42,
+"asmheader": 1,
+"body": 1,
+"coedge": 33,
+"cone-surface": 3,
+"edge": 17,
+"ellipse-curve": 4,
+"face": 10,
+"loop": 15,
+"lump": 1,
+"plane-surface": 7,
+"point": 13,
+"shell": 1,
+"straight-curve": 14,
+"transform": 1,
+"vertex": 13
+},
+"n_entities": 2,
+"node": 3,
+"records": 183,
+"segment": "AmBREPSegment",
+"subtype_definitions": 0,
+"version": 23200
+},
+{
+"flags": 3,
+"live": {
+"asmheader": 1
+},
+"n_entities": 1,
+"node": 46,
+"records": 3,
+"segment": "AmDcSegment",
+"subtype_definitions": 0,
+"version": 23200
+}
+],
+"spec/as_flush.iam": [
+{
+"flags": 3,
+"live": {
+"asmheader": 1
+},
+"n_entities": 1,
+"node": 2,
+"records": 3,
+"segment": "AmBREPSegment",
+"subtype_definitions": 0,
+"version": 23200
+},
+{
+"flags": 3,
+"live": {
+"asmheader": 1
+},
+"n_entities": 1,
+"node": 41,
+"records": 3,
+"segment": "AmDcSegment",
+"subtype_definitions": 0,
+"version": 23200
+}
+],
+"spec/as_ground.iam": [
+{
+"flags": 3,
+"live": {
+"asmheader": 1
+},
+"n_entities": 1,
+"node": 2,
+"records": 3,
+"segment": "AmBREPSegment",
+"subtype_definitions": 0,
+"version": 23200
+},
+{
+"flags": 3,
+"live": {
+"asmheader": 1
+},
+"n_entities": 1,
+"node": 25,
+"records": 3,
+"segment": "AmDcSegment",
+"subtype_definitions": 0,
+"version": 23200
+}
+],
+"spec/as_imate.iam": [
+{
+"flags": 3,
+"live": {
+"asmheader": 1
+},
+"n_entities": 1,
+"node": 2,
+"records": 3,
+"segment": "AmBREPSegment",
+"subtype_definitions": 0,
+"version": 23200
+},
+{
+"flags": 3,
+"live": {
+"asmheader": 1
+},
+"n_entities": 1,
+"node": 34,
+"records": 3,
+"segment": "AmDcSegment",
+"subtype_definitions": 0,
+"version": 23200
+}
+],
+"spec/as_insert.iam": [
+{
+"flags": 3,
+"live": {
+"asmheader": 1
+},
+"n_entities": 1,
+"node": 2,
+"records": 3,
+"segment": "AmBREPSegment",
+"subtype_definitions": 0,
+"version": 23200
+},
+{
+"flags": 3,
+"live": {
+"asmheader": 1
+},
+"n_entities": 1,
+"node": 59,
+"records": 3,
+"segment": "AmDcSegment",
+"subtype_definitions": 0,
+"version": 23200
+}
+],
+"spec/as_jball.iam": [
+{
+"flags": 3,
+"live": {
+"asmheader": 1
+},
+"n_entities": 1,
+"node": 2,
+"records": 3,
+"segment": "AmBREPSegment",
+"subtype_definitions": 0,
+"version": 23200
+},
+{
+"flags": 3,
+"live": {
+"asmheader": 1
+},
+"n_entities": 1,
+"node": 68,
+"records": 3,
+"segment": "AmDcSegment",
+"subtype_definitions": 0,
+"version": 23200
+}
+],
+"spec/as_jcyl.iam": [
+{
+"flags": 3,
+"live": {
+"asmheader": 1
+},
+"n_entities": 1,
+"node": 2,
+"records": 3,
+"segment": "AmBREPSegment",
+"subtype_definitions": 0,
+"version": 23200
+},
+{
+"flags": 3,
+"live": {
+"asmheader": 1
+},
+"n_entities": 1,
+"node": 74,
+"records": 3,
+"segment": "AmDcSegment",
+"subtype_definitions": 0,
+"version": 23200
+}
+],
+"spec/as_jplanar.iam": [
+{
+"flags": 3,
+"live": {
+"asmheader": 1
+},
+"n_entities": 1,
+"node": 2,
+"records": 3,
+"segment": "AmBREPSegment",
+"subtype_definitions": 0,
+"version": 23200
+},
+{
+"flags": 3,
+"live": {
+"asmheader": 1
+},
+"n_entities": 1,
+"node": 69,
+"records": 3,
+"segment": "AmDcSegment",
+"subtype_definitions": 0,
+"version": 23200
+}
+],
+"spec/as_jrigid.iam": [
+{
+"flags": 3,
+"live": {
+"asmheader": 1
+},
+"n_entities": 1,
+"node": 2,
+"records": 3,
+"segment": "AmBREPSegment",
+"subtype_definitions": 0,
+"version": 23200
+},
+{
+"flags": 3,
+"live": {
+"asmheader": 1
+},
+"n_entities": 1,
+"node": 69,
+"records": 3,
+"segment": "AmDcSegment",
+"subtype_definitions": 0,
+"version": 23200
+}
+],
+"spec/as_jrot.iam": [
+{
+"flags": 3,
+"live": {
+"asmheader": 1
+},
+"n_entities": 1,
+"node": 2,
+"records": 3,
+"segment": "AmBREPSegment",
+"subtype_definitions": 0,
+"version": 23200
+},
+{
+"flags": 3,
+"live": {
+"asmheader": 1
+},
+"n_entities": 1,
+"node": 72,
+"records": 3,
+"segment": "AmDcSegment",
+"subtype_definitions": 0,
+"version": 23200
+}
+],
+"spec/as_jslide.iam": [
+{
+"flags": 3,
+"live": {
+"asmheader": 1
+},
+"n_entities": 1,
+"node": 2,
+"records": 3,
+"segment": "AmBREPSegment",
+"subtype_definitions": 0,
+"version": 23200
+},
+{
+"flags": 3,
+"live": {
+"asmheader": 1
+},
+"n_entities": 1,
+"node": 72,
+"records": 3,
+"segment": "AmDcSegment",
+"subtype_definitions": 0,
+"version": 23200
+}
+],
+"spec/as_mate.iam": [
+{
+"flags": 3,
+"live": {
+"asmheader": 1
+},
+"n_entities": 1,
+"node": 2,
+"records": 3,
+"segment": "AmBREPSegment",
+"subtype_definitions": 0,
+"version": 23200
+},
+{
+"flags": 3,
+"live": {
+"asmheader": 1
+},
+"n_entities": 1,
+"node": 33,
+"records": 3,
+"segment": "AmDcSegment",
+"subtype_definitions": 0,
+"version": 23200
+}
+],
+"spec/as_mateangle.iam": [
+{
+"flags": 3,
+"live": {
+"asmheader": 1
+},
+"n_entities": 1,
+"node": 2,
+"records": 3,
+"segment": "AmBREPSegment",
+"subtype_definitions": 0,
+"version": 23200
+},
+{
+"flags": 3,
+"live": {
+"asmheader": 1
+},
+"n_entities": 1,
+"node": 41,
+"records": 3,
+"segment": "AmDcSegment",
+"subtype_definitions": 0,
+"version": 23200
+}
+],
+"spec/as_mirror.iam": [
+{
+"flags": 3,
+"live": {
+"asmheader": 1
+},
+"n_entities": 1,
+"node": 2,
+"records": 3,
+"segment": "AmBREPSegment",
+"subtype_definitions": 0,
+"version": 23200
+},
+{
+"flags": 3,
+"live": {
+"asmheader": 1
+},
+"n_entities": 1,
+"node": 27,
+"records": 3,
+"segment": "AmDcSegment",
+"subtype_definitions": 0,
+"version": 23200
+}
+],
+"spec/as_pattern.iam": [
+{
+"flags": 3,
+"live": {
+"asmheader": 1
+},
+"n_entities": 1,
+"node": 2,
+"records": 3,
+"segment": "AmBREPSegment",
+"subtype_definitions": 0,
+"version": 23200
+},
+{
+"flags": 3,
+"live": {
+"asmheader": 1
+},
+"n_entities": 1,
+"node": 45,
+"records": 3,
+"segment": "AmDcSegment",
+"subtype_definitions": 0,
+"version": 23200
+}
+],
+"spec/as_pattern22.iam": [
+{
+"flags": 3,
+"live": {
+"asmheader": 1
+},
+"n_entities": 1,
+"node": 2,
+"records": 3,
+"segment": "AmBREPSegment",
+"subtype_definitions": 0,
+"version": 23200
+},
+{
+"flags": 3,
+"live": {
+"asmheader": 1
+},
+"n_entities": 1,
+"node": 50,
+"records": 3,
+"segment": "AmDcSegment",
+"subtype_definitions": 0,
+"version": 23200
+}
+],
+"spec/as_place2.iam": [
+{
+"flags": 3,
+"live": {
+"asmheader": 1
+},
+"n_entities": 1,
+"node": 2,
+"records": 3,
+"segment": "AmBREPSegment",
+"subtype_definitions": 0,
+"version": 23200
+},
+{
+"flags": 3,
+"live": {
+"asmheader": 1
+},
+"n_entities": 1,
+"node": 27,
+"records": 3,
+"segment": "AmDcSegment",
+"subtype_definitions": 0,
+"version": 23200
+}
+],
+"spec/as_place3.iam": [
+{
+"flags": 3,
+"live": {
+"asmheader": 1
+},
+"n_entities": 1,
+"node": 2,
+"records": 3,
+"segment": "AmBREPSegment",
+"subtype_definitions": 0,
+"version": 23200
+},
+{
+"flags": 3,
+"live": {
+"asmheader": 1
+},
+"n_entities": 1,
+"node": 29,
+"records": 3,
+"segment": "AmDcSegment",
+"subtype_definitions": 0,
+"version": 23200
+}
+],
+"spec/as_posover.iam": [
+{
+"flags": 3,
+"live": {
+"asmheader": 1
+},
+"n_entities": 1,
+"node": 2,
+"records": 3,
+"segment": "AmBREPSegment",
+"subtype_definitions": 0,
+"version": 23200
+},
+{
+"flags": 3,
+"live": {
+"asmheader": 1
+},
+"n_entities": 1,
+"node": 35,
+"records": 3,
+"segment": "AmDcSegment",
+"subtype_definitions": 0,
+"version": 23200
+}
+],
+"spec/as_posrep.iam": [
+{
+"flags": 3,
+"live": {
+"asmheader": 1
+},
+"n_entities": 1,
+"node": 2,
+"records": 3,
+"segment": "AmBREPSegment",
+"subtype_definitions": 0,
+"version": 23200
+},
+{
+"flags": 3,
+"live": {
+"asmheader": 1
+},
+"n_entities": 1,
+"node": 29,
+"records": 3,
+"segment": "AmDcSegment",
+"subtype_definitions": 0,
+"version": 23200
+}
+],
+"spec/as_ring.iam": [
+{
+"flags": 3,
+"live": {
+"asmheader": 1
+},
+"n_entities": 1,
+"node": 2,
+"records": 3,
+"segment": "AmBREPSegment",
+"subtype_definitions": 0,
+"version": 23200
+},
+{
+"flags": 3,
+"live": {
+"asmheader": 1
+},
+"n_entities": 1,
+"node": 45,
+"records": 3,
+"segment": "AmDcSegment",
+"subtype_definitions": 0,
+"version": 23200
+}
+],
+"spec/as_sub.iam": [
+{
+"flags": 3,
+"live": {
+"asmheader": 1
+},
+"n_entities": 1,
+"node": 2,
+"records": 3,
+"segment": "AmBREPSegment",
+"subtype_definitions": 0,
+"version": 23200
+},
+{
+"flags": 3,
+"live": {
+"asmheader": 1
+},
+"n_entities": 1,
+"node": 47,
+"records": 3,
+"segment": "AmDcSegment",
+"subtype_definitions": 0,
+"version": 23200
+}
+],
+"spec/as_suppress.iam": [
+{
+"flags": 3,
+"live": {
+"asmheader": 1
+},
+"n_entities": 1,
+"node": 2,
+"records": 3,
+"segment": "AmBREPSegment",
+"subtype_definitions": 0,
+"version": 23200
+},
+{
+"flags": 3,
+"live": {
+"asmheader": 1
+},
+"n_entities": 1,
+"node": 47,
+"records": 3,
+"segment": "AmDcSegment",
+"subtype_definitions": 0,
+"version": 23200
+}
+],
+"spec/as_tangent.iam": [
+{
+"flags": 3,
+"live": {
+"asmheader": 1
+},
+"n_entities": 1,
+"node": 2,
+"records": 3,
+"segment": "AmBREPSegment",
+"subtype_definitions": 0,
+"version": 23200
+},
+{
+"flags": 3,
+"live": {
+"asmheader": 1
+},
+"n_entities": 1,
+"node": 69,
+"records": 3,
+"segment": "AmDcSegment",
+"subtype_definitions": 0,
+"version": 23200
+}
+],
+"spec/as_viewrep.iam": [
+{
+"flags": 3,
+"live": {
+"asmheader": 1
+},
+"n_entities": 1,
+"node": 2,
+"records": 3,
+"segment": "AmBREPSegment",
+"subtype_definitions": 0,
+"version": 23200
+},
+{
+"flags": 3,
+"live": {
+"asmheader": 1
+},
+"n_entities": 1,
+"node": 29,
+"records": 3,
+"segment": "AmDcSegment",
+"subtype_definitions": 0,
+"version": 23200
+}
+],
+"spec/as_vis.iam": [
+{
+"flags": 3,
+"live": {
+"asmheader": 1
+},
+"n_entities": 1,
+"node": 2,
+"records": 3,
+"segment": "AmBREPSegment",
+"subtype_definitions": 0,
+"version": 23200
+},
+{
+"flags": 3,
+"live": {
+"asmheader": 1
+},
+"n_entities": 1,
+"node": 47,
+"records": 3,
+"segment": "AmDcSegment",
+"subtype_definitions": 0,
+"version": 23200
+}
+],
+"spec/bp_basic.ipt": [
+{
+"flags": 3,
+"live": {
+"ATTRIB_CUSTOM-attrib": 25,
+"asmheader": 1,
+"body": 1,
+"coedge": 36,
+"cone-surface": 2,
+"edge": 18,
+"ellipse-curve": 4,
+"face": 8,
+"loop": 8,
+"lump": 1,
+"plane-surface": 6,
+"point": 12,
+"shell": 1,
+"straight-curve": 15,
+"vertex": 12
+},
+"n_entities": 2,
+"node": 6,
+"records": 241,
+"segment": "PmBRepSegment",
+"subtype_definitions": 0,
+"version": 23200
+},
+{
+"flags": 3,
+"live": {
+"ATTRIB_CUSTOM-attrib": 11,
+"asmheader": 1,
+"body": 2,
+"coedge": 5,
+"edge": 5,
+"face": 1,
+"loop": 1,
+"lump": 2,
+"plane-surface": 1,
+"point": 6,
+"shell": 2,
+"straight-curve": 5,
+"vertex": 6,
+"wire": 1
+},
+"n_entities": 3,
+"node": 108,
+"records": 51,
+"segment": "PmDCSegment",
+"subtype_definitions": 0,
+"version": 23200
+}
+],
+"spec/cb_cut.ipt": [
+{
+"flags": 3,
+"live": {
+"ATTRIB_CUSTOM-attrib": 41,
+"asmheader": 1,
+"body": 1,
+"coedge": 28,
+"cone-surface": 1,
+"edge": 14,
+"ellipse-curve": 3,
+"face": 8,
+"loop": 10,
+"lump": 1,
+"plane-surface": 7,
+"point": 10,
+"shell": 1,
+"straight-curve": 14,
+"vertex": 10
+},
+"n_entities": 2,
+"node": 8,
+"records": 181,
+"segment": "PmBRepSegment",
+"subtype_definitions": 0,
+"version": 23200
+},
+{
+"flags": 3,
+"live": {
+"ATTRIB_CUSTOM-attrib": 9,
+"asmheader": 1,
+"body": 2,
+"coedge": 5,
+"edge": 5,
+"ellipse-curve": 1,
+"face": 2,
+"loop": 2,
+"lump": 2,
+"plane-surface": 2,
+"point": 5,
+"shell": 2,
+"straight-curve": 4,
+"vertex": 5
+},
+"n_entities": 3,
+"node": 112,
+"records": 49,
+"segment": "PmDCSegment",
+"subtype_definitions": 0,
+"version": 23200
+}
+],
+"spec/cb_intersect.ipt": [
+{
+"flags": 3,
+"live": {
+"ATTRIB_CUSTOM-attrib": 12,
+"asmheader": 1,
+"body": 1,
+"coedge": 4,
+"cone-surface": 1,
+"edge": 2,
+"ellipse-curve": 3,
+"face": 3,
+"loop": 4,
+"lump": 1,
+"plane-surface": 2,
+"point": 2,
+"shell": 1,
+"straight-curve": 1,
+"vertex": 2
+},
+"n_entities": 2,
+"node": 8,
+"records": 177,
+"segment": "PmBRepSegment",
+"subtype_definitions": 0,
+"version": 23200
+},
+{
+"flags": 3,
+"live": {
+"ATTRIB_CUSTOM-attrib": 9,
+"asmheader": 1,
+"body": 2,
+"coedge": 5,
+"edge": 5,
+"ellipse-curve": 1,
+"face": 2,
+"loop": 2,
+"lump": 2,
+"plane-surface": 2,
+"point": 5,
+"shell": 2,
+"straight-curve": 4,
+"vertex": 5
+},
+"n_entities": 3,
+"node": 112,
+"records": 49,
+"segment": "PmDCSegment",
+"subtype_definitions": 0,
+"version": 23200
+}
+],
+"spec/cb_join.ipt": [
+{
+"flags": 3,
+"live": {
+"ATTRIB_CUSTOM-attrib": 32,
+"asmheader": 1,
+"body": 1,
+"coedge": 24,
+"edge": 12,
+"face": 6,
+"loop": 6,
+"lump": 1,
+"plane-surface": 6,
+"point": 8,
+"shell": 1,
+"straight-curve": 13,
+"vertex": 8
+},
+"n_entities": 2,
+"node": 8,
+"records": 161,
+"segment": "PmBRepSegment",
+"subtype_definitions": 0,
+"version": 23200
+},
+{
+"flags": 3,
+"live": {
+"ATTRIB_CUSTOM-attrib": 9,
+"asmheader": 1,
+"body": 2,
+"coedge": 5,
+"edge": 5,
+"ellipse-curve": 1,
+"face": 2,
+"loop": 2,
+"lump": 2,
+"plane-surface": 2,
+"point": 5,
+"shell": 2,
+"straight-curve": 4,
+"vertex": 5
+},
+"n_entities": 3,
+"node": 112,
+"records": 49,
+"segment": "PmDCSegment",
+"subtype_definitions": 0,
+"version": 23200
+}
+],
+"spec/ch_angle.ipt": [
+{
+"flags": 3,
+"live": {
+"ATTRIB_CUSTOM-attrib": 30,
+"asmheader": 1,
+"body": 1,
+"coedge": 30,
+"edge": 15,
+"face": 7,
+"loop": 7,
+"lump": 1,
+"plane-surface": 7,
+"point": 10,
+"shell": 1,
+"straight-curve": 16,
+"vertex": 10
+},
+"n_entities": 2,
+"node": 6,
+"records": 240,
+"segment": "PmBRepSegment",
+"subtype_definitions": 0,
+"version": 23200
+},
+{
+"flags": 3,
+"live": {
+"ATTRIB_CUSTOM-attrib": 8,
+"asmheader": 1,
+"body": 1,
+"coedge": 4,
+"edge": 4,
+"face": 1,
+"loop": 1,
+"lump": 1,
+"plane-surface": 1,
+"point": 4,
+"shell": 1,
+"straight-curve": 4,
+"vertex": 4
+},
+"n_entities": 2,
+"node": 97,
+"records": 37,
+"segment": "PmDCSegment",
+"subtype_definitions": 0,
+"version": 23200
+}
+],
+"spec/ch_dist.ipt": [
+{
+"flags": 3,
+"live": {
+"ATTRIB_CUSTOM-attrib": 28,
+"asmheader": 1,
+"body": 1,
+"coedge": 30,
+"edge": 15,
+"face": 7,
+"loop": 7,
+"lump": 1,
+"plane-surface": 7,
+"point": 10,
+"shell": 1,
+"straight-curve": 16,
+"vertex": 10
+},
+"n_entities": 2,
+"node": 6,
+"records": 209,
+"segment": "PmBRepSegment",
+"subtype_definitions": 0,
+"version": 23200
+},
+{
+"flags": 3,
+"live": {
+"ATTRIB_CUSTOM-attrib": 8,
+"asmheader": 1,
+"body": 1,
+"coedge": 4,
+"edge": 4,
+"face": 1,
+"loop": 1,
+"lump": 1,
+"plane-surface": 1,
+"point": 4,
+"shell": 1,
+"straight-curve": 4,
+"vertex": 4
+},
+"n_entities": 2,
+"node": 93,
+"records": 37,
+"segment": "PmDCSegment",
+"subtype_definitions": 0,
+"version": 23200
+}
+],
+"spec/ch_two_dist.ipt": [
+{
+"flags": 3,
+"live": {
+"ATTRIB_CUSTOM-attrib": 29,
+"asmheader": 1,
+"body": 1,
+"coedge": 30,
+"edge": 15,
+"face": 7,
+"loop": 7,
+"lump": 1,
+"plane-surface": 7,
+"point": 10,
+"shell": 1,
+"straight-curve": 16,
+"vertex": 10
+},
+"n_entities": 2,
+"node": 6,
+"records": 223,
+"segment": "PmBRepSegment",
+"subtype_definitions": 0,
+"version": 23200
+},
+{
+"flags": 3,
+"live": {
+"ATTRIB_CUSTOM-attrib": 8,
+"asmheader": 1,
+"body": 1,
+"coedge": 4,
+"edge": 4,
+"face": 1,
+"loop": 1,
+"lump": 1,
+"plane-surface": 1,
+"point": 4,
+"shell": 1,
+"straight-curve": 4,
+"vertex": 4
+},
+"n_entities": 2,
+"node": 97,
+"records": 37,
+"segment": "PmDCSegment",
+"subtype_definitions": 0,
+"version": 23200
+}
+],
+"spec/co_body.ipt": [
+{
+"flags": 3,
+"live": {
+"ATTRIB_CUSTOM-attrib": 37,
+"asmheader": 1,
+"body": 2,
+"coedge": 48,
+"edge": 24,
+"face": 12,
+"loop": 12,
+"lump": 2,
+"plane-surface": 12,
+"point": 16,
+"shell": 2,
+"straight-curve": 25,
+"vertex": 16
+},
+"n_entities": 3,
+"node": 7,
+"records": 213,
+"segment": "PmBRepSegment",
+"subtype_definitions": 0,
+"version": 23200
+},
+{
+"flags": 3,
+"live": {
+"ATTRIB_CUSTOM-attrib": 15,
+"asmheader": 1,
+"body": 2,
+"coedge": 28,
+"edge": 16,
+"face": 7,
+"loop": 7,
+"lump": 2,
+"plane-surface": 7,
+"point": 12,
+"shell": 2,
+"straight-curve": 16,
+"vertex": 12
+},
+"n_entities": 3,
+"node": 75,
+"records": 129,
+"segment": "PmDCSegment",
+"subtype_definitions": 0,
+"version": 23200
+}
+],
+"spec/co_mesh.ipt": [
+{
+"flags": 3,
+"live": {
+"ATTRIB_CUSTOM-attrib": 10,
+"asmheader": 1,
+"body": 1,
+"coedge": 4,
+"edge": 4,
+"face": 1,
+"loop": 1,
+"lump": 1,
+"plane-surface": 1,
+"point": 4,
+"shell": 1,
+"straight-curve": 4,
+"vertex": 4
+},
+"n_entities": 2,
+"node": 5,
+"records": 40,
+"segment": "PmBRepSegment",
+"subtype_definitions": 0,
+"version": 23200
+},
+{
+"flags": 3,
+"live": {
+"ATTRIB_CUSTOM-attrib": 10,
+"asmheader": 1,
+"body": 1,
+"coedge": 4,
+"edge": 4,
+"face": 1,
+"loop": 1,
+"lump": 1,
+"plane-surface": 1,
+"point": 4,
+"shell": 1,
+"straight-curve": 4,
+"vertex": 4
+},
+"n_entities": 2,
+"node": 28,
+"records": 39,
+"segment": "PmDCSegment",
+"subtype_definitions": 0,
+"version": 23200
+}
+],
+"spec/dc_base.ipt": [
+{
+"flags": 3,
+"live": {
+"ATTRIB_CUSTOM-attrib": 31,
+"asmheader": 1,
+"body": 1,
+"coedge": 24,
+"edge": 12,
+"face": 6,
+"loop": 6,
+"lump": 1,
+"plane-surface": 6,
+"point": 8,
+"shell": 1,
+"straight-curve": 13,
+"vertex": 8
+},
+"n_entities": 2,
+"node": 5,
+"records": 124,
+"segment": "PmBRepSegment",
+"subtype_definitions": 0,
+"version": 23200
+},
+{
+"flags": 3,
+"live": {
+"ATTRIB_CUSTOM-attrib": 8,
+"asmheader": 1,
+"body": 1,
+"coedge": 4,
+"edge": 4,
+"face": 1,
+"loop": 1,
+"lump": 1,
+"plane-surface": 1,
+"point": 4,
+"shell": 1,
+"straight-curve": 4,
+"vertex": 4
+},
+"n_entities": 2,
+"node": 101,
+"records": 37,
+"segment": "PmDCSegment",
+"subtype_definitions": 0,
+"version": 23200
+}
+],
+"spec/dc_basic.ipt": [
+{
+"flags": 3,
+"live": {
+"ATTRIB_CUSTOM-attrib": 33,
+"asmheader": 1,
+"body": 1,
+"coedge": 24,
+"edge": 12,
+"face": 6,
+"loop": 6,
+"lump": 1,
+"plane-surface": 6,
+"point": 14,
+"shell": 1,
+"straight-curve": 13,
+"vertex": 14
+},
+"n_entities": 8,
+"node": 6,
+"records": 145,
+"segment": "PmBRepSegment",
+"subtype_definitions": 0,
+"version": 23200
+},
+{
+"flags": 3,
+"live": {
+"ATTRIB_CUSTOM-attrib": 8,
+"asmheader": 1,
+"body": 1,
+"coedge": 4,
+"edge": 4,
+"face": 1,
+"loop": 1,
+"lump": 1,
+"plane-surface": 1,
+"point": 4,
+"shell": 1,
+"straight-curve": 4,
+"vertex": 4
+},
+"n_entities": 2,
+"node": 116,
+"records": 37,
+"segment": "PmDCSegment",
+"subtype_definitions": 0,
+"version": 23200
+}
+],
+"spec/de_delete.ipt": [
+{
+"flags": 3,
+"live": {
+"ATTRIB_CUSTOM-attrib": 35,
+"asmheader": 1,
+"body": 1,
+"coedge": 24,
+"edge": 12,
+"face": 6,
+"loop": 6,
+"lump": 1,
+"plane-surface": 6,
+"point": 8,
+"shell": 1,
+"straight-curve": 13,
+"vertex": 8
+},
+"n_entities": 2,
+"node": 7,
+"records": 305,
+"segment": "PmBRepSegment",
+"subtype_definitions": 0,
+"version": 23200
+},
+{
+"flags": 3,
+"live": {
+"ATTRIB_CUSTOM-attrib": 8,
+"asmheader": 1,
+"body": 1,
+"coedge": 4,
+"edge": 4,
+"face": 1,
+"loop": 1,
+"lump": 1,
+"plane-surface": 1,
+"point": 4,
+"shell": 1,
+"straight-curve": 4,
+"vertex": 4
+},
+"n_entities": 2,
+"node": 121,
+"records": 37,
+"segment": "PmDCSegment",
+"subtype_definitions": 0,
+"version": 23200
+}
+],
+"spec/de_move.ipt": [
+{
+"flags": 3,
+"live": {
+"ATTRIB_CUSTOM-attrib": 36,
+"asmheader": 1,
+"body": 1,
+"coedge": 24,
+"edge": 12,
+"face": 6,
+"loop": 6,
+"lump": 1,
+"plane-surface": 6,
+"point": 8,
+"shell": 1,
+"straight-curve": 13,
+"vertex": 8
+},
+"n_entities": 2,
+"node": 6,
+"records": 197,
+"segment": "PmBRepSegment",
+"subtype_definitions": 0,
+"version": 23200
+},
+{
+"flags": 3,
+"live": {
+"ATTRIB_CUSTOM-attrib": 8,
+"asmheader": 1,
+"body": 1,
+"coedge": 4,
+"edge": 4,
+"face": 1,
+"loop": 1,
+"lump": 1,
+"plane-surface": 1,
+"point": 4,
+"shell": 1,
+"straight-curve": 4,
+"vertex": 4
+},
+"n_entities": 2,
+"node": 104,
+"records": 37,
+"segment": "PmDCSegment",
+"subtype_definitions": 0,
+"version": 23200
+}
+],
+"spec/de_scale.ipt": [
+{
+"flags": 3,
+"live": {
+"ATTRIB_CUSTOM-attrib": 48,
+"asmheader": 1,
+"body": 1,
+"coedge": 28,
+"cone-surface": 1,
+"edge": 14,
+"ellipse-curve": 2,
+"face": 7,
+"loop": 10,
+"lump": 1,
+"plane-surface": 6,
+"point": 10,
+"shell": 1,
+"straight-curve": 14,
+"vertex": 10
+},
+"n_entities": 2,
+"node": 7,
+"records": 242,
+"segment": "PmBRepSegment",
+"subtype_definitions": 0,
+"version": 23200
+},
+{
+"flags": 3,
+"live": {
+"ATTRIB_CUSTOM-attrib": 8,
+"asmheader": 1,
+"body": 1,
+"coedge": 4,
+"edge": 4,
+"face": 1,
+"loop": 1,
+"lump": 1,
+"plane-surface": 1,
+"point": 4,
+"shell": 1,
+"straight-curve": 4,
+"vertex": 4
+},
+"n_entities": 2,
+"node": 141,
+"records": 37,
+"segment": "PmDCSegment",
+"subtype_definitions": 0,
+"version": 23200
+}
+],
+"spec/de_size.ipt": [
+{
+"flags": 3,
+"live": {
+"ATTRIB_CUSTOM-attrib": 14,
+"asmheader": 1,
+"body": 1,
+"coedge": 4,
+"cone-surface": 1,
+"edge": 2,
+"ellipse-curve": 3,
+"face": 3,
+"loop": 4,
+"lump": 1,
+"plane-surface": 2,
+"point": 2,
+"shell": 1,
+"straight-curve": 1,
+"vertex": 2
+},
+"n_entities": 2,
+"node": 9,
+"records": 205,
+"segment": "PmBRepSegment",
+"subtype_definitions": 0,
+"version": 23200
+},
+{
+"flags": 3,
+"live": {
+"ATTRIB_CUSTOM-attrib": 9,
+"asmheader": 1,
+"body": 2,
+"coedge": 5,
+"edge": 5,
+"ellipse-curve": 1,
+"face": 2,
+"loop": 2,
+"lump": 2,
+"plane-surface": 2,
+"point": 5,
+"shell": 2,
+"straight-curve": 4,
+"vertex": 5
+},
+"n_entities": 3,
+"node": 149,
+"records": 49,
+"segment": "PmDCSegment",
+"subtype_definitions": 0,
+"version": 23200
+}
+],
+"spec/df_basic.ipt": [
+{
+"flags": 3,
+"live": {
+"ATTRIB_CUSTOM-attrib": 28,
+"asmheader": 1,
+"body": 1,
+"coedge": 20,
+"edge": 12,
+"face": 5,
+"loop": 5,
+"lump": 1,
+"plane-surface": 5,
+"point": 8,
+"shell": 1,
+"straight-curve": 13,
+"vertex": 8
+},
+"n_entities": 2,
+"node": 6,
+"records": 146,
+"segment": "PmBRepSegment",
+"subtype_definitions": 0,
+"version": 23200
+},
+{
+"flags": 3,
+"live": {
+"ATTRIB_CUSTOM-attrib": 8,
+"asmheader": 1,
+"body": 1,
+"coedge": 4,
+"edge": 4,
+"face": 1,
+"loop": 1,
+"lump": 1,
+"plane-surface": 1,
+"point": 4,
+"shell": 1,
+"straight-curve": 4,
+"vertex": 4
+},
+"n_entities": 2,
+"node": 93,
+"records": 37,
+"segment": "PmDCSegment",
+"subtype_definitions": 0,
+"version": 23200
+}
+],
+"spec/dr_face.ipt": [
+{
+"flags": 3,
+"live": {
+"ATTRIB_CUSTOM-attrib": 36,
+"asmheader": 1,
+"body": 1,
+"coedge": 24,
+"edge": 12,
+"face": 6,
+"loop": 6,
+"lump": 1,
+"plane-surface": 6,
+"point": 8,
+"shell": 1,
+"straight-curve": 13,
+"vertex": 8
+},
+"n_entities": 2,
+"node": 6,
+"records": 195,
+"segment": "PmBRepSegment",
+"subtype_definitions": 0,
+"version": 23200
+},
+{
+"flags": 3,
+"live": {
+"ATTRIB_CUSTOM-attrib": 8,
+"asmheader": 1,
+"body": 1,
+"coedge": 4,
+"edge": 4,
+"face": 1,
+"loop": 1,
+"lump": 1,
+"plane-surface": 1,
+"point": 4,
+"shell": 1,
+"straight-curve": 4,
+"vertex": 4
+},
+"n_entities": 2,
+"node": 109,
+"records": 37,
+"segment": "PmDCSegment",
+"subtype_definitions": 0,
+"version": 23200
+}
+],
+"spec/dr_fixed_plane.ipt": [
+{
+"flags": 3,
+"live": {
+"ATTRIB_CUSTOM-attrib": 34,
+"asmheader": 1,
+"body": 1,
+"coedge": 24,
+"edge": 12,
+"face": 6,
+"loop": 6,
+"lump": 1,
+"plane-surface": 6,
+"point": 8,
+"shell": 1,
+"straight-curve": 13,
+"vertex": 8
+},
+"n_entities": 2,
+"node": 6,
+"records": 189,
+"segment": "PmBRepSegment",
+"subtype_definitions": 0,
+"version": 23200
+},
+{
+"flags": 3,
+"live": {
+"ATTRIB_CUSTOM-attrib": 8,
+"asmheader": 1,
+"body": 1,
+"coedge": 4,
+"edge": 4,
+"face": 1,
+"loop": 1,
+"lump": 1,
+"plane-surface": 1,
+"point": 4,
+"shell": 1,
+"straight-curve": 4,
+"vertex": 4
+},
+"n_entities": 2,
+"node": 113,
+"records": 37,
+"segment": "PmDCSegment",
+"subtype_definitions": 0,
+"version": 23200
+}
+],
+"spec/dr_parting.ipt": [
+{
+"flags": 3,
+"live": {
+"ATTRIB_CUSTOM-attrib": 49,
+"asmheader": 1,
+"body": 1,
+"coedge": 30,
+"edge": 15,
+"face": 7,
+"loop": 7,
+"lump": 1,
+"plane-surface": 7,
+"point": 10,
+"shell": 1,
+"straight-curve": 16,
+"vertex": 10
+},
+"n_entities": 2,
+"node": 6,
+"records": 249,
+"segment": "PmBRepSegment",
+"subtype_definitions": 0,
+"version": 23200
+},
+{
+"flags": 3,
+"live": {
+"ATTRIB_CUSTOM-attrib": 8,
+"asmheader": 1,
+"body": 1,
+"coedge": 4,
+"edge": 4,
+"face": 1,
+"loop": 1,
+"lump": 1,
+"plane-surface": 1,
+"point": 4,
+"shell": 1,
+"straight-curve": 4,
+"vertex": 4
+},
+"n_entities": 2,
+"node": 152,
+"records": 37,
+"segment": "PmDCSegment",
+"subtype_definitions": 0,
+"version": 23200
+}
+],
+"spec/dv_basic.ipt": [
+{
+"flags": 3,
+"live": {
+"ATTRIB_CUSTOM-attrib": 48,
+"asmheader": 1,
+"body": 1,
+"coedge": 24,
+"edge": 12,
+"ellipse-curve": 4,
+"face": 6,
+"loop": 6,
+"lump": 1,
+"pcurve": 16,
+"plane-surface": 2,
+"point": 8,
+"shell": 1,
+"spline-surface": 4,
+"straight-curve": 13,
+"vertex": 8
+},
+"n_entities": 2,
+"node": 5,
+"records": 185,
+"segment": "PmBRepSegment",
+"subtype_definitions": 20,
+"version": 23200
+},
+{
+"flags": 3,
+"live": {
+"ATTRIB_CUSTOM-attrib": 30,
+"asmheader": 1,
+"body": 1,
+"coedge": 24,
+"edge": 12,
+"ellipse-curve": 4,
+"face": 6,
+"loop": 6,
+"lump": 1,
+"pcurve": 16,
+"plane-surface": 2,
+"point": 8,
+"shell": 1,
+"spline-surface": 4,
+"straight-curve": 13,
+"vertex": 8
+},
+"n_entities": 2,
+"node": 37,
+"records": 139,
+"segment": "PmDCSegment",
+"subtype_definitions": 20,
+"version": 23200
+}
+],
+"spec/dv_scale_mirror.ipt": [
+{
+"flags": 3,
+"live": {
+"ATTRIB_CUSTOM-attrib": 48,
+"asmheader": 1,
+"body": 1,
+"coedge": 24,
+"edge": 12,
+"ellipse-curve": 4,
+"face": 6,
+"loop": 6,
+"lump": 1,
+"pcurve": 16,
+"plane-surface": 2,
+"point": 8,
+"shell": 1,
+"spline-surface": 4,
+"straight-curve": 13,
+"vertex": 8
+},
+"n_entities": 2,
+"node": 5,
+"records": 185,
+"segment": "PmBRepSegment",
+"subtype_definitions": 20,
+"version": 23200
+},
+{
+"flags": 3,
+"live": {
+"ATTRIB_CUSTOM-attrib": 30,
+"asmheader": 1,
+"body": 1,
+"coedge": 24,
+"edge": 12,
+"ellipse-curve": 4,
+"face": 6,
+"loop": 6,
+"lump": 1,
+"pcurve": 16,
+"plane-surface": 2,
+"point": 8,
+"shell": 1,
+"spline-surface": 4,
+"straight-curve": 13,
+"vertex": 8
+},
+"n_entities": 2,
+"node": 37,
+"records": 139,
+"segment": "PmDCSegment",
+"subtype_definitions": 20,
+"version": 23200
+}
+],
+"spec/dw_asm.idw": [],
+"spec/dw_base.idw": [],
+"spec/dw_dim.idw": [],
+"spec/dw_dm_arrout.idw": [],
+"spec/dw_dm_ext1off.idw": [],
+"spec/dw_dm_ext2off.idw": [],
+"spec/dw_dm_hideval.idw": [],
+"spec/dw_dm_textout.idw": [],
+"spec/dw_empty.idw": [],
+"spec/dw_hn_p10_depthprec3.idw": [],
+"spec/dw_hn_p11_blinddiatol.idw": [],
+"spec/dw_hn_p12_row3tol.idw": [],
+"spec/dw_hn_p13_row4tol.idw": [],
+"spec/dw_hn_p14_row5tol.idw": [],
+"spec/dw_hn_p15_row6tol.idw": [],
+"spec/dw_hn_p16_row7tol.idw": [],
+"spec/dw_hn_p17_row8tol.idw": [],
+"spec/dw_hn_p18_row9tol.idw": [],
+"spec/dw_hn_p19_diatolprec5.idw": [],
+"spec/dw_hn_p1_noglobal.idw": [],
+"spec/dw_hn_p20_diatolalt1.idw": [],
+"spec/dw_hn_p21_parttol.idw": [],
+"spec/dw_hn_p22_fmthoriz.idw": [],
+"spec/dw_hn_p23_fracscale50.idw": [],
+"spec/dw_hn_p24_customdesig.idw": [],
+"spec/dw_hn_p25_row7upper.idw": [],
+"spec/dw_hn_p2_diaprec4.idw": [],
+"spec/dw_hn_p3_diaalt3.idw": [],
+"spec/dw_hn_p4_diatol.idw": [],
+"spec/dw_hn_p5_diaupper.idw": [],
+"spec/dw_hn_p6_diadev.idw": [],
+"spec/dw_hn_p7_dialower.idw": [],
+"spec/dw_hn_p8_showall.idw": [],
+"spec/dw_hn_p9_depthtol.idw": [],
+"spec/dw_hn_partunits.idw": [],
+"spec/dw_hn_rh.idw": [],
+"spec/dw_hn_tapdrill.idw": [],
+"spec/dw_hn_usedef.idw": [],
+"spec/dw_move.idw": [],
+"spec/dw_note.idw": [],
+"spec/dw_note0.idw": [],
+"spec/dw_nt_color.idw": [],
+"spec/dw_nt_hleft.idw": [],
+"spec/dw_nt_hright.idw": [],
+"spec/dw_nt_ls15.idw": [],
+"spec/dw_nt_lsexact.idw": [],
+"spec/dw_nt_rot90.idw": [],
+"spec/dw_nt_vlower.idw": [],
+"spec/dw_nt_vupper.idw": [],
+"spec/dw_proj.idw": [],
+"spec/dw_rename.idw": [],
+"spec/dw_scale.idw": [],
+"spec/dw_sheet1act.idw": [],
+"spec/dw_sheet2.idw": [],
+"spec/dw_size.idw": [],
+"spec/dw_sn_s10_row9tol.idw": [],
+"spec/dw_sn_s11_row10tol.idw": [],
+"spec/dw_sn_s12_parttol.idw": [],
+"spec/dw_sn_s13_usedefault.idw": [],
+"spec/dw_sn_s1_noglobal.idw": [],
+"spec/dw_sn_s2_row1tol.idw": [],
+"spec/dw_sn_s3_row2tol.idw": [],
+"spec/dw_sn_s4_row3tol.idw": [],
+"spec/dw_sn_s5_row4tol.idw": [],
+"spec/dw_sn_s6_row5tol.idw": [],
+"spec/dw_sn_s7_row6tol.idw": [],
+"spec/dw_sn_s8_row7tol.idw": [],
+"spec/dw_sn_s9_row8tol.idw": [],
+"spec/dw_zones.idw": [],
+"spec/em_emboss.ipt": [
+{
+"flags": 3,
+"live": {
+"ATTRIB_CUSTOM-attrib": 32,
+"asmheader": 1,
+"body": 1,
+"coedge": 28,
+"cone-surface": 1,
+"edge": 14,
+"ellipse-curve": 2,
+"face": 8,
+"loop": 10,
+"lump": 1,
+"plane-surface": 7,
+"point": 10,
+"shell": 1,
+"straight-curve": 13,
+"transform": 1,
+"vertex": 10
+},
+"n_entities": 2,
+"node": 6,
+"records": 155,
+"segment": "PmBRepSegment",
+"subtype_definitions": 0,
+"version": 23200
+},
+{
+"flags": 3,
+"live": {
+"ATTRIB_CUSTOM-attrib": 9,
+"asmheader": 1,
+"body": 2,
+"coedge": 5,
+"edge": 5,
+"ellipse-curve": 1,
+"face": 1,
+"loop": 1,
+"lump": 2,
+"plane-surface": 1,
+"point": 5,
+"shell": 2,
+"straight-curve": 4,
+"vertex": 5,
+"wire": 1
+},
+"n_entities": 3,
+"node": 100,
+"records": 47,
+"segment": "PmDCSegment",
+"subtype_definitions": 0,
+"version": 23200
+}
+],
+"spec/em_engrave.ipt": [
+{
+"flags": 3,
+"live": {
+"ATTRIB_CUSTOM-attrib": 32,
+"asmheader": 1,
+"body": 1,
+"coedge": 28,
+"cone-surface": 1,
+"edge": 14,
+"ellipse-curve": 2,
+"face": 8,
+"loop": 10,
+"lump": 1,
+"plane-surface": 7,
+"point": 10,
+"shell": 1,
+"straight-curve": 13,
+"transform": 1,
+"vertex": 10
+},
+"n_entities": 2,
+"node": 6,
+"records": 155,
+"segment": "PmBRepSegment",
+"subtype_definitions": 0,
+"version": 23200
+},
+{
+"flags": 3,
+"live": {
+"ATTRIB_CUSTOM-attrib": 9,
+"asmheader": 1,
+"body": 2,
+"coedge": 5,
+"edge": 5,
+"ellipse-curve": 1,
+"face": 1,
+"loop": 1,
+"lump": 2,
+"plane-surface": 1,
+"point": 5,
+"shell": 2,
+"straight-curve": 4,
+"vertex": 5,
+"wire": 1
+},
+"n_entities": 3,
+"node": 100,
+"records": 47,
+"segment": "PmDCSegment",
+"subtype_definitions": 0,
+"version": 23200
+}
+],
+"spec/em_flip.ipt": [
+{
+"flags": 3,
+"live": {
+"ATTRIB_CUSTOM-attrib": 32,
+"asmheader": 1,
+"body": 1,
+"coedge": 28,
+"cone-surface": 1,
+"edge": 14,
+"ellipse-curve": 2,
+"face": 8,
+"loop": 10,
+"lump": 1,
+"plane-surface": 7,
+"point": 10,
+"shell": 1,
+"straight-curve": 13,
+"transform": 1,
+"vertex": 10
+},
+"n_entities": 2,
+"node": 6,
+"records": 155,
+"segment": "PmBRepSegment",
+"subtype_definitions": 0,
+"version": 23200
+},
+{
+"flags": 3,
+"live": {
+"ATTRIB_CUSTOM-attrib": 9,
+"asmheader": 1,
+"body": 2,
+"coedge": 5,
+"edge": 5,
+"ellipse-curve": 1,
+"face": 1,
+"loop": 1,
+"lump": 2,
+"plane-surface": 1,
+"point": 5,
+"shell": 2,
+"straight-curve": 4,
+"vertex": 5,
+"wire": 1
+},
+"n_entities": 3,
+"node": 100,
+"records": 47,
+"segment": "PmDCSegment",
+"subtype_definitions": 0,
+"version": 23200
+}
+],
+"spec/em_plane.ipt": [
+{
+"flags": 3,
+"live": {
+"ATTRIB_CUSTOM-attrib": 30,
+"asmheader": 1,
+"body": 1,
+"coedge": 24,
+"edge": 12,
+"face": 6,
+"loop": 6,
+"lump": 1,
+"plane-surface": 6,
+"point": 8,
+"shell": 1,
+"straight-curve": 13,
+"transform": 1,
+"vertex": 8
+},
+"n_entities": 2,
+"node": 6,
+"records": 136,
+"segment": "PmBRepSegment",
+"subtype_definitions": 0,
+"version": 23200
+},
+{
+"flags": 3,
+"live": {
+"ATTRIB_CUSTOM-attrib": 9,
+"asmheader": 1,
+"body": 2,
+"coedge": 5,
+"edge": 5,
+"ellipse-curve": 1,
+"face": 1,
+"loop": 1,
+"lump": 2,
+"plane-surface": 1,
+"point": 5,
+"shell": 2,
+"straight-curve": 4,
+"vertex": 5,
+"wire": 1
+},
+"n_entities": 3,
+"node": 99,
+"records": 47,
+"segment": "PmDCSegment",
+"subtype_definitions": 0,
+"version": 23200
+}
+],
+"spec/em_wrap.ipt": [
+{
+"flags": 3,
+"live": {
+"ATTRIB_CUSTOM-attrib": 19,
+"asmheader": 1,
+"body": 1,
+"coedge": 14,
+"cone-surface": 3,
+"edge": 7,
+"ellipse-curve": 5,
+"face": 6,
+"intcurve-curve": 2,
+"loop": 11,
+"lump": 1,
+"pcurve": 4,
+"plane-surface": 2,
+"point": 6,
+"shell": 1,
+"spline-surface": 1,
+"straight-curve": 1,
+"vertex": 6
+},
+"n_entities": 2,
+"node": 6,
+"records": 100,
+"segment": "PmBRepSegment",
+"subtype_definitions": 8,
+"version": 23200
+},
+{
+"flags": 3,
+"live": {
+"ATTRIB_CUSTOM-attrib": 9,
+"asmheader": 1,
+"body": 2,
+"coedge": 5,
+"edge": 5,
+"ellipse-curve": 1,
+"face": 1,
+"loop": 1,
+"lump": 2,
+"plane-surface": 1,
+"point": 5,
+"shell": 2,
+"straight-curve": 4,
+"vertex": 5,
+"wire": 1
+},
+"n_entities": 3,
+"node": 129,
+"records": 47,
+"segment": "PmDCSegment",
+"subtype_definitions": 0,
+"version": 23200
+}
+],
+"spec/ex_base2.ipt": [
+{
+"flags": 3,
+"live": {
+"ATTRIB_CUSTOM-attrib": 30,
+"asmheader": 1,
+"body": 1,
+"coedge": 24,
+"edge": 12,
+"face": 6,
+"loop": 6,
+"lump": 1,
+"plane-surface": 6,
+"point": 8,
+"shell": 1,
+"straight-curve": 13,
+"vertex": 8
+},
+"n_entities": 2,
+"node": 5,
+"records": 120,
+"segment": "PmBRepSegment",
+"subtype_definitions": 0,
+"version": 23200
+},
+{
+"flags": 3,
+"live": {
+"ATTRIB_CUSTOM-attrib": 8,
+"asmheader": 1,
+"body": 1,
+"coedge": 4,
+"edge": 4,
+"face": 1,
+"loop": 1,
+"lump": 1,
+"plane-surface": 1,
+"point": 4,
+"shell": 1,
+"straight-curve": 4,
+"vertex": 4
+},
+"n_entities": 2,
+"node": 83,
+"records": 37,
+"segment": "PmDCSegment",
+"subtype_definitions": 0,
+"version": 23200
+}
+],
+"spec/ex_cut10.ipt": [
+{
+"flags": 3,
+"live": {
+"ATTRIB_CUSTOM-attrib": 35,
+"asmheader": 1,
+"body": 1,
+"coedge": 28,
+"cone-surface": 1,
+"edge": 14,
+"ellipse-curve": 3,
+"face": 8,
+"loop": 10,
+"lump": 1,
+"plane-surface": 7,
+"point": 10,
+"shell": 1,
+"straight-curve": 14,
+"vertex": 10
+},
+"n_entities": 2,
+"node": 6,
+"records": 150,
+"segment": "PmBRepSegment",
+"subtype_definitions": 0,
+"version": 23200
+},
+{
+"flags": 3,
+"live": {
+"ATTRIB_CUSTOM-attrib": 9,
+"asmheader": 1,
+"body": 2,
+"coedge": 5,
+"edge": 5,
+"ellipse-curve": 1,
+"face": 2,
+"loop": 2,
+"lump": 2,
+"plane-surface": 2,
+"point": 5,
+"shell": 2,
+"straight-curve": 4,
+"vertex": 5
+},
+"n_entities": 3,
+"node": 102,
+"records": 49,
+"segment": "PmDCSegment",
+"subtype_definitions": 0,
+"version": 23200
+}
+],
+"spec/ex_cut_thru.ipt": [
+{
+"flags": 3,
+"live": {
+"ATTRIB_CUSTOM-attrib": 32,
+"asmheader": 1,
+"body": 1,
+"coedge": 28,
+"cone-surface": 1,
+"edge": 14,
+"ellipse-curve": 3,
+"face": 7,
+"loop": 10,
+"lump": 1,
+"plane-surface": 6,
+"point": 10,
+"shell": 1,
+"straight-curve": 14,
+"vertex": 10
+},
+"n_entities": 2,
+"node": 6,
+"records": 146,
+"segment": "PmBRepSegment",
+"subtype_definitions": 0,
+"version": 23200
+},
+{
+"flags": 3,
+"live": {
+"ATTRIB_CUSTOM-attrib": 9,
+"asmheader": 1,
+"body": 2,
+"coedge": 5,
+"edge": 5,
+"ellipse-curve": 1,
+"face": 2,
+"loop": 2,
+"lump": 2,
+"plane-surface": 2,
+"point": 5,
+"shell": 2,
+"straight-curve": 4,
+"vertex": 5
+},
+"n_entities": 3,
+"node": 102,
+"records": 49,
+"segment": "PmDCSegment",
+"subtype_definitions": 0,
+"version": 23200
+}
+],
+"spec/ex_from_face.ipt": [
+{
+"flags": 3,
+"live": {
+"ATTRIB_CUSTOM-attrib": 33,
+"asmheader": 1,
+"body": 1,
+"coedge": 28,
+"cone-surface": 1,
+"edge": 14,
+"ellipse-curve": 3,
+"face": 8,
+"loop": 10,
+"lump": 1,
+"plane-surface": 7,
+"point": 10,
+"shell": 1,
+"straight-curve": 14,
+"vertex": 10
+},
+"n_entities": 2,
+"node": 6,
+"records": 210,
+"segment": "PmBRepSegment",
+"subtype_definitions": 0,
+"version": 23200
+},
+{
+"flags": 3,
+"live": {
+"ATTRIB_CUSTOM-attrib": 9,
+"asmheader": 1,
+"body": 2,
+"coedge": 5,
+"edge": 5,
+"ellipse-curve": 1,
+"face": 2,
+"loop": 2,
+"lump": 2,
+"plane-surface": 2,
+"point": 5,
+"shell": 2,
+"straight-curve": 4,
+"vertex": 5
+},
+"n_entities": 3,
+"node": 107,
+"records": 49,
+"segment": "PmDCSegment",
+"subtype_definitions": 0,
+"version": 23200
+}
+],
+"spec/ex_intersect.ipt": [
+{
+"flags": 3,
+"live": {
+"ATTRIB_CUSTOM-attrib": 6,
+"asmheader": 1,
+"body": 1,
+"coedge": 4,
+"cone-surface": 1,
+"edge": 2,
+"ellipse-curve": 3,
+"face": 3,
+"loop": 4,
+"lump": 1,
+"plane-surface": 2,
+"point": 2,
+"shell": 1,
+"straight-curve": 1,
+"vertex": 2
+},
+"n_entities": 2,
+"node": 6,
+"records": 151,
+"segment": "PmBRepSegment",
+"subtype_definitions": 0,
+"version": 23200
+},
+{
+"flags": 3,
+"live": {
+"ATTRIB_CUSTOM-attrib": 9,
+"asmheader": 1,
+"body": 2,
+"coedge": 5,
+"edge": 5,
+"ellipse-curve": 1,
+"face": 2,
+"loop": 2,
+"lump": 2,
+"plane-surface": 2,
+"point": 5,
+"shell": 2,
+"straight-curve": 4,
+"vertex": 5
+},
+"n_entities": 3,
+"node": 102,
+"records": 49,
+"segment": "PmDCSegment",
+"subtype_definitions": 0,
+"version": 23200
+}
+],
+"spec/ex_mass.ipt": [
+{
+"flags": 3,
+"live": {
+"ATTRIB_CUSTOM-attrib": 30,
+"asmheader": 1,
+"body": 1,
+"coedge": 24,
+"edge": 12,
+"face": 6,
+"loop": 6,
+"lump": 1,
+"plane-surface": 6,
+"point": 8,
+"shell": 1,
+"straight-curve": 13,
+"vertex": 8
+},
+"n_entities": 2,
+"node": 5,
+"records": 120,
+"segment": "PmBRepSegment",
+"subtype_definitions": 0,
+"version": 23200
+},
+{
+"flags": 3,
+"live": {
+"ATTRIB_CUSTOM-attrib": 8,
+"asmheader": 1,
+"body": 1,
+"coedge": 4,
+"edge": 4,
+"face": 1,
+"loop": 1,
+"lump": 1,
+"plane-surface": 1,
+"point": 4,
+"shell": 1,
+"straight-curve": 4,
+"vertex": 4
+},
+"n_entities": 2,
+"node": 71,
+"records": 37,
+"segment": "PmDCSegment",
+"subtype_definitions": 0,
+"version": 23200
+}
+],
+"spec/ex_newsolid.ipt": [
+{
+"flags": 3,
+"live": {
+"ATTRIB_CUSTOM-attrib": 38,
+"asmheader": 1,
+"body": 2,
+"coedge": 28,
+"cone-surface": 1,
+"edge": 14,
+"ellipse-curve": 3,
+"face": 9,
+"loop": 10,
+"lump": 2,
+"plane-surface": 8,
+"point": 10,
+"shell": 2,
+"straight-curve": 14,
+"vertex": 10
+},
+"n_entities": 3,
+"node": 7,
+"records": 156,
+"segment": "PmBRepSegment",
+"subtype_definitions": 0,
+"version": 23200
+},
+{
+"flags": 3,
+"live": {
+"ATTRIB_CUSTOM-attrib": 9,
+"asmheader": 1,
+"body": 2,
+"coedge": 5,
+"edge": 5,
+"ellipse-curve": 1,
+"face": 2,
+"loop": 2,
+"lump": 2,
+"plane-surface": 2,
+"point": 5,
+"shell": 2,
+"straight-curve": 4,
+"vertex": 5
+},
+"n_entities": 3,
+"node": 103,
+"records": 49,
+"segment": "PmDCSegment",
+"subtype_definitions": 0,
+"version": 23200
+}
+],
+"spec/ex_rect10.ipt": [
+{
+"flags": 3,
+"live": {
+"ATTRIB_CUSTOM-attrib": 30,
+"asmheader": 1,
+"body": 1,
+"coedge": 24,
+"edge": 12,
+"face": 6,
+"loop": 6,
+"lump": 1,
+"plane-surface": 6,
+"point": 8,
+"shell": 1,
+"straight-curve": 13,
+"vertex": 8
+},
+"n_entities": 2,
+"node": 5,
+"records": 120,
+"segment": "PmBRepSegment",
+"subtype_definitions": 0,
+"version": 23200
+},
+{
+"flags": 3,
+"live": {
+"ATTRIB_CUSTOM-attrib": 8,
+"asmheader": 1,
+"body": 1,
+"coedge": 4,
+"edge": 4,
+"face": 1,
+"loop": 1,
+"lump": 1,
+"plane-surface": 1,
+"point": 4,
+"shell": 1,
+"straight-curve": 4,
+"vertex": 4
+},
+"n_entities": 2,
+"node": 71,
+"records": 37,
+"segment": "PmDCSegment",
+"subtype_definitions": 0,
+"version": 23200
+}
+],
+"spec/ex_rect10_flip.ipt": [
+{
+"flags": 3,
+"live": {
+"ATTRIB_CUSTOM-attrib": 30,
+"asmheader": 1,
+"body": 1,
+"coedge": 24,
+"edge": 12,
+"face": 6,
+"loop": 6,
+"lump": 1,
+"plane-surface": 6,
+"point": 8,
+"shell": 1,
+"straight-curve": 13,
+"vertex": 8
+},
+"n_entities": 2,
+"node": 5,
+"records": 120,
+"segment": "PmBRepSegment",
+"subtype_definitions": 0,
+"version": 23200
+},
+{
+"flags": 3,
+"live": {
+"ATTRIB_CUSTOM-attrib": 8,
+"asmheader": 1,
+"body": 1,
+"coedge": 4,
+"edge": 4,
+"face": 1,
+"loop": 1,
+"lump": 1,
+"plane-surface": 1,
+"point": 4,
+"shell": 1,
+"straight-curve": 4,
+"vertex": 4
+},
+"n_entities": 2,
+"node": 71,
+"records": 37,
+"segment": "PmDCSegment",
+"subtype_definitions": 0,
+"version": 23200
+}
+],
+"spec/ex_rect10_sym.ipt": [
+{
+"flags": 3,
+"live": {
+"ATTRIB_CUSTOM-attrib": 30,
+"asmheader": 1,
+"body": 1,
+"coedge": 24,
+"edge": 12,
+"face": 6,
+"loop": 6,
+"lump": 1,
+"plane-surface": 6,
+"point": 8,
+"shell": 1,
+"straight-curve": 13,
+"vertex": 8
+},
+"n_entities": 2,
+"node": 5,
+"records": 120,
+"segment": "PmBRepSegment",
+"subtype_definitions": 0,
+"version": 23200
+},
+{
+"flags": 3,
+"live": {
+"ATTRIB_CUSTOM-attrib": 8,
+"asmheader": 1,
+"body": 1,
+"coedge": 4,
+"edge": 4,
+"face": 1,
+"loop": 1,
+"lump": 1,
+"plane-surface": 1,
+"point": 4,
+"shell": 1,
+"straight-curve": 4,
+"vertex": 4
+},
+"n_entities": 2,
+"node": 71,
+"records": 37,
+"segment": "PmDCSegment",
+"subtype_definitions": 0,
+"version": 23200
+}
+],
+"spec/ex_rect10_taper5.ipt": [
+{
+"flags": 3,
+"live": {
+"ATTRIB_CUSTOM-attrib": 30,
+"asmheader": 1,
+"body": 1,
+"coedge": 24,
+"edge": 12,
+"face": 6,
+"loop": 6,
+"lump": 1,
+"plane-surface": 6,
+"point": 8,
+"shell": 1,
+"straight-curve": 13,
+"vertex": 8
+},
+"n_entities": 2,
+"node": 5,
+"records": 120,
+"segment": "PmBRepSegment",
+"subtype_definitions": 0,
+"version": 23200
+},
+{
+"flags": 3,
+"live": {
+"ATTRIB_CUSTOM-attrib": 8,
+"asmheader": 1,
+"body": 1,
+"coedge": 4,
+"edge": 4,
+"face": 1,
+"loop": 1,
+"lump": 1,
+"plane-surface": 1,
+"point": 4,
+"shell": 1,
+"straight-curve": 4,
+"vertex": 4
+},
+"n_entities": 2,
+"node": 71,
+"records": 37,
+"segment": "PmDCSegment",
+"subtype_definitions": 0,
+"version": 23200
+}
+],
+"spec/ex_rect20.ipt": [
+{
+"flags": 3,
+"live": {
+"ATTRIB_CUSTOM-attrib": 30,
+"asmheader": 1,
+"body": 1,
+"coedge": 24,
+"edge": 12,
+"face": 6,
+"loop": 6,
+"lump": 1,
+"plane-surface": 6,
+"point": 8,
+"shell": 1,
+"straight-curve": 13,
+"vertex": 8
+},
+"n_entities": 2,
+"node": 5,
+"records": 120,
+"segment": "PmBRepSegment",
+"subtype_definitions": 0,
+"version": 23200
+},
+{
+"flags": 3,
+"live": {
+"ATTRIB_CUSTOM-attrib": 8,
+"asmheader": 1,
+"body": 1,
+"coedge": 4,
+"edge": 4,
+"face": 1,
+"loop": 1,
+"lump": 1,
+"plane-surface": 1,
+"point": 4,
+"shell": 1,
+"straight-curve": 4,
+"vertex": 4
+},
+"n_entities": 2,
+"node": 71,
+"records": 37,
+"segment": "PmDCSegment",
+"subtype_definitions": 0,
+"version": 23200
+}
+],
+"spec/ex_surface.ipt": [
+{
+"flags": 3,
+"live": {
+"ATTRIB_CUSTOM-attrib": 36,
+"asmheader": 1,
+"body": 2,
+"coedge": 26,
+"cone-surface": 1,
+"edge": 14,
+"ellipse-curve": 3,
+"face": 7,
+"loop": 8,
+"lump": 2,
+"plane-surface": 6,
+"point": 10,
+"shell": 2,
+"straight-curve": 14,
+"vertex": 10
+},
+"n_entities": 3,
+"node": 7,
+"records": 146,
+"segment": "PmBRepSegment",
+"subtype_definitions": 0,
+"version": 23200
+},
+{
+"flags": 3,
+"live": {
+"ATTRIB_CUSTOM-attrib": 9,
+"asmheader": 1,
+"body": 2,
+"coedge": 5,
+"edge": 5,
+"ellipse-curve": 1,
+"face": 1,
+"loop": 1,
+"lump": 2,
+"plane-surface": 1,
+"point": 5,
+"shell": 2,
+"straight-curve": 4,
+"vertex": 5,
+"wire": 1
+},
+"n_entities": 3,
+"node": 99,
+"records": 47,
+"segment": "PmDCSegment",
+"subtype_definitions": 0,
+"version": 23200
+}
+],
+"spec/ex_to_face.ipt": [
+{
+"flags": 3,
+"live": {
+"ATTRIB_CUSTOM-attrib": 32,
+"asmheader": 1,
+"body": 1,
+"coedge": 28,
+"cone-surface": 1,
+"edge": 14,
+"ellipse-curve": 3,
+"face": 7,
+"loop": 10,
+"lump": 1,
+"plane-surface": 6,
+"point": 10,
+"shell": 1,
+"straight-curve": 14,
+"vertex": 10
+},
+"n_entities": 2,
+"node": 6,
+"records": 146,
+"segment": "PmBRepSegment",
+"subtype_definitions": 0,
+"version": 23200
+},
+{
+"flags": 3,
+"live": {
+"ATTRIB_CUSTOM-attrib": 9,
+"asmheader": 1,
+"body": 2,
+"coedge": 5,
+"edge": 5,
+"ellipse-curve": 1,
+"face": 2,
+"loop": 2,
+"lump": 2,
+"plane-surface": 2,
+"point": 5,
+"shell": 2,
+"straight-curve": 4,
+"vertex": 5
+},
+"n_entities": 3,
+"node": 106,
+"records": 49,
+"segment": "PmDCSegment",
+"subtype_definitions": 0,
+"version": 23200
+}
+],
+"spec/ex_to_next.ipt": [
+{
+"flags": 3,
+"live": {
+"ATTRIB_CUSTOM-attrib": 32,
+"asmheader": 1,
+"body": 1,
+"coedge": 28,
+"cone-surface": 1,
+"edge": 14,
+"ellipse-curve": 3,
+"face": 7,
+"loop": 10,
+"lump": 1,
+"plane-surface": 6,
+"point": 10,
+"shell": 1,
+"straight-curve": 14,
+"vertex": 10
+},
+"n_entities": 2,
+"node": 6,
+"records": 152,
+"segment": "PmBRepSegment",
+"subtype_definitions": 0,
+"version": 23200
+},
+{
+"flags": 3,
+"live": {
+"ATTRIB_CUSTOM-attrib": 9,
+"asmheader": 1,
+"body": 2,
+"coedge": 5,
+"edge": 5,
+"ellipse-curve": 1,
+"face": 2,
+"loop": 2,
+"lump": 2,
+"plane-surface": 2,
+"point": 5,
+"shell": 2,
+"straight-curve": 4,
+"vertex": 5
+},
+"n_entities": 3,
+"node": 104,
+"records": 49,
+"segment": "PmDCSegment",
+"subtype_definitions": 0,
+"version": 23200
+}
+],
+"spec/ex_two_dir.ipt": [
+{
+"flags": 3,
+"live": {
+"ATTRIB_CUSTOM-attrib": 35,
+"asmheader": 1,
+"body": 1,
+"coedge": 28,
+"cone-surface": 1,
+"edge": 14,
+"ellipse-curve": 3,
+"face": 8,
+"loop": 10,
+"lump": 1,
+"plane-surface": 7,
+"point": 10,
+"shell": 1,
+"straight-curve": 14,
+"vertex": 10
+},
+"n_entities": 2,
+"node": 6,
+"records": 150,
+"segment": "PmBRepSegment",
+"subtype_definitions": 0,
+"version": 23200
+},
+{
+"flags": 3,
+"live": {
+"ATTRIB_CUSTOM-attrib": 9,
+"asmheader": 1,
+"body": 2,
+"coedge": 5,
+"edge": 5,
+"ellipse-curve": 1,
+"face": 2,
+"loop": 2,
+"lump": 2,
+"plane-surface": 2,
+"point": 5,
+"shell": 2,
+"straight-curve": 4,
+"vertex": 5
+},
+"n_entities": 3,
+"node": 105,
+"records": 49,
+"segment": "PmDCSegment",
+"subtype_definitions": 0,
+"version": 23200
+}
+],
+"spec/fl_const.ipt": [
+{
+"flags": 3,
+"live": {
+"ATTRIB_CUSTOM-attrib": 28,
+"asmheader": 1,
+"body": 1,
+"coedge": 30,
+"cone-surface": 1,
+"edge": 15,
+"ellipse-curve": 2,
+"face": 7,
+"loop": 7,
+"lump": 1,
+"plane-surface": 6,
+"point": 10,
+"shell": 1,
+"straight-curve": 14,
+"vertex": 10
+},
+"n_entities": 2,
+"node": 6,
+"records": 215,
+"segment": "PmBRepSegment",
+"subtype_definitions": 0,
+"version": 23200
+},
+{
+"flags": 3,
+"live": {
+"ATTRIB_CUSTOM-attrib": 8,
+"asmheader": 1,
+"body": 1,
+"coedge": 4,
+"edge": 4,
+"face": 1,
+"loop": 1,
+"lump": 1,
+"plane-surface": 1,
+"point": 4,
+"shell": 1,
+"straight-curve": 4,
+"vertex": 4
+},
+"n_entities": 2,
+"node": 100,
+"records": 37,
+"segment": "PmDCSegment",
+"subtype_definitions": 0,
+"version": 23200
+}
+],
+"spec/fl_face.ipt": [
+{
+"flags": 3,
+"live": {
+"ATTRIB_CUSTOM-attrib": 30,
+"asmheader": 1,
+"body": 1,
+"coedge": 30,
+"cone-surface": 1,
+"edge": 15,
+"ellipse-curve": 2,
+"face": 7,
+"loop": 7,
+"lump": 1,
+"plane-surface": 6,
+"point": 10,
+"shell": 1,
+"straight-curve": 14,
+"vertex": 10
+},
+"n_entities": 2,
+"node": 6,
+"records": 209,
+"segment": "PmBRepSegment",
+"subtype_definitions": 0,
+"version": 23200
+},
+{
+"flags": 3,
+"live": {
+"ATTRIB_CUSTOM-attrib": 8,
+"asmheader": 1,
+"body": 1,
+"coedge": 4,
+"edge": 4,
+"face": 1,
+"loop": 1,
+"lump": 1,
+"plane-surface": 1,
+"point": 4,
+"shell": 1,
+"straight-curve": 4,
+"vertex": 4
+},
+"n_entities": 2,
+"node": 126,
+"records": 37,
+"segment": "PmDCSegment",
+"subtype_definitions": 0,
+"version": 23200
+}
+],
+"spec/fl_fullround.ipt": [
+{
+"flags": 3,
+"live": {
+"ATTRIB_CUSTOM-attrib": 23,
+"asmheader": 1,
+"body": 1,
+"coedge": 24,
+"cone-surface": 1,
+"edge": 12,
+"ellipse-curve": 2,
+"face": 6,
+"loop": 6,
+"lump": 1,
+"plane-surface": 5,
+"point": 8,
+"shell": 1,
+"straight-curve": 11,
+"vertex": 8
+},
+"n_entities": 2,
+"node": 6,
+"records": 207,
+"segment": "PmBRepSegment",
+"subtype_definitions": 0,
+"version": 23200
+},
+{
+"flags": 3,
+"live": {
+"ATTRIB_CUSTOM-attrib": 8,
+"asmheader": 1,
+"body": 1,
+"coedge": 4,
+"edge": 4,
+"face": 1,
+"loop": 1,
+"lump": 1,
+"plane-surface": 1,
+"point": 4,
+"shell": 1,
+"straight-curve": 4,
+"vertex": 4
+},
+"n_entities": 2,
+"node": 140,
+"records": 37,
+"segment": "PmDCSegment",
+"subtype_definitions": 0,
+"version": 23200
+}
+],
+"spec/fl_setback.ipt": [
+{
+"flags": 3,
+"live": {
+"ATTRIB_CUSTOM-attrib": 27,
+"asmheader": 1,
+"body": 1,
+"coedge": 46,
+"cone-surface": 3,
+"edge": 23,
+"ellipse-curve": 6,
+"face": 10,
+"intcurve-curve": 2,
+"loop": 10,
+"lump": 1,
+"pcurve": 5,
+"plane-surface": 6,
+"point": 15,
+"shell": 1,
+"spline-surface": 1,
+"straight-curve": 16,
+"vertex": 15
+},
+"n_entities": 2,
+"node": 6,
+"records": 333,
+"segment": "PmBRepSegment",
+"subtype_definitions": 8,
+"version": 23200
+},
+{
+"flags": 3,
+"live": {
+"ATTRIB_CUSTOM-attrib": 8,
+"asmheader": 1,
+"body": 1,
+"coedge": 4,
+"edge": 4,
+"face": 1,
+"loop": 1,
+"lump": 1,
+"plane-surface": 1,
+"point": 4,
+"shell": 1,
+"straight-curve": 4,
+"vertex": 4
+},
+"n_entities": 2,
+"node": 125,
+"records": 37,
+"segment": "PmDCSegment",
+"subtype_definitions": 0,
+"version": 23200
+}
+],
+"spec/fl_two_sets.ipt": [
+{
+"flags": 3,
+"live": {
+"ATTRIB_CUSTOM-attrib": 27,
+"asmheader": 1,
+"body": 1,
+"coedge": 36,
+"cone-surface": 2,
+"edge": 18,
+"ellipse-curve": 3,
+"face": 8,
+"intcurve-curve": 1,
+"loop": 8,
+"lump": 1,
+"plane-surface": 6,
+"point": 12,
+"shell": 1,
+"straight-curve": 15,
+"vertex": 12
+},
+"n_entities": 2,
+"node": 6,
+"records": 267,
+"segment": "PmBRepSegment",
+"subtype_definitions": 1,
+"version": 23200
+},
+{
+"flags": 3,
+"live": {
+"ATTRIB_CUSTOM-attrib": 8,
+"asmheader": 1,
+"body": 1,
+"coedge": 4,
+"edge": 4,
+"face": 1,
+"loop": 1,
+"lump": 1,
+"plane-surface": 1,
+"point": 4,
+"shell": 1,
+"straight-curve": 4,
+"vertex": 4
+},
+"n_entities": 2,
+"node": 113,
+"records": 37,
+"segment": "PmDCSegment",
+"subtype_definitions": 0,
+"version": 23200
+}
+],
+"spec/fl_variable.ipt": [
+{
+"flags": 3,
+"live": {
+"ATTRIB_CUSTOM-attrib": 25,
+"asmheader": 1,
+"body": 1,
+"coedge": 42,
+"cone-surface": 2,
+"edge": 21,
+"ellipse-curve": 3,
+"face": 9,
+"intcurve-curve": 5,
+"loop": 9,
+"lump": 1,
+"pcurve": 4,
+"plane-surface": 6,
+"point": 14,
+"shell": 1,
+"spline-surface": 1,
+"straight-curve": 14,
+"vertex": 14
+},
+"n_entities": 2,
+"node": 7,
+"records": 367,
+"segment": "PmBRepSegment",
+"subtype_definitions": 10,
+"version": 23200
+},
+{
+"flags": 3,
+"live": {
+"ATTRIB_CUSTOM-attrib": 8,
+"asmheader": 1,
+"body": 1,
+"coedge": 4,
+"edge": 4,
+"face": 1,
+"loop": 1,
+"lump": 1,
+"plane-surface": 1,
+"point": 4,
+"shell": 1,
+"straight-curve": 4,
+"vertex": 4
+},
+"n_entities": 2,
+"node": 150,
+"records": 37,
+"segment": "PmDCSegment",
+"subtype_definitions": 0,
+"version": 23200
+}
+],
+"spec/fm_basic.ipt": [
+{
+"flags": 3,
+"live": {
+"ATTRIB_CUSTOM-attrib": 10,
+"asmheader": 1,
+"body": 1,
+"coedge": 4,
+"edge": 4,
+"face": 1,
+"loop": 1,
+"lump": 1,
+"plane-surface": 1,
+"point": 4,
+"shell": 1,
+"straight-curve": 4,
+"vertex": 4
+},
+"n_entities": 2,
+"node": 5,
+"records": 40,
+"segment": "PmBRepSegment",
+"subtype_definitions": 0,
+"version": 23200
+},
+{
+"flags": 3,
+"live": {
+"ATTRIB_CUSTOM-attrib": 10,
+"asmheader": 1,
+"body": 1,
+"coedge": 4,
+"edge": 4,
+"face": 1,
+"loop": 1,
+"lump": 1,
+"plane-surface": 1,
+"point": 4,
+"shell": 1,
+"straight-curve": 4,
+"vertex": 4
+},
+"n_entities": 2,
+"node": 28,
+"records": 39,
+"segment": "PmDCSegment",
+"subtype_definitions": 0,
+"version": 23200
+}
+],
+"spec/fn_basic.ipt": [
+{
+"flags": 3,
+"live": {
+"ATTRIB_CUSTOM-attrib": 43,
+"asmheader": 1,
+"body": 1,
+"coedge": 26,
+"edge": 13,
+"ellipse-curve": 1,
+"face": 7,
+"integer_attrib-name_attrib-gen-attrib": 1,
+"loop": 8,
+"lump": 1,
+"no_merge_attribute-st-attrib": 1,
+"plane-surface": 6,
+"point": 9,
+"shell": 1,
+"straight-curve": 13,
+"vertex": 9
+},
+"n_entities": 2,
+"node": 6,
+"records": 163,
+"segment": "PmBRepSegment",
+"subtype_definitions": 0,
+"version": 23200
+},
+{
+"flags": 3,
+"live": {
+"ATTRIB_CUSTOM-attrib": 11,
+"asmheader": 1,
+"body": 2,
+"coedge": 5,
+"edge": 5,
+"ellipse-curve": 1,
+"face": 1,
+"loop": 1,
+"lump": 2,
+"plane-surface": 1,
+"point": 5,
+"shell": 2,
+"straight-curve": 4,
+"vertex": 5,
+"wire": 1
+},
+"n_entities": 3,
+"node": 143,
+"records": 49,
+"segment": "PmDCSegment",
+"subtype_definitions": 0,
+"version": 23200
+}
+],
+"spec/ho_cbore.ipt": [
+{
+"flags": 3,
+"live": {
+"ATTRIB_CUSTOM-attrib": 42,
+"asmheader": 1,
+"body": 1,
+"coedge": 33,
+"cone-surface": 3,
+"edge": 17,
+"ellipse-curve": 4,
+"face": 10,
+"loop": 15,
+"lump": 1,
+"plane-surface": 7,
+"point": 13,
+"shell": 1,
+"straight-curve": 14,
+"vertex": 13
+},
+"n_entities": 2,
+"node": 6,
+"records": 188,
+"segment": "PmBRepSegment",
+"subtype_definitions": 0,
+"version": 23200
+},
+{
+"flags": 3,
+"live": {
+"ATTRIB_CUSTOM-attrib": 8,
+"asmheader": 1,
+"body": 1,
+"coedge": 4,
+"edge": 4,
+"face": 1,
+"loop": 1,
+"lump": 1,
+"plane-surface": 1,
+"point": 4,
+"shell": 1,
+"straight-curve": 4,
+"vertex": 4
+},
+"n_entities": 2,
+"node": 112,
+"records": 37,
+"segment": "PmDCSegment",
+"subtype_definitions": 0,
+"version": 23200
+}
+],
+"spec/ho_clearance.ipt": [
+{
+"flags": 3,
+"live": {
+"ATTRIB_CUSTOM-attrib": 37,
+"asmheader": 1,
+"body": 1,
+"coedge": 29,
+"cone-surface": 2,
+"edge": 15,
+"ellipse-curve": 2,
+"face": 8,
+"loop": 11,
+"lump": 1,
+"plane-surface": 6,
+"point": 11,
+"shell": 1,
+"straight-curve": 14,
+"vertex": 11
+},
+"n_entities": 2,
+"node": 6,
+"records": 163,
+"segment": "PmBRepSegment",
+"subtype_definitions": 0,
+"version": 23200
+},
+{
+"flags": 3,
+"live": {
+"ATTRIB_CUSTOM-attrib": 8,
+"asmheader": 1,
+"body": 1,
+"coedge": 4,
+"edge": 4,
+"face": 1,
+"loop": 1,
+"lump": 1,
+"plane-surface": 1,
+"point": 4,
+"shell": 1,
+"straight-curve": 4,
+"vertex": 4
+},
+"n_entities": 2,
+"node": 112,
+"records": 37,
+"segment": "PmDCSegment",
+"subtype_definitions": 0,
+"version": 23200
+}
+],
+"spec/ho_csink.ipt": [
+{
+"flags": 3,
+"live": {
+"ATTRIB_CUSTOM-attrib": 40,
+"asmheader": 1,
+"body": 1,
+"coedge": 31,
+"cone-surface": 3,
+"edge": 16,
+"ellipse-curve": 3,
+"face": 9,
+"loop": 13,
+"lump": 1,
+"plane-surface": 6,
+"point": 12,
+"shell": 1,
+"straight-curve": 14,
+"vertex": 12
+},
+"n_entities": 2,
+"node": 6,
+"records": 176,
+"segment": "PmBRepSegment",
+"subtype_definitions": 0,
+"version": 23200
+},
+{
+"flags": 3,
+"live": {
+"ATTRIB_CUSTOM-attrib": 8,
+"asmheader": 1,
+"body": 1,
+"coedge": 4,
+"edge": 4,
+"face": 1,
+"loop": 1,
+"lump": 1,
+"plane-surface": 1,
+"point": 4,
+"shell": 1,
+"straight-curve": 4,
+"vertex": 4
+},
+"n_entities": 2,
+"node": 112,
+"records": 37,
+"segment": "PmDCSegment",
+"subtype_definitions": 0,
+"version": 23200
+}
+],
+"spec/ho_simple.ipt": [
+{
+"flags": 3,
+"live": {
+"ATTRIB_CUSTOM-attrib": 33,
+"asmheader": 1,
+"body": 1,
+"coedge": 28,
+"cone-surface": 1,
+"edge": 14,
+"ellipse-curve": 2,
+"face": 7,
+"loop": 10,
+"lump": 1,
+"plane-surface": 6,
+"point": 10,
+"shell": 1,
+"straight-curve": 14,
+"vertex": 10
+},
+"n_entities": 2,
+"node": 6,
+"records": 153,
+"segment": "PmBRepSegment",
+"subtype_definitions": 0,
+"version": 23200
+},
+{
+"flags": 3,
+"live": {
+"ATTRIB_CUSTOM-attrib": 8,
+"asmheader": 1,
+"body": 1,
+"coedge": 4,
+"edge": 4,
+"face": 1,
+"loop": 1,
+"lump": 1,
+"plane-surface": 1,
+"point": 4,
+"shell": 1,
+"straight-curve": 4,
+"vertex": 4
+},
+"n_entities": 2,
+"node": 111,
+"records": 37,
+"segment": "PmDCSegment",
+"subtype_definitions": 0,
+"version": 23200
+}
+],
+"spec/ho_taper_tapped.ipt": [
+{
+"flags": 3,
+"live": {
+"ATTRIB_CUSTOM-attrib": 43,
+"asmheader": 1,
+"body": 1,
+"coedge": 33,
+"cone-surface": 3,
+"edge": 17,
+"ellipse-curve": 4,
+"face": 10,
+"loop": 15,
+"lump": 1,
+"plane-surface": 7,
+"point": 13,
+"shell": 1,
+"straight-curve": 14,
+"vertex": 13
+},
+"n_entities": 2,
+"node": 6,
+"records": 189,
+"segment": "PmBRepSegment",
+"subtype_definitions": 0,
+"version": 23200
+},
+{
+"flags": 3,
+"live": {
+"ATTRIB_CUSTOM-attrib": 8,
+"asmheader": 1,
+"body": 1,
+"coedge": 4,
+"edge": 4,
+"face": 1,
+"loop": 1,
+"lump": 1,
+"plane-surface": 1,
+"point": 4,
+"shell": 1,
+"straight-curve": 4,
+"vertex": 4
+},
+"n_entities": 2,
+"node": 114,
+"records": 37,
+"segment": "PmDCSegment",
+"subtype_definitions": 0,
+"version": 23200
+}
+],
+"spec/ho_tapped.ipt": [
+{
+"flags": 3,
+"live": {
+"ATTRIB_CUSTOM-attrib": 38,
+"asmheader": 1,
+"body": 1,
+"coedge": 29,
+"cone-surface": 2,
+"edge": 15,
+"ellipse-curve": 2,
+"face": 8,
+"loop": 11,
+"lump": 1,
+"plane-surface": 6,
+"point": 11,
+"shell": 1,
+"straight-curve": 14,
+"vertex": 11
+},
+"n_entities": 2,
+"node": 6,
+"records": 164,
+"segment": "PmBRepSegment",
+"subtype_definitions": 0,
+"version": 23200
+},
+{
+"flags": 3,
+"live": {
+"ATTRIB_CUSTOM-attrib": 8,
+"asmheader": 1,
+"body": 1,
+"coedge": 4,
+"edge": 4,
+"face": 1,
+"loop": 1,
+"lump": 1,
+"plane-surface": 1,
+"point": 4,
+"shell": 1,
+"straight-curve": 4,
+"vertex": 4
+},
+"n_entities": 2,
+"node": 112,
+"records": 37,
+"segment": "PmDCSegment",
+"subtype_definitions": 0,
+"version": 23200
+}
+],
+"spec/if_slot.ipt": [
+{
+"flags": 3,
+"live": {
+"ATTRIB_CUSTOM-attrib": 63,
+"asmheader": 1,
+"body": 1,
+"coedge": 72,
+"cone-surface": 2,
+"edge": 36,
+"ellipse-curve": 6,
+"face": 14,
+"loop": 14,
+"lump": 1,
+"plane-surface": 9,
+"point": 24,
+"shell": 1,
+"straight-curve": 28,
+"vertex": 24
+},
+"n_entities": 2,
+"node": 6,
+"records": 335,
+"segment": "PmBRepSegment",
+"subtype_definitions": 0,
+"version": 23200
+},
+{
+"flags": 3,
+"live": {
+"ATTRIB_CUSTOM-attrib": 8,
+"asmheader": 1,
+"body": 1,
+"coedge": 4,
+"edge": 4,
+"face": 1,
+"loop": 1,
+"lump": 1,
+"plane-surface": 1,
+"point": 4,
+"shell": 1,
+"straight-curve": 4,
+"vertex": 4
+},
+"n_entities": 2,
+"node": 136,
+"records": 37,
+"segment": "PmDCSegment",
+"subtype_definitions": 0,
+"version": 23200
+}
+],
+"spec/il_rule.ipt": [
+{
+"flags": 3,
+"live": {
+"ATTRIB_CUSTOM-attrib": 63,
+"asmheader": 1,
+"body": 1,
+"coedge": 72,
+"cone-surface": 2,
+"edge": 36,
+"ellipse-curve": 6,
+"face": 14,
+"loop": 14,
+"lump": 1,
+"plane-surface": 9,
+"point": 24,
+"shell": 1,
+"straight-curve": 28,
+"vertex": 24
+},
+"n_entities": 2,
+"node": 6,
+"records": 335,
+"segment": "PmBRepSegment",
+"subtype_definitions": 0,
+"version": 23200
+},
+{
+"flags": 3,
+"live": {
+"ATTRIB_CUSTOM-attrib": 8,
+"asmheader": 1,
+"body": 1,
+"coedge": 4,
+"edge": 4,
+"face": 1,
+"loop": 1,
+"lump": 1,
+"plane-surface": 1,
+"point": 4,
+"shell": 1,
+"straight-curve": 4,
+"vertex": 4
+},
+"n_entities": 2,
+"node": 137,
+"records": 37,
+"segment": "PmDCSegment",
+"subtype_definitions": 0,
+"version": 23200
+}
+],
+"spec/im_convert.ipt": [
+{
+"flags": 3,
+"live": {
+"ATTRIB_CUSTOM-attrib": 6,
+"asmheader": 1,
+"body": 1,
+"coedge": 24,
+"edge": 12,
+"face": 6,
+"intcurve-curve": 8,
+"loop": 6,
+"lump": 1,
+"pcurve": 16,
+"plane-surface": 2,
+"point": 8,
+"shell": 1,
+"spline-surface": 4,
+"straight-curve": 8,
+"vertex": 8
+},
+"n_entities": 2,
+"node": 5,
+"records": 115,
+"segment": "PmBRepSegment",
+"subtype_definitions": 20,
+"version": 23200
+},
+{
+"flags": 3,
+"live": {
+"asmheader": 1
+},
+"n_entities": 1,
+"node": 24,
+"records": 3,
+"segment": "PmDCSegment",
+"subtype_definitions": 0,
+"version": 23200
+}
+],
+"spec/im_reference.ipt": [
+{
+"flags": 3,
+"live": {
+"ATTRIB_CUSTOM-attrib": 6,
+"asmheader": 1,
+"body": 1,
+"coedge": 24,
+"edge": 12,
+"face": 6,
+"intcurve-curve": 8,
+"loop": 6,
+"lump": 1,
+"pcurve": 16,
+"plane-surface": 2,
+"point": 8,
+"shell": 1,
+"spline-surface": 4,
+"straight-curve": 8,
+"vertex": 8
+},
+"n_entities": 2,
+"node": 5,
+"records": 115,
+"segment": "PmBRepSegment",
+"subtype_definitions": 20,
+"version": 23200
+},
+{
+"flags": 3,
+"live": {
+"ATTRIB_CUSTOM-attrib": 6,
+"asmheader": 1,
+"body": 1,
+"coedge": 24,
+"edge": 12,
+"face": 6,
+"intcurve-curve": 8,
+"loop": 6,
+"lump": 1,
+"pcurve": 16,
+"plane-surface": 2,
+"point": 8,
+"shell": 1,
+"spline-surface": 4,
+"straight-curve": 8,
+"vertex": 8
+},
+"n_entities": 2,
+"node": 26,
+"records": 114,
+"segment": "PmDCSegment",
+"subtype_definitions": 20,
+"version": 23200
+}
+],
+"spec/imt_mate.ipt": [
+{
+"flags": 3,
+"live": {
+"ATTRIB_CUSTOM-attrib": 63,
+"asmheader": 1,
+"body": 1,
+"coedge": 72,
+"cone-surface": 2,
+"edge": 36,
+"ellipse-curve": 6,
+"face": 14,
+"loop": 14,
+"lump": 1,
+"plane-surface": 9,
+"point": 24,
+"shell": 1,
+"straight-curve": 28,
+"vertex": 24
+},
+"n_entities": 2,
+"node": 6,
+"records": 335,
+"segment": "PmBRepSegment",
+"subtype_definitions": 0,
+"version": 23200
+},
+{
+"flags": 3,
+"live": {
+"ATTRIB_CUSTOM-attrib": 8,
+"asmheader": 1,
+"body": 1,
+"coedge": 4,
+"edge": 4,
+"face": 1,
+"loop": 1,
+"lump": 1,
+"plane-surface": 1,
+"point": 4,
+"shell": 1,
+"straight-curve": 4,
+"vertex": 4
+},
+"n_entities": 2,
+"node": 147,
+"records": 37,
+"segment": "PmDCSegment",
+"subtype_definitions": 0,
+"version": 23200
+}
+],
+"spec/ip_table.ipt": [
+{
+"flags": 3,
+"live": {
+"ATTRIB_CUSTOM-attrib": 63,
+"asmheader": 1,
+"body": 1,
+"coedge": 72,
+"cone-surface": 2,
+"edge": 36,
+"ellipse-curve": 6,
+"face": 14,
+"loop": 14,
+"lump": 1,
+"plane-surface": 9,
+"point": 24,
+"shell": 1,
+"straight-curve": 28,
+"vertex": 24
+},
+"n_entities": 2,
+"node": 6,
+"records": 335,
+"segment": "PmBRepSegment",
+"subtype_definitions": 0,
+"version": 23200
+},
+{
+"flags": 3,
+"live": {
+"ATTRIB_CUSTOM-attrib": 8,
+"asmheader": 1,
+"body": 1,
+"coedge": 4,
+"edge": 4,
+"face": 1,
+"loop": 1,
+"lump": 1,
+"plane-surface": 1,
+"point": 4,
+"shell": 1,
+"straight-curve": 4,
+"vertex": 4
+},
+"n_entities": 2,
+"node": 142,
+"records": 37,
+"segment": "PmDCSegment",
+"subtype_definitions": 0,
+"version": 23200
+}
+],
+"spec/it_box.ipt": [
+{
+"flags": 3,
+"live": {
+"ATTRIB_CUSTOM-attrib": 30,
+"asmheader": 1,
+"body": 1,
+"coedge": 24,
+"edge": 12,
+"face": 6,
+"loop": 6,
+"lump": 1,
+"plane-surface": 6,
+"point": 8,
+"shell": 1,
+"straight-curve": 13,
+"vertex": 8
+},
+"n_entities": 2,
+"node": 5,
+"records": 120,
+"segment": "PmBRepSegment",
+"subtype_definitions": 0,
+"version": 23200
+},
+{
+"flags": 3,
+"live": {
+"ATTRIB_CUSTOM-attrib": 8,
+"asmheader": 1,
+"body": 1,
+"coedge": 4,
+"edge": 4,
+"face": 1,
+"loop": 1,
+"lump": 1,
+"plane-surface": 1,
+"point": 4,
+"shell": 1,
+"straight-curve": 4,
+"vertex": 4
+},
+"n_entities": 2,
+"node": 76,
+"records": 37,
+"segment": "PmDCSegment",
+"subtype_definitions": 0,
+"version": 23200
+}
+],
+"spec/lf_base.ipt": [
+{
+"flags": 3,
+"live": {
+"asmheader": 1
+},
+"n_entities": 1,
+"node": 3,
+"records": 3,
+"segment": "PmBRepSegment",
+"subtype_definitions": 0,
+"version": 23200
+},
+{
+"flags": 3,
+"live": {
+"asmheader": 1
+},
+"n_entities": 1,
+"node": 68,
+"records": 3,
+"segment": "PmDCSegment",
+"subtype_definitions": 0,
+"version": 23200
+}
+],
+"spec/lf_basic.ipt": [
+{
+"flags": 3,
+"live": {
+"ATTRIB_CUSTOM-attrib": 30,
+"asmheader": 1,
+"body": 1,
+"coedge": 24,
+"edge": 12,
+"ellipse-curve": 4,
+"face": 6,
+"loop": 6,
+"lump": 1,
+"pcurve": 16,
+"plane-surface": 2,
+"point": 8,
+"shell": 1,
+"spline-surface": 4,
+"straight-curve": 13,
+"vertex": 8
+},
+"n_entities": 2,
+"node": 5,
+"records": 140,
+"segment": "PmBRepSegment",
+"subtype_definitions": 20,
+"version": 23200
+},
+{
+"flags": 3,
+"live": {
+"ATTRIB_CUSTOM-attrib": 18,
+"asmheader": 1,
+"body": 4,
+"coedge": 10,
+"edge": 10,
+"ellipse-curve": 2,
+"lump": 4,
+"point": 10,
+"shell": 4,
+"straight-curve": 8,
+"vertex": 10,
+"wire": 4
+},
+"n_entities": 5,
+"node": 100,
+"records": 87,
+"segment": "PmDCSegment",
+"subtype_definitions": 0,
+"version": 23200
+}
+],
+"spec/lf_cond.ipt": [
+{
+"flags": 3,
+"live": {
+"ATTRIB_CUSTOM-attrib": 30,
+"asmheader": 1,
+"body": 1,
+"coedge": 24,
+"edge": 12,
+"ellipse-curve": 4,
+"face": 6,
+"intcurve-curve": 5,
+"loop": 6,
+"lump": 1,
+"pcurve": 16,
+"plane-surface": 2,
+"point": 8,
+"shell": 1,
+"spline-surface": 4,
+"straight-curve": 8,
+"vertex": 8
+},
+"n_entities": 2,
+"node": 5,
+"records": 140,
+"segment": "PmBRepSegment",
+"subtype_definitions": 25,
+"version": 23200
+},
+{
+"flags": 3,
+"live": {
+"ATTRIB_CUSTOM-attrib": 18,
+"asmheader": 1,
+"body": 4,
+"coedge": 10,
+"edge": 10,
+"ellipse-curve": 2,
+"lump": 4,
+"point": 10,
+"shell": 4,
+"straight-curve": 8,
+"vertex": 10,
+"wire": 4
+},
+"n_entities": 5,
+"node": 99,
+"records": 87,
+"segment": "PmDCSegment",
+"subtype_definitions": 0,
+"version": 23200
+}
+],
+"spec/lf_surf.ipt": [
+{
+"flags": 3,
+"live": {
+"ATTRIB_CUSTOM-attrib": 28,
+"asmheader": 1,
+"body": 1,
+"coedge": 16,
+"edge": 12,
+"ellipse-curve": 4,
+"face": 4,
+"loop": 4,
+"lump": 1,
+"pcurve": 16,
+"point": 8,
+"shell": 1,
+"spline-surface": 4,
+"straight-curve": 13,
+"vertex": 8
+},
+"n_entities": 2,
+"node": 5,
+"records": 124,
+"segment": "PmBRepSegment",
+"subtype_definitions": 20,
+"version": 23200
+},
+{
+"flags": 3,
+"live": {
+"ATTRIB_CUSTOM-attrib": 18,
+"asmheader": 1,
+"body": 4,
+"coedge": 10,
+"edge": 10,
+"ellipse-curve": 2,
+"lump": 4,
+"point": 10,
+"shell": 4,
+"straight-curve": 8,
+"vertex": 10,
+"wire": 4
+},
+"n_entities": 5,
+"node": 96,
+"records": 87,
+"segment": "PmDCSegment",
+"subtype_definitions": 0,
+"version": 23200
+}
+],
+"spec/lf_surface.ipt": [
+{
+"flags": 3,
+"live": {
+"ATTRIB_CUSTOM-attrib": 30,
+"asmheader": 1,
+"body": 1,
+"coedge": 24,
+"edge": 12,
+"ellipse-curve": 4,
+"face": 6,
+"loop": 6,
+"lump": 1,
+"pcurve": 16,
+"plane-surface": 2,
+"point": 8,
+"shell": 1,
+"spline-surface": 4,
+"straight-curve": 13,
+"vertex": 8
+},
+"n_entities": 2,
+"node": 5,
+"records": 140,
+"segment": "PmBRepSegment",
+"subtype_definitions": 20,
+"version": 23200
+},
+{
+"flags": 3,
+"live": {
+"ATTRIB_CUSTOM-attrib": 18,
+"asmheader": 1,
+"body": 4,
+"coedge": 10,
+"edge": 10,
+"ellipse-curve": 2,
+"lump": 4,
+"point": 10,
+"shell": 4,
+"straight-curve": 8,
+"vertex": 10,
+"wire": 4
+},
+"n_entities": 5,
+"node": 99,
+"records": 87,
+"segment": "PmDCSegment",
+"subtype_definitions": 0,
+"version": 23200
+}
+],
+"spec/ma_steel.ipt": [
+{
+"flags": 3,
+"live": {
+"ATTRIB_CUSTOM-attrib": 30,
+"asmheader": 1,
+"body": 1,
+"coedge": 24,
+"edge": 12,
+"face": 6,
+"loop": 6,
+"lump": 1,
+"plane-surface": 6,
+"point": 8,
+"shell": 1,
+"straight-curve": 13,
+"vertex": 8
+},
+"n_entities": 2,
+"node": 5,
+"records": 120,
+"segment": "PmBRepSegment",
+"subtype_definitions": 0,
+"version": 23200
+},
+{
+"flags": 3,
+"live": {
+"ATTRIB_CUSTOM-attrib": 8,
+"asmheader": 1,
+"body": 1,
+"coedge": 4,
+"edge": 4,
+"face": 1,
+"loop": 1,
+"lump": 1,
+"plane-surface": 1,
+"point": 4,
+"shell": 1,
+"straight-curve": 4,
+"vertex": 4
+},
+"n_entities": 2,
+"node": 71,
+"records": 37,
+"segment": "PmDCSegment",
+"subtype_definitions": 0,
+"version": 23200
+}
+],
+"spec/mb_move.ipt": [
+{
+"flags": 3,
+"live": {
+"ATTRIB_CUSTOM-attrib": 44,
+"asmheader": 1,
+"body": 1,
+"coedge": 24,
+"edge": 12,
+"face": 6,
+"loop": 6,
+"lump": 1,
+"plane-surface": 6,
+"point": 8,
+"shell": 1,
+"straight-curve": 13,
+"vertex": 8
+},
+"n_entities": 2,
+"node": 6,
+"records": 188,
+"segment": "PmBRepSegment",
+"subtype_definitions": 0,
+"version": 23200
+},
+{
+"flags": 3,
+"live": {
+"ATTRIB_CUSTOM-attrib": 8,
+"asmheader": 1,
+"body": 1,
+"coedge": 4,
+"edge": 4,
+"face": 1,
+"loop": 1,
+"lump": 1,
+"plane-surface": 1,
+"point": 4,
+"shell": 1,
+"straight-curve": 4,
+"vertex": 4
+},
+"n_entities": 2,
+"node": 84,
+"records": 37,
+"segment": "PmDCSegment",
+"subtype_definitions": 0,
+"version": 23200
+}
+],
+"spec/mk_basic.ipt": [
+{
+"flags": 3,
+"live": {
+"ATTRIB_CUSTOM-attrib": 42,
+"asmheader": 1,
+"body": 1,
+"coedge": 26,
+"edge": 13,
+"ellipse-curve": 1,
+"face": 7,
+"integer_attrib-name_attrib-gen-attrib": 1,
+"loop": 8,
+"lump": 1,
+"no_merge_attribute-st-attrib": 1,
+"plane-surface": 6,
+"point": 9,
+"shell": 1,
+"straight-curve": 13,
+"vertex": 9
+},
+"n_entities": 2,
+"node": 6,
+"records": 159,
+"segment": "PmBRepSegment",
+"subtype_definitions": 0,
+"version": 23200
+},
+{
+"flags": 3,
+"live": {
+"ATTRIB_CUSTOM-attrib": 11,
+"asmheader": 1,
+"body": 2,
+"coedge": 5,
+"edge": 5,
+"ellipse-curve": 1,
+"face": 1,
+"loop": 1,
+"lump": 2,
+"plane-surface": 1,
+"point": 5,
+"shell": 2,
+"straight-curve": 4,
+"vertex": 5,
+"wire": 1
+},
+"n_entities": 3,
+"node": 128,
+"records": 49,
+"segment": "PmDCSegment",
+"subtype_definitions": 0,
+"version": 23200
+}
+],
+"spec/pa_basic.ipt": [
+{
+"flags": 3,
+"live": {
+"ATTRIB_CUSTOM-attrib": 53,
+"asmheader": 1,
+"body": 2,
+"coedge": 24,
+"edge": 16,
+"face": 6,
+"loop": 6,
+"lump": 2,
+"plane-surface": 6,
+"point": 12,
+"shell": 2,
+"straight-curve": 17,
+"vertex": 12
+},
+"n_entities": 3,
+"node": 8,
+"records": 231,
+"segment": "PmBRepSegment",
+"subtype_definitions": 0,
+"version": 23200
+},
+{
+"flags": 3,
+"live": {
+"ATTRIB_CUSTOM-attrib": 8,
+"asmheader": 1,
+"body": 1,
+"coedge": 4,
+"edge": 4,
+"face": 1,
+"loop": 1,
+"lump": 1,
+"plane-surface": 1,
+"point": 4,
+"shell": 1,
+"straight-curve": 4,
+"vertex": 4
+},
+"n_entities": 2,
+"node": 137,
+"records": 37,
+"segment": "PmDCSegment",
+"subtype_definitions": 0,
+"version": 23200
+}
+],
+"spec/pt_body.ipt": [
+{
+"flags": 3,
+"live": {
+"ATTRIB_CUSTOM-attrib": 193,
+"asmheader": 1,
+"body": 3,
+"coedge": 264,
+"cone-surface": 30,
+"edge": 132,
+"ellipse-curve": 60,
+"face": 57,
+"loop": 120,
+"lump": 3,
+"plane-surface": 18,
+"point": 102,
+"shell": 3,
+"straight-curve": 87,
+"vertex": 102
+},
+"n_entities": 4,
+"node": 16,
+"records": 1292,
+"segment": "PmBRepSegment",
+"subtype_definitions": 0,
+"version": 23200
+},
+{
+"flags": 3,
+"live": {
+"ATTRIB_CUSTOM-attrib": 161,
+"asmheader": 1,
+"body": 5,
+"coedge": 204,
+"cone-surface": 26,
+"edge": 104,
+"ellipse-curve": 52,
+"face": 57,
+"loop": 105,
+"lump": 9,
+"plane-surface": 25,
+"point": 84,
+"shell": 9,
+"straight-curve": 74,
+"vertex": 84
+},
+"n_entities": 6,
+"node": 278,
+"records": 1002,
+"segment": "PmDCSegment",
+"subtype_definitions": 0,
+"version": 23200
+}
+],
+"spec/pt_c1.ipt": [
+{
+"flags": 3,
+"live": {
+"ATTRIB_CUSTOM-attrib": 70,
+"asmheader": 1,
+"body": 1,
+"coedge": 80,
+"cone-surface": 8,
+"edge": 40,
+"ellipse-curve": 16,
+"face": 17,
+"loop": 32,
+"lump": 1,
+"plane-surface": 6,
+"point": 30,
+"shell": 1,
+"straight-curve": 27,
+"vertex": 30
+},
+"n_entities": 2,
+"node": 9,
+"records": 473,
+"segment": "PmBRepSegment",
+"subtype_definitions": 0,
+"version": 23200
+},
+{
+"flags": 3,
+"live": {
+"ATTRIB_CUSTOM-attrib": 39,
+"asmheader": 1,
+"body": 3,
+"coedge": 28,
+"cone-surface": 6,
+"edge": 16,
+"ellipse-curve": 12,
+"face": 19,
+"loop": 25,
+"lump": 7,
+"plane-surface": 13,
+"point": 16,
+"shell": 7,
+"straight-curve": 16,
+"vertex": 16
+},
+"n_entities": 4,
+"node": 197,
+"records": 226,
+"segment": "PmDCSegment",
+"subtype_definitions": 0,
+"version": 23200
+}
+],
+"spec/pt_c2.ipt": [
+{
+"flags": 3,
+"live": {
+"ATTRIB_CUSTOM-attrib": 74,
+"asmheader": 1,
+"body": 1,
+"coedge": 80,
+"cone-surface": 8,
+"edge": 40,
+"ellipse-curve": 16,
+"face": 17,
+"loop": 32,
+"lump": 1,
+"plane-surface": 6,
+"point": 30,
+"shell": 1,
+"straight-curve": 27,
+"vertex": 30
+},
+"n_entities": 2,
+"node": 9,
+"records": 486,
+"segment": "PmBRepSegment",
+"subtype_definitions": 0,
+"version": 23200
+},
+{
+"flags": 3,
+"live": {
+"ATTRIB_CUSTOM-attrib": 39,
+"asmheader": 1,
+"body": 3,
+"coedge": 28,
+"cone-surface": 6,
+"edge": 16,
+"ellipse-curve": 12,
+"face": 19,
+"loop": 25,
+"lump": 7,
+"plane-surface": 13,
+"point": 16,
+"shell": 7,
+"straight-curve": 16,
+"vertex": 16
+},
+"n_entities": 4,
+"node": 197,
+"records": 226,
+"segment": "PmDCSegment",
+"subtype_definitions": 0,
+"version": 23200
+}
+],
+"spec/pt_circ.ipt": [
+{
+"flags": 3,
+"live": {
+"ATTRIB_CUSTOM-attrib": 49,
+"asmheader": 1,
+"body": 1,
+"coedge": 56,
+"cone-surface": 7,
+"edge": 28,
+"ellipse-curve": 14,
+"face": 13,
+"loop": 30,
+"lump": 1,
+"plane-surface": 6,
+"point": 22,
+"shell": 1,
+"straight-curve": 22,
+"vertex": 22
+},
+"n_entities": 2,
+"node": 8,
+"records": 331,
+"segment": "PmBRepSegment",
+"subtype_definitions": 0,
+"version": 23200
+},
+{
+"flags": 3,
+"live": {
+"ATTRIB_CUSTOM-attrib": 14,
+"asmheader": 1,
+"body": 2,
+"coedge": 8,
+"cone-surface": 1,
+"edge": 6,
+"ellipse-curve": 2,
+"face": 4,
+"loop": 5,
+"lump": 2,
+"plane-surface": 3,
+"point": 6,
+"shell": 2,
+"straight-curve": 6,
+"vertex": 6
+},
+"n_entities": 3,
+"node": 177,
+"records": 70,
+"segment": "PmDCSegment",
+"subtype_definitions": 0,
+"version": 23200
+}
+],
+"spec/pt_mirror.ipt": [
+{
+"flags": 3,
+"live": {
+"ATTRIB_CUSTOM-attrib": 51,
+"asmheader": 1,
+"body": 1,
+"coedge": 64,
+"cone-surface": 8,
+"edge": 32,
+"ellipse-curve": 16,
+"face": 14,
+"loop": 30,
+"lump": 1,
+"plane-surface": 6,
+"point": 24,
+"shell": 1,
+"straight-curve": 25,
+"vertex": 24
+},
+"n_entities": 2,
+"node": 9,
+"records": 388,
+"segment": "PmBRepSegment",
+"subtype_definitions": 0,
+"version": 23200
+},
+{
+"flags": 3,
+"live": {
+"ATTRIB_CUSTOM-attrib": 14,
+"asmheader": 1,
+"body": 2,
+"coedge": 8,
+"cone-surface": 1,
+"edge": 6,
+"ellipse-curve": 2,
+"face": 4,
+"loop": 5,
+"lump": 2,
+"plane-surface": 3,
+"point": 6,
+"shell": 2,
+"straight-curve": 6,
+"vertex": 6
+},
+"n_entities": 3,
+"node": 197,
+"records": 70,
+"segment": "PmDCSegment",
+"subtype_definitions": 0,
+"version": 23200
+}
+],
+"spec/pt_opts.ipt": [
+{
+"flags": 3,
+"live": {
+"ATTRIB_CUSTOM-attrib": 66,
+"asmheader": 1,
+"body": 1,
+"coedge": 80,
+"cone-surface": 8,
+"edge": 40,
+"ellipse-curve": 16,
+"face": 17,
+"loop": 32,
+"lump": 1,
+"plane-surface": 6,
+"point": 30,
+"shell": 1,
+"straight-curve": 27,
+"vertex": 30
+},
+"n_entities": 2,
+"node": 9,
+"records": 460,
+"segment": "PmBRepSegment",
+"subtype_definitions": 0,
+"version": 23200
+},
+{
+"flags": 3,
+"live": {
+"ATTRIB_CUSTOM-attrib": 39,
+"asmheader": 1,
+"body": 3,
+"coedge": 28,
+"cone-surface": 6,
+"edge": 16,
+"ellipse-curve": 12,
+"face": 19,
+"loop": 25,
+"lump": 7,
+"plane-surface": 13,
+"point": 16,
+"shell": 7,
+"straight-curve": 16,
+"vertex": 16
+},
+"n_entities": 4,
+"node": 197,
+"records": 226,
+"segment": "PmDCSegment",
+"subtype_definitions": 0,
+"version": 23200
+}
+],
+"spec/pt_path.ipt": [
+{
+"flags": 3,
+"live": {
+"ATTRIB_CUSTOM-attrib": 189,
+"asmheader": 1,
+"body": 3,
+"coedge": 260,
+"cone-surface": 28,
+"edge": 130,
+"ellipse-curve": 56,
+"face": 55,
+"loop": 108,
+"lump": 3,
+"plane-surface": 18,
+"point": 98,
+"shell": 3,
+"straight-curve": 87,
+"vertex": 98
+},
+"n_entities": 4,
+"node": 17,
+"records": 1284,
+"segment": "PmBRepSegment",
+"subtype_definitions": 0,
+"version": 23200
+},
+{
+"flags": 3,
+"live": {
+"ATTRIB_CUSTOM-attrib": 165,
+"asmheader": 1,
+"body": 7,
+"coedge": 201,
+"cone-surface": 25,
+"edge": 103,
+"ellipse-curve": 50,
+"face": 58,
+"loop": 101,
+"lump": 11,
+"plane-surface": 27,
+"point": 84,
+"shell": 11,
+"straight-curve": 75,
+"vertex": 84,
+"wire": 1
+},
+"n_entities": 8,
+"node": 316,
+"records": 1006,
+"segment": "PmDCSegment",
+"subtype_definitions": 0,
+"version": 23200
+}
+],
+"spec/pt_r1.ipt": [
+{
+"flags": 3,
+"live": {
+"ATTRIB_CUSTOM-attrib": 66,
+"asmheader": 1,
+"body": 1,
+"coedge": 80,
+"cone-surface": 8,
+"edge": 40,
+"ellipse-curve": 16,
+"face": 17,
+"loop": 32,
+"lump": 1,
+"plane-surface": 6,
+"point": 30,
+"shell": 1,
+"straight-curve": 27,
+"vertex": 30
+},
+"n_entities": 2,
+"node": 9,
+"records": 460,
+"segment": "PmBRepSegment",
+"subtype_definitions": 0,
+"version": 23200
+},
+{
+"flags": 3,
+"live": {
+"ATTRIB_CUSTOM-attrib": 39,
+"asmheader": 1,
+"body": 3,
+"coedge": 28,
+"cone-surface": 6,
+"edge": 16,
+"ellipse-curve": 12,
+"face": 19,
+"loop": 25,
+"lump": 7,
+"plane-surface": 13,
+"point": 16,
+"shell": 7,
+"straight-curve": 16,
+"vertex": 16
+},
+"n_entities": 4,
+"node": 197,
+"records": 226,
+"segment": "PmDCSegment",
+"subtype_definitions": 0,
+"version": 23200
+}
+],
+"spec/pt_rect.ipt": [
+{
+"flags": 3,
+"live": {
+"ATTRIB_CUSTOM-attrib": 43,
+"asmheader": 1,
+"body": 1,
+"coedge": 48,
+"cone-surface": 6,
+"edge": 24,
+"ellipse-curve": 12,
+"face": 12,
+"loop": 30,
+"lump": 1,
+"plane-surface": 6,
+"point": 20,
+"shell": 1,
+"straight-curve": 19,
+"vertex": 20
+},
+"n_entities": 2,
+"node": 7,
+"records": 262,
+"segment": "PmBRepSegment",
+"subtype_definitions": 0,
+"version": 23200
+},
+{
+"flags": 3,
+"live": {
+"ATTRIB_CUSTOM-attrib": 14,
+"asmheader": 1,
+"body": 2,
+"coedge": 8,
+"cone-surface": 1,
+"edge": 6,
+"ellipse-curve": 2,
+"face": 4,
+"loop": 5,
+"lump": 2,
+"plane-surface": 3,
+"point": 6,
+"shell": 2,
+"straight-curve": 6,
+"vertex": 6
+},
+"n_entities": 3,
+"node": 145,
+"records": 70,
+"segment": "PmDCSegment",
+"subtype_definitions": 0,
+"version": 23200
+}
+],
+"spec/pt_rect_opts.ipt": [
+{
+"flags": 3,
+"live": {
+"ATTRIB_CUSTOM-attrib": 61,
+"asmheader": 1,
+"body": 1,
+"coedge": 84,
+"cone-surface": 8,
+"edge": 42,
+"ellipse-curve": 16,
+"face": 17,
+"loop": 28,
+"lump": 1,
+"plane-surface": 6,
+"point": 30,
+"shell": 1,
+"straight-curve": 29,
+"vertex": 30
+},
+"n_entities": 2,
+"node": 9,
+"records": 464,
+"segment": "PmBRepSegment",
+"subtype_definitions": 0,
+"version": 23200
+},
+{
+"flags": 3,
+"live": {
+"ATTRIB_CUSTOM-attrib": 44,
+"asmheader": 1,
+"body": 4,
+"coedge": 32,
+"cone-surface": 7,
+"edge": 18,
+"ellipse-curve": 14,
+"face": 22,
+"loop": 29,
+"lump": 8,
+"plane-surface": 15,
+"point": 18,
+"shell": 8,
+"straight-curve": 18,
+"vertex": 18
+},
+"n_entities": 5,
+"node": 197,
+"records": 258,
+"segment": "PmDCSegment",
+"subtype_definitions": 0,
+"version": 23200
+}
+],
+"spec/pt_sketch.ipt": [
+{
+"flags": 3,
+"live": {
+"ATTRIB_CUSTOM-attrib": 71,
+"asmheader": 1,
+"body": 1,
+"coedge": 88,
+"cone-surface": 10,
+"edge": 44,
+"ellipse-curve": 20,
+"face": 19,
+"loop": 40,
+"lump": 1,
+"plane-surface": 6,
+"point": 34,
+"shell": 1,
+"straight-curve": 29,
+"vertex": 34
+},
+"n_entities": 2,
+"node": 10,
+"records": 514,
+"segment": "PmBRepSegment",
+"subtype_definitions": 0,
+"version": 23200
+},
+{
+"flags": 3,
+"live": {
+"ATTRIB_CUSTOM-attrib": 39,
+"asmheader": 1,
+"body": 3,
+"coedge": 28,
+"cone-surface": 6,
+"edge": 16,
+"ellipse-curve": 12,
+"face": 19,
+"loop": 25,
+"lump": 7,
+"plane-surface": 13,
+"point": 16,
+"shell": 7,
+"straight-curve": 16,
+"vertex": 16
+},
+"n_entities": 4,
+"node": 228,
+"records": 226,
+"segment": "PmDCSegment",
+"subtype_definitions": 0,
+"version": 23200
+}
+],
+"spec/pt_suppress.ipt": [
+{
+"flags": 3,
+"live": {
+"ATTRIB_CUSTOM-attrib": 187,
+"asmheader": 1,
+"body": 3,
+"coedge": 252,
+"cone-surface": 27,
+"edge": 126,
+"ellipse-curve": 54,
+"face": 54,
+"loop": 108,
+"lump": 3,
+"plane-surface": 18,
+"point": 96,
+"shell": 3,
+"straight-curve": 84,
+"vertex": 96
+},
+"n_entities": 4,
+"node": 16,
+"records": 1226,
+"segment": "PmBRepSegment",
+"subtype_definitions": 0,
+"version": 23200
+},
+{
+"flags": 3,
+"live": {
+"ATTRIB_CUSTOM-attrib": 162,
+"asmheader": 1,
+"body": 6,
+"coedge": 200,
+"cone-surface": 25,
+"edge": 102,
+"ellipse-curve": 50,
+"face": 58,
+"loop": 101,
+"lump": 10,
+"plane-surface": 27,
+"point": 82,
+"shell": 10,
+"straight-curve": 74,
+"vertex": 82
+},
+"n_entities": 7,
+"node": 278,
+"records": 992,
+"segment": "PmDCSegment",
+"subtype_definitions": 0,
+"version": 23200
+}
+],
+"spec/rb_base.ipt": [
+{
+"flags": 3,
+"live": {
+"ATTRIB_CUSTOM-attrib": 51,
+"asmheader": 1,
+"body": 1,
+"coedge": 46,
+"edge": 23,
+"face": 10,
+"loop": 10,
+"lump": 1,
+"plane-surface": 10,
+"point": 15,
+"shell": 1,
+"straight-curve": 24,
+"vertex": 15
+},
+"n_entities": 2,
+"node": 6,
+"records": 250,
+"segment": "PmBRepSegment",
+"subtype_definitions": 0,
+"version": 23200
+},
+{
+"flags": 3,
+"live": {
+"ATTRIB_CUSTOM-attrib": 16,
+"asmheader": 1,
+"body": 2,
+"coedge": 8,
+"edge": 8,
+"face": 2,
+"loop": 2,
+"lump": 2,
+"plane-surface": 2,
+"point": 8,
+"shell": 2,
+"straight-curve": 8,
+"vertex": 8
+},
+"n_entities": 3,
+"node": 143,
+"records": 71,
+"segment": "PmDCSegment",
+"subtype_definitions": 0,
+"version": 23200
+}
+],
+"spec/rb_normal.ipt": [
+{
+"flags": 3,
+"live": {
+"ATTRIB_CUSTOM-attrib": 58,
+"asmheader": 1,
+"body": 1,
+"coedge": 70,
+"edge": 35,
+"face": 13,
+"loop": 14,
+"lump": 1,
+"plane-surface": 13,
+"point": 23,
+"shell": 1,
+"straight-curve": 35,
+"vertex": 23
+},
+"n_entities": 2,
+"node": 7,
+"records": 401,
+"segment": "PmBRepSegment",
+"subtype_definitions": 0,
+"version": 23200
+},
+{
+"flags": 3,
+"live": {
+"ATTRIB_CUSTOM-attrib": 32,
+"asmheader": 1,
+"body": 4,
+"coedge": 17,
+"edge": 25,
+"face": 2,
+"loop": 2,
+"lump": 4,
+"plane-surface": 2,
+"point": 34,
+"shell": 4,
+"straight-curve": 25,
+"transform": 1,
+"vertex": 34,
+"wire": 2
+},
+"n_entities": 13,
+"node": 171,
+"records": 191,
+"segment": "PmDCSegment",
+"subtype_definitions": 0,
+"version": 23200
+}
+],
+"spec/rb_normal_sym_draft.ipt": [
+{
+"flags": 3,
+"live": {
+"ATTRIB_CUSTOM-attrib": 58,
+"asmheader": 1,
+"body": 1,
+"coedge": 70,
+"edge": 35,
+"face": 13,
+"loop": 14,
+"lump": 1,
+"plane-surface": 13,
+"point": 23,
+"shell": 1,
+"straight-curve": 35,
+"vertex": 23
+},
+"n_entities": 2,
+"node": 7,
+"records": 404,
+"segment": "PmBRepSegment",
+"subtype_definitions": 0,
+"version": 23200
+},
+{
+"flags": 3,
+"live": {
+"ATTRIB_CUSTOM-attrib": 29,
+"asmheader": 1,
+"body": 4,
+"coedge": 17,
+"edge": 29,
+"face": 2,
+"loop": 2,
+"lump": 4,
+"plane-surface": 2,
+"point": 42,
+"shell": 4,
+"straight-curve": 29,
+"transform": 1,
+"vertex": 42,
+"wire": 2
+},
+"n_entities": 17,
+"node": 173,
+"records": 212,
+"segment": "PmDCSegment",
+"subtype_definitions": 0,
+"version": 23200
+}
+],
+"spec/rb_parallel.ipt": [
+{
+"flags": 3,
+"live": {
+"ATTRIB_CUSTOM-attrib": 53,
+"asmheader": 1,
+"body": 1,
+"coedge": 58,
+"edge": 29,
+"face": 12,
+"loop": 12,
+"lump": 1,
+"plane-surface": 12,
+"point": 19,
+"shell": 1,
+"straight-curve": 30,
+"vertex": 19
+},
+"n_entities": 2,
+"node": 7,
+"records": 378,
+"segment": "PmBRepSegment",
+"subtype_definitions": 0,
+"version": 23200
+},
+{
+"flags": 3,
+"live": {
+"ATTRIB_CUSTOM-attrib": 32,
+"asmheader": 1,
+"body": 4,
+"coedge": 15,
+"edge": 19,
+"face": 2,
+"loop": 2,
+"lump": 4,
+"plane-surface": 2,
+"point": 24,
+"shell": 4,
+"straight-curve": 19,
+"vertex": 24,
+"wire": 2
+},
+"n_entities": 9,
+"node": 169,
+"records": 156,
+"segment": "PmDCSegment",
+"subtype_definitions": 0,
+"version": 23200
+}
+],
+"spec/rb_thick4.ipt": [
+{
+"flags": 3,
+"live": {
+"ATTRIB_CUSTOM-attrib": 53,
+"asmheader": 1,
+"body": 1,
+"coedge": 58,
+"edge": 29,
+"face": 12,
+"loop": 12,
+"lump": 1,
+"plane-surface": 12,
+"point": 19,
+"shell": 1,
+"straight-curve": 30,
+"vertex": 19
+},
+"n_entities": 2,
+"node": 7,
+"records": 378,
+"segment": "PmBRepSegment",
+"subtype_definitions": 0,
+"version": 23200
+},
+{
+"flags": 3,
+"live": {
+"ATTRIB_CUSTOM-attrib": 32,
+"asmheader": 1,
+"body": 4,
+"coedge": 15,
+"edge": 21,
+"face": 2,
+"loop": 2,
+"lump": 4,
+"plane-surface": 2,
+"point": 28,
+"shell": 4,
+"straight-curve": 21,
+"vertex": 28,
+"wire": 2
+},
+"n_entities": 11,
+"node": 171,
+"records": 168,
+"segment": "PmDCSegment",
+"subtype_definitions": 0,
+"version": 23200
+}
+],
+"spec/rf_base.ipt": [
+{
+"flags": 3,
+"live": {
+"ATTRIB_CUSTOM-attrib": 40,
+"asmheader": 1,
+"body": 3,
+"coedge": 32,
+"edge": 20,
+"face": 7,
+"loop": 7,
+"lump": 3,
+"plane-surface": 7,
+"point": 16,
+"shell": 3,
+"straight-curve": 23,
+"transform": 2,
+"vertex": 16,
+"wire": 1
+},
+"n_entities": 4,
+"node": 7,
+"records": 199,
+"segment": "PmBRepSegment",
+"subtype_definitions": 0,
+"version": 23200
+},
+{
+"flags": 3,
+"live": {
+"ATTRIB_CUSTOM-attrib": 11,
+"asmheader": 1,
+"body": 2,
+"coedge": 5,
+"edge": 5,
+"face": 1,
+"loop": 1,
+"lump": 2,
+"plane-surface": 1,
+"point": 6,
+"shell": 2,
+"straight-curve": 5,
+"vertex": 6,
+"wire": 1
+},
+"n_entities": 3,
+"node": 110,
+"records": 51,
+"segment": "PmDCSegment",
+"subtype_definitions": 0,
+"version": 23200
+}
+],
+"spec/rf_basic.ipt": [
+{
+"flags": 3,
+"live": {
+"ATTRIB_CUSTOM-attrib": 33,
+"asmheader": 1,
+"body": 3,
+"coedge": 32,
+"edge": 20,
+"face": 7,
+"loop": 7,
+"lump": 3,
+"plane-surface": 7,
+"point": 16,
+"shell": 3,
+"straight-curve": 23,
+"transform": 2,
+"vertex": 16,
+"wire": 1
+},
+"n_entities": 4,
+"node": 8,
+"records": 300,
+"segment": "PmBRepSegment",
+"subtype_definitions": 0,
+"version": 23200
+},
+{
+"flags": 3,
+"live": {
+"ATTRIB_CUSTOM-attrib": 11,
+"asmheader": 1,
+"body": 2,
+"coedge": 5,
+"edge": 5,
+"face": 1,
+"loop": 1,
+"lump": 2,
+"plane-surface": 1,
+"point": 6,
+"shell": 2,
+"straight-curve": 5,
+"vertex": 6,
+"wire": 1
+},
+"n_entities": 3,
+"node": 144,
+"records": 51,
+"segment": "PmDCSegment",
+"subtype_definitions": 0,
+"version": 23200
+}
+],
+"spec/rp_basic.ipt": [
+{
+"flags": 3,
+"live": {
+"ATTRIB_CUSTOM-attrib": 6,
+"asmheader": 1,
+"body": 1,
+"coedge": 24,
+"edge": 12,
+"face": 6,
+"intcurve-curve": 8,
+"loop": 6,
+"lump": 1,
+"pcurve": 16,
+"plane-surface": 2,
+"point": 8,
+"shell": 1,
+"spline-surface": 4,
+"straight-curve": 8,
+"vertex": 8
+},
+"n_entities": 2,
+"node": 5,
+"records": 115,
+"segment": "PmBRepSegment",
+"subtype_definitions": 20,
+"version": 23200
+},
+{
+"flags": 3,
+"live": {
+"asmheader": 1
+},
+"n_entities": 1,
+"node": 26,
+"records": 3,
+"segment": "PmDCSegment",
+"subtype_definitions": 0,
+"version": 23200
+}
+],
+"spec/ru_normal.ipt": [
+{
+"flags": 3,
+"live": {
+"ATTRIB_CUSTOM-attrib": 43,
+"asmheader": 1,
+"body": 2,
+"coedge": 28,
+"edge": 16,
+"face": 7,
+"loop": 7,
+"lump": 2,
+"plane-surface": 7,
+"point": 12,
+"shell": 2,
+"straight-curve": 17,
+"vertex": 12
+},
+"n_entities": 3,
+"node": 7,
+"records": 172,
+"segment": "PmBRepSegment",
+"subtype_definitions": 0,
+"version": 23200
+},
+{
+"flags": 3,
+"live": {
+"ATTRIB_CUSTOM-attrib": 8,
+"asmheader": 1,
+"body": 1,
+"coedge": 4,
+"edge": 4,
+"face": 1,
+"loop": 1,
+"lump": 1,
+"plane-surface": 1,
+"point": 4,
+"shell": 1,
+"straight-curve": 4,
+"vertex": 4
+},
+"n_entities": 2,
+"node": 102,
+"records": 37,
+"segment": "PmDCSegment",
+"subtype_definitions": 0,
+"version": 23200
+}
+],
+"spec/ru_tangent.ipt": [
+{
+"flags": 3,
+"live": {
+"ATTRIB_CUSTOM-attrib": 47,
+"asmheader": 1,
+"body": 2,
+"coedge": 28,
+"edge": 16,
+"face": 7,
+"loop": 7,
+"lump": 2,
+"plane-surface": 7,
+"point": 12,
+"shell": 2,
+"straight-curve": 17,
+"vertex": 12
+},
+"n_entities": 3,
+"node": 7,
+"records": 185,
+"segment": "PmBRepSegment",
+"subtype_definitions": 0,
+"version": 23200
+},
+{
+"flags": 3,
+"live": {
+"ATTRIB_CUSTOM-attrib": 8,
+"asmheader": 1,
+"body": 1,
+"coedge": 4,
+"edge": 4,
+"face": 1,
+"loop": 1,
+"lump": 1,
+"plane-surface": 1,
+"point": 4,
+"shell": 1,
+"straight-curve": 4,
+"vertex": 4
+},
+"n_entities": 2,
+"node": 102,
+"records": 37,
+"segment": "PmDCSegment",
+"subtype_definitions": 0,
+"version": 23200
+}
+],
+"spec/ru_vector.ipt": [
+{
+"flags": 3,
+"live": {
+"ATTRIB_CUSTOM-attrib": 51,
+"asmheader": 1,
+"body": 2,
+"coedge": 28,
+"edge": 16,
+"face": 7,
+"loop": 7,
+"lump": 2,
+"plane-surface": 7,
+"point": 12,
+"shell": 2,
+"straight-curve": 17,
+"vertex": 12
+},
+"n_entities": 3,
+"node": 7,
+"records": 198,
+"segment": "PmBRepSegment",
+"subtype_definitions": 0,
+"version": 23200
+},
+{
+"flags": 3,
+"live": {
+"ATTRIB_CUSTOM-attrib": 8,
+"asmheader": 1,
+"body": 1,
+"coedge": 4,
+"edge": 4,
+"face": 1,
+"loop": 1,
+"lump": 1,
+"plane-surface": 1,
+"point": 4,
+"shell": 1,
+"straight-curve": 4,
+"vertex": 4
+},
+"n_entities": 2,
+"node": 108,
+"records": 37,
+"segment": "PmDCSegment",
+"subtype_definitions": 0,
+"version": 23200
+}
+],
+"spec/rv_angle90.ipt": [
+{
+"flags": 3,
+"live": {
+"ATTRIB_CUSTOM-attrib": 30,
+"asmheader": 1,
+"body": 1,
+"coedge": 24,
+"cone-surface": 2,
+"edge": 12,
+"ellipse-curve": 5,
+"face": 6,
+"loop": 6,
+"lump": 1,
+"plane-surface": 4,
+"point": 8,
+"shell": 1,
+"straight-curve": 8,
+"vertex": 8
+},
+"n_entities": 2,
+"node": 5,
+"records": 120,
+"segment": "PmBRepSegment",
+"subtype_definitions": 0,
+"version": 23200
+},
+{
+"flags": 3,
+"live": {
+"ATTRIB_CUSTOM-attrib": 8,
+"asmheader": 1,
+"body": 1,
+"coedge": 4,
+"edge": 4,
+"face": 1,
+"loop": 1,
+"lump": 1,
+"plane-surface": 1,
+"point": 4,
+"shell": 1,
+"straight-curve": 4,
+"vertex": 4
+},
+"n_entities": 2,
+"node": 87,
+"records": 37,
+"segment": "PmDCSegment",
+"subtype_definitions": 0,
+"version": 23200
+}
+],
+"spec/rv_base.ipt": [
+{
+"flags": 3,
+"live": {
+"asmheader": 1
+},
+"n_entities": 1,
+"node": 3,
+"records": 3,
+"segment": "PmBRepSegment",
+"subtype_definitions": 0,
+"version": 23200
+},
+{
+"flags": 3,
+"live": {
+"asmheader": 1
+},
+"n_entities": 1,
+"node": 68,
+"records": 3,
+"segment": "PmDCSegment",
+"subtype_definitions": 0,
+"version": 23200
+}
+],
+"spec/rv_coil.ipt": [
+{
+"flags": 3,
+"live": {
+"ATTRIB_CUSTOM-attrib": 30,
+"asmheader": 1,
+"body": 1,
+"coedge": 24,
+"cone-surface": 2,
+"edge": 12,
+"face": 6,
+"intcurve-curve": 5,
+"loop": 6,
+"lump": 1,
+"pcurve": 8,
+"plane-surface": 2,
+"point": 8,
+"shell": 1,
+"spline-surface": 2,
+"straight-curve": 8,
+"transform": 1,
+"vertex": 8
+},
+"n_entities": 2,
+"node": 5,
+"records": 129,
+"segment": "PmBRepSegment",
+"subtype_definitions": 15,
+"version": 23200
+},
+{
+"flags": 3,
+"live": {
+"ATTRIB_CUSTOM-attrib": 8,
+"asmheader": 1,
+"body": 1,
+"coedge": 4,
+"edge": 4,
+"lump": 1,
+"point": 4,
+"shell": 1,
+"straight-curve": 4,
+"vertex": 4,
+"wire": 1
+},
+"n_entities": 2,
+"node": 93,
+"records": 35,
+"segment": "PmDCSegment",
+"subtype_definitions": 0,
+"version": 23200
+}
+],
+"spec/rv_cut.ipt": [
+{
+"flags": 3,
+"live": {
+"ATTRIB_CUSTOM-attrib": 16,
+"asmheader": 1,
+"body": 1,
+"coedge": 8,
+"cone-surface": 2,
+"edge": 4,
+"ellipse-curve": 5,
+"face": 4,
+"loop": 8,
+"lump": 1,
+"plane-surface": 2,
+"point": 4,
+"shell": 1,
+"vertex": 4
+},
+"n_entities": 2,
+"node": 6,
+"records": 69,
+"segment": "PmBRepSegment",
+"subtype_definitions": 0,
+"version": 23200
+},
+{
+"flags": 3,
+"live": {
+"ATTRIB_CUSTOM-attrib": 9,
+"asmheader": 1,
+"body": 2,
+"coedge": 5,
+"edge": 5,
+"ellipse-curve": 1,
+"face": 2,
+"loop": 2,
+"lump": 2,
+"plane-surface": 2,
+"point": 5,
+"shell": 2,
+"straight-curve": 4,
+"vertex": 5
+},
+"n_entities": 3,
+"node": 122,
+"records": 49,
+"segment": "PmDCSegment",
+"subtype_definitions": 0,
+"version": 23200
+}
+],
+"spec/rv_cut2.ipt": [
+{
+"flags": 3,
+"live": {
+"ATTRIB_CUSTOM-attrib": 16,
+"asmheader": 1,
+"body": 1,
+"coedge": 10,
+"cone-surface": 2,
+"edge": 5,
+"ellipse-curve": 8,
+"face": 5,
+"loop": 10,
+"lump": 1,
+"plane-surface": 2,
+"point": 5,
+"shell": 1,
+"torus-surface": 1,
+"vertex": 5
+},
+"n_entities": 2,
+"node": 6,
+"records": 93,
+"segment": "PmBRepSegment",
+"subtype_definitions": 0,
+"version": 23200
+},
+{
+"flags": 3,
+"live": {
+"ATTRIB_CUSTOM-attrib": 9,
+"asmheader": 1,
+"body": 2,
+"coedge": 5,
+"edge": 5,
+"ellipse-curve": 1,
+"face": 2,
+"loop": 2,
+"lump": 2,
+"plane-surface": 2,
+"point": 5,
+"shell": 2,
+"straight-curve": 4,
+"vertex": 5
+},
+"n_entities": 3,
+"node": 122,
+"records": 49,
+"segment": "PmDCSegment",
+"subtype_definitions": 0,
+"version": 23200
+}
+],
+"spec/rv_full.ipt": [
+{
+"flags": 3,
+"live": {
+"ATTRIB_CUSTOM-attrib": 16,
+"asmheader": 1,
+"body": 1,
+"coedge": 8,
+"cone-surface": 2,
+"edge": 4,
+"ellipse-curve": 5,
+"face": 4,
+"loop": 8,
+"lump": 1,
+"plane-surface": 2,
+"point": 4,
+"shell": 1,
+"vertex": 4
+},
+"n_entities": 2,
+"node": 5,
+"records": 64,
+"segment": "PmBRepSegment",
+"subtype_definitions": 0,
+"version": 23200
+},
+{
+"flags": 3,
+"live": {
+"ATTRIB_CUSTOM-attrib": 8,
+"asmheader": 1,
+"body": 1,
+"coedge": 4,
+"edge": 4,
+"face": 1,
+"loop": 1,
+"lump": 1,
+"plane-surface": 1,
+"point": 4,
+"shell": 1,
+"straight-curve": 4,
+"vertex": 4
+},
+"n_entities": 2,
+"node": 87,
+"records": 37,
+"segment": "PmDCSegment",
+"subtype_definitions": 0,
+"version": 23200
+}
+],
+"spec/rv_sym90.ipt": [
+{
+"flags": 3,
+"live": {
+"ATTRIB_CUSTOM-attrib": 30,
+"asmheader": 1,
+"body": 1,
+"coedge": 24,
+"cone-surface": 2,
+"edge": 12,
+"ellipse-curve": 5,
+"face": 6,
+"loop": 6,
+"lump": 1,
+"plane-surface": 4,
+"point": 8,
+"shell": 1,
+"straight-curve": 8,
+"vertex": 8
+},
+"n_entities": 2,
+"node": 5,
+"records": 120,
+"segment": "PmBRepSegment",
+"subtype_definitions": 0,
+"version": 23200
+},
+{
+"flags": 3,
+"live": {
+"ATTRIB_CUSTOM-attrib": 8,
+"asmheader": 1,
+"body": 1,
+"coedge": 4,
+"edge": 4,
+"face": 1,
+"loop": 1,
+"lump": 1,
+"plane-surface": 1,
+"point": 4,
+"shell": 1,
+"straight-curve": 4,
+"vertex": 4
+},
+"n_entities": 2,
+"node": 87,
+"records": 37,
+"segment": "PmDCSegment",
+"subtype_definitions": 0,
+"version": 23200
+}
+],
+"spec/sc_add.ipt": [
+{
+"flags": 3,
+"live": {
+"ATTRIB_CUSTOM-attrib": 27,
+"asmheader": 1,
+"body": 2,
+"coedge": 30,
+"edge": 15,
+"ellipse-curve": 6,
+"face": 8,
+"loop": 7,
+"lump": 2,
+"plane-surface": 6,
+"point": 10,
+"shell": 2,
+"sphere-surface": 2,
+"straight-curve": 13,
+"vertex": 10
+},
+"n_entities": 3,
+"node": 9,
+"records": 260,
+"segment": "PmBRepSegment",
+"subtype_definitions": 0,
+"version": 23200
+},
+{
+"flags": 3,
+"live": {
+"ATTRIB_CUSTOM-attrib": 12,
+"asmheader": 1,
+"body": 2,
+"coedge": 6,
+"edge": 6,
+"ellipse-curve": 1,
+"face": 1,
+"loop": 1,
+"lump": 2,
+"plane-surface": 1,
+"point": 6,
+"shell": 2,
+"straight-curve": 5,
+"vertex": 6,
+"wire": 1
+},
+"n_entities": 3,
+"node": 139,
+"records": 55,
+"segment": "PmDCSegment",
+"subtype_definitions": 0,
+"version": 23200
+}
+],
+"spec/sc_newsolid.ipt": [
+{
+"flags": 3,
+"live": {
+"ATTRIB_CUSTOM-attrib": 29,
+"asmheader": 1,
+"body": 3,
+"coedge": 30,
+"edge": 15,
+"ellipse-curve": 8,
+"face": 9,
+"loop": 7,
+"lump": 3,
+"plane-surface": 6,
+"point": 10,
+"shell": 3,
+"sphere-surface": 3,
+"straight-curve": 13,
+"vertex": 10
+},
+"n_entities": 4,
+"node": 11,
+"records": 270,
+"segment": "PmBRepSegment",
+"subtype_definitions": 0,
+"version": 23200
+},
+{
+"flags": 3,
+"live": {
+"ATTRIB_CUSTOM-attrib": 12,
+"asmheader": 1,
+"body": 2,
+"coedge": 6,
+"edge": 6,
+"ellipse-curve": 1,
+"face": 1,
+"loop": 1,
+"lump": 2,
+"plane-surface": 1,
+"point": 6,
+"shell": 2,
+"straight-curve": 5,
+"vertex": 6,
+"wire": 1
+},
+"n_entities": 3,
+"node": 150,
+"records": 55,
+"segment": "PmDCSegment",
+"subtype_definitions": 0,
+"version": 23200
+}
+],
+"spec/sc_remove.ipt": [
+{
+"flags": 3,
+"live": {
+"ATTRIB_CUSTOM-attrib": 21,
+"asmheader": 1,
+"body": 1,
+"coedge": 24,
+"edge": 12,
+"face": 6,
+"loop": 6,
+"lump": 1,
+"plane-surface": 6,
+"point": 8,
+"shell": 1,
+"straight-curve": 13,
+"vertex": 8
+},
+"n_entities": 2,
+"node": 6,
+"records": 191,
+"segment": "PmBRepSegment",
+"subtype_definitions": 0,
+"version": 23200
+},
+{
+"flags": 3,
+"live": {
+"ATTRIB_CUSTOM-attrib": 8,
+"asmheader": 1,
+"body": 1,
+"coedge": 4,
+"edge": 4,
+"face": 1,
+"loop": 1,
+"lump": 1,
+"plane-surface": 1,
+"point": 4,
+"shell": 1,
+"straight-curve": 4,
+"vertex": 4
+},
+"n_entities": 2,
+"node": 84,
+"records": 37,
+"segment": "PmDCSegment",
+"subtype_definitions": 0,
+"version": 23200
+}
+],
+"spec/sh_basic.ipt": [
+{
+"flags": 3,
+"live": {
+"ATTRIB_CUSTOM-attrib": 39,
+"asmheader": 1,
+"body": 1,
+"coedge": 48,
+"edge": 24,
+"face": 11,
+"loop": 12,
+"lump": 1,
+"plane-surface": 11,
+"point": 16,
+"shell": 1,
+"straight-curve": 26,
+"vertex": 16
+},
+"n_entities": 2,
+"node": 6,
+"records": 222,
+"segment": "PmBRepSegment",
+"subtype_definitions": 0,
+"version": 23200
+},
+{
+"flags": 3,
+"live": {
+"ATTRIB_CUSTOM-attrib": 8,
+"asmheader": 1,
+"body": 1,
+"coedge": 4,
+"edge": 4,
+"face": 1,
+"loop": 1,
+"lump": 1,
+"plane-surface": 1,
+"point": 4,
+"shell": 1,
+"straight-curve": 4,
+"vertex": 4
+},
+"n_entities": 2,
+"node": 103,
+"records": 37,
+"segment": "PmDCSegment",
+"subtype_definitions": 0,
+"version": 23200
+}
+],
+"spec/sh_outside.ipt": [
+{
+"flags": 3,
+"live": {
+"ATTRIB_CUSTOM-attrib": 45,
+"asmheader": 1,
+"body": 1,
+"coedge": 48,
+"edge": 24,
+"face": 11,
+"loop": 12,
+"lump": 1,
+"plane-surface": 11,
+"point": 16,
+"shell": 1,
+"straight-curve": 26,
+"vertex": 16
+},
+"n_entities": 2,
+"node": 6,
+"records": 305,
+"segment": "PmBRepSegment",
+"subtype_definitions": 0,
+"version": 23200
+},
+{
+"flags": 3,
+"live": {
+"ATTRIB_CUSTOM-attrib": 8,
+"asmheader": 1,
+"body": 1,
+"coedge": 4,
+"edge": 4,
+"face": 1,
+"loop": 1,
+"lump": 1,
+"plane-surface": 1,
+"point": 4,
+"shell": 1,
+"straight-curve": 4,
+"vertex": 4
+},
+"n_entities": 2,
+"node": 103,
+"records": 37,
+"segment": "PmDCSegment",
+"subtype_definitions": 0,
+"version": 23200
+}
+],
+"spec/sk_arc.ipt": [
+{
+"flags": 3,
+"live": {
+"asmheader": 1
+},
+"n_entities": 1,
+"node": 3,
+"records": 3,
+"segment": "PmBRepSegment",
+"subtype_definitions": 0,
+"version": 23200
+},
+{
+"flags": 3,
+"live": {
+"asmheader": 1
+},
+"n_entities": 1,
+"node": 50,
+"records": 3,
+"segment": "PmDCSegment",
+"subtype_definitions": 0,
+"version": 23200
+}
+],
+"spec/sk_c_coincident.ipt": [
+{
+"flags": 3,
+"live": {
+"asmheader": 1
+},
+"n_entities": 1,
+"node": 3,
+"records": 3,
+"segment": "PmBRepSegment",
+"subtype_definitions": 0,
+"version": 23200
+},
+{
+"flags": 3,
+"live": {
+"asmheader": 1
+},
+"n_entities": 1,
+"node": 47,
+"records": 3,
+"segment": "PmDCSegment",
+"subtype_definitions": 0,
+"version": 23200
+}
+],
+"spec/sk_c_collinear.ipt": [
+{
+"flags": 3,
+"live": {
+"asmheader": 1
+},
+"n_entities": 1,
+"node": 3,
+"records": 3,
+"segment": "PmBRepSegment",
+"subtype_definitions": 0,
+"version": 23200
+},
+{
+"flags": 3,
+"live": {
+"asmheader": 1
+},
+"n_entities": 1,
+"node": 47,
+"records": 3,
+"segment": "PmDCSegment",
+"subtype_definitions": 0,
+"version": 23200
+}
+],
+"spec/sk_c_concentric.ipt": [
+{
+"flags": 3,
+"live": {
+"asmheader": 1
+},
+"n_entities": 1,
+"node": 3,
+"records": 3,
+"segment": "PmBRepSegment",
+"subtype_definitions": 0,
+"version": 23200
+},
+{
+"flags": 3,
+"live": {
+"asmheader": 1
+},
+"n_entities": 1,
+"node": 47,
+"records": 3,
+"segment": "PmDCSegment",
+"subtype_definitions": 0,
+"version": 23200
+}
+],
+"spec/sk_c_equal_radius.ipt": [
+{
+"flags": 3,
+"live": {
+"asmheader": 1
+},
+"n_entities": 1,
+"node": 3,
+"records": 3,
+"segment": "PmBRepSegment",
+"subtype_definitions": 0,
+"version": 23200
+},
+{
+"flags": 3,
+"live": {
+"asmheader": 1
+},
+"n_entities": 1,
+"node": 47,
+"records": 3,
+"segment": "PmDCSegment",
+"subtype_definitions": 0,
+"version": 23200
+}
+],
+"spec/sk_c_fix.ipt": [
+{
+"flags": 3,
+"live": {
+"asmheader": 1
+},
+"n_entities": 1,
+"node": 3,
+"records": 3,
+"segment": "PmBRepSegment",
+"subtype_definitions": 0,
+"version": 23200
+},
+{
+"flags": 3,
+"live": {
+"asmheader": 1
+},
+"n_entities": 1,
+"node": 48,
+"records": 3,
+"segment": "PmDCSegment",
+"subtype_definitions": 0,
+"version": 23200
+}
+],
+"spec/sk_c_halign.ipt": [
+{
+"flags": 3,
+"live": {
+"asmheader": 1
+},
+"n_entities": 1,
+"node": 3,
+"records": 3,
+"segment": "PmBRepSegment",
+"subtype_definitions": 0,
+"version": 23200
+},
+{
+"flags": 3,
+"live": {
+"asmheader": 1
+},
+"n_entities": 1,
+"node": 47,
+"records": 3,
+"segment": "PmDCSegment",
+"subtype_definitions": 0,
+"version": 23200
+}
+],
+"spec/sk_c_midpoint.ipt": [
+{
+"flags": 3,
+"live": {
+"asmheader": 1
+},
+"n_entities": 1,
+"node": 3,
+"records": 3,
+"segment": "PmBRepSegment",
+"subtype_definitions": 0,
+"version": 23200
+},
+{
+"flags": 3,
+"live": {
+"asmheader": 1
+},
+"n_entities": 1,
+"node": 49,
+"records": 3,
+"segment": "PmDCSegment",
+"subtype_definitions": 0,
+"version": 23200
+}
+],
+"spec/sk_c_parallel.ipt": [
+{
+"flags": 3,
+"live": {
+"asmheader": 1
+},
+"n_entities": 1,
+"node": 3,
+"records": 3,
+"segment": "PmBRepSegment",
+"subtype_definitions": 0,
+"version": 23200
+},
+{
+"flags": 3,
+"live": {
+"asmheader": 1
+},
+"n_entities": 1,
+"node": 47,
+"records": 3,
+"segment": "PmDCSegment",
+"subtype_definitions": 0,
+"version": 23200
+}
+],
+"spec/sk_c_smooth.ipt": [
+{
+"flags": 3,
+"live": {
+"asmheader": 1
+},
+"n_entities": 1,
+"node": 3,
+"records": 3,
+"segment": "PmBRepSegment",
+"subtype_definitions": 0,
+"version": 23200
+},
+{
+"flags": 3,
+"live": {
+"asmheader": 1
+},
+"n_entities": 1,
+"node": 42,
+"records": 3,
+"segment": "PmDCSegment",
+"subtype_definitions": 0,
+"version": 23200
+}
+],
+"spec/sk_c_symmetric.ipt": [
+{
+"flags": 3,
+"live": {
+"asmheader": 1
+},
+"n_entities": 1,
+"node": 3,
+"records": 3,
+"segment": "PmBRepSegment",
+"subtype_definitions": 0,
+"version": 23200
+},
+{
+"flags": 3,
+"live": {
+"asmheader": 1
+},
+"n_entities": 1,
+"node": 46,
+"records": 3,
+"segment": "PmDCSegment",
+"subtype_definitions": 0,
+"version": 23200
+}
+],
+"spec/sk_c_tangent.ipt": [
+{
+"flags": 3,
+"live": {
+"asmheader": 1
+},
+"n_entities": 1,
+"node": 3,
+"records": 3,
+"segment": "PmBRepSegment",
+"subtype_definitions": 0,
+"version": 23200
+},
+{
+"flags": 3,
+"live": {
+"asmheader": 1
+},
+"n_entities": 1,
+"node": 47,
+"records": 3,
+"segment": "PmDCSegment",
+"subtype_definitions": 0,
+"version": 23200
+}
+],
+"spec/sk_c_valign.ipt": [
+{
+"flags": 3,
+"live": {
+"asmheader": 1
+},
+"n_entities": 1,
+"node": 3,
+"records": 3,
+"segment": "PmBRepSegment",
+"subtype_definitions": 0,
+"version": 23200
+},
+{
+"flags": 3,
+"live": {
+"asmheader": 1
+},
+"n_entities": 1,
+"node": 47,
+"records": 3,
+"segment": "PmDCSegment",
+"subtype_definitions": 0,
+"version": 23200
+}
+],
+"spec/sk_c_vertical.ipt": [
+{
+"flags": 3,
+"live": {
+"asmheader": 1
+},
+"n_entities": 1,
+"node": 3,
+"records": 3,
+"segment": "PmBRepSegment",
+"subtype_definitions": 0,
+"version": 23200
+},
+{
+"flags": 3,
+"live": {
+"asmheader": 1
+},
+"n_entities": 1,
+"node": 48,
+"records": 3,
+"segment": "PmDCSegment",
+"subtype_definitions": 0,
+"version": 23200
+}
+],
+"spec/sk_circle.ipt": [
+{
+"flags": 3,
+"live": {
+"asmheader": 1
+},
+"n_entities": 1,
+"node": 3,
+"records": 3,
+"segment": "PmBRepSegment",
+"subtype_definitions": 0,
+"version": 23200
+},
+{
+"flags": 3,
+"live": {
+"asmheader": 1
+},
+"n_entities": 1,
+"node": 33,
+"records": 3,
+"segment": "PmDCSegment",
+"subtype_definitions": 0,
+"version": 23200
+}
+],
+"spec/sk_dim_angle3pt.ipt": [
+{
+"flags": 3,
+"live": {
+"asmheader": 1
+},
+"n_entities": 1,
+"node": 3,
+"records": 3,
+"segment": "PmBRepSegment",
+"subtype_definitions": 0,
+"version": 23200
+},
+{
+"flags": 3,
+"live": {
+"asmheader": 1
+},
+"n_entities": 1,
+"node": 62,
+"records": 3,
+"segment": "PmDCSegment",
+"subtype_definitions": 0,
+"version": 23200
+}
+],
+"spec/sk_dim_driven.ipt": [
+{
+"flags": 3,
+"live": {
+"asmheader": 1
+},
+"n_entities": 1,
+"node": 3,
+"records": 3,
+"segment": "PmBRepSegment",
+"subtype_definitions": 0,
+"version": 23200
+},
+{
+"flags": 3,
+"live": {
+"asmheader": 1
+},
+"n_entities": 1,
+"node": 54,
+"records": 3,
+"segment": "PmDCSegment",
+"subtype_definitions": 0,
+"version": 23200
+}
+],
+"spec/sk_dim_ellipse.ipt": [
+{
+"flags": 3,
+"live": {
+"asmheader": 1
+},
+"n_entities": 1,
+"node": 3,
+"records": 3,
+"segment": "PmBRepSegment",
+"subtype_definitions": 0,
+"version": 23200
+},
+{
+"flags": 3,
+"live": {
+"asmheader": 1
+},
+"n_entities": 1,
+"node": 33,
+"records": 3,
+"segment": "PmDCSegment",
+"subtype_definitions": 0,
+"version": 23200
+}
+],
+"spec/sk_dt_hide.ipt": [
+{
+"flags": 3,
+"live": {
+"asmheader": 1
+},
+"n_entities": 1,
+"node": 3,
+"records": 3,
+"segment": "PmBRepSegment",
+"subtype_definitions": 0,
+"version": 23200
+},
+{
+"flags": 3,
+"live": {
+"asmheader": 1
+},
+"n_entities": 1,
+"node": 52,
+"records": 3,
+"segment": "PmDCSegment",
+"subtype_definitions": 0,
+"version": 23200
+}
+],
+"spec/sk_dt_prec.ipt": [
+{
+"flags": 3,
+"live": {
+"asmheader": 1
+},
+"n_entities": 1,
+"node": 3,
+"records": 3,
+"segment": "PmBRepSegment",
+"subtype_definitions": 0,
+"version": 23200
+},
+{
+"flags": 3,
+"live": {
+"asmheader": 1
+},
+"n_entities": 1,
+"node": 52,
+"records": 3,
+"segment": "PmDCSegment",
+"subtype_definitions": 0,
+"version": 23200
+}
+],
+"spec/sk_dt_text.ipt": [
+{
+"flags": 3,
+"live": {
+"asmheader": 1
+},
+"n_entities": 1,
+"node": 3,
+"records": 3,
+"segment": "PmBRepSegment",
+"subtype_definitions": 0,
+"version": 23200
+},
+{
+"flags": 3,
+"live": {
+"asmheader": 1
+},
+"n_entities": 1,
+"node": 52,
+"records": 3,
+"segment": "PmDCSegment",
+"subtype_definitions": 0,
+"version": 23200
+}
+],
+"spec/sk_dt_tol.ipt": [
+{
+"flags": 3,
+"live": {
+"asmheader": 1
+},
+"n_entities": 1,
+"node": 3,
+"records": 3,
+"segment": "PmBRepSegment",
+"subtype_definitions": 0,
+"version": 23200
+},
+{
+"flags": 3,
+"live": {
+"asmheader": 1
+},
+"n_entities": 1,
+"node": 52,
+"records": 3,
+"segment": "PmDCSegment",
+"subtype_definitions": 0,
+"version": 23200
+}
+],
+"spec/sk_ellipse.ipt": [
+{
+"flags": 3,
+"live": {
+"asmheader": 1
+},
+"n_entities": 1,
+"node": 3,
+"records": 3,
+"segment": "PmBRepSegment",
+"subtype_definitions": 0,
+"version": 23200
+},
+{
+"flags": 3,
+"live": {
+"asmheader": 1
+},
+"n_entities": 1,
+"node": 31,
+"records": 3,
+"segment": "PmDCSegment",
+"subtype_definitions": 0,
+"version": 23200
+}
+],
+"spec/sk_empty.ipt": [
+{
+"flags": 3,
+"live": {
+"asmheader": 1
+},
+"n_entities": 1,
+"node": 3,
+"records": 3,
+"segment": "PmBRepSegment",
+"subtype_definitions": 0,
+"version": 23200
+},
+{
+"flags": 3,
+"live": {
+"asmheader": 1
+},
+"n_entities": 1,
+"node": 27,
+"records": 3,
+"segment": "PmDCSegment",
+"subtype_definitions": 0,
+"version": 23200
+}
+],
+"spec/sk_free.ipt": [
+{
+"flags": 3,
+"live": {
+"asmheader": 1
+},
+"n_entities": 1,
+"node": 3,
+"records": 3,
+"segment": "PmBRepSegment",
+"subtype_definitions": 0,
+"version": 23200
+},
+{
+"flags": 3,
+"live": {
+"asmheader": 1
+},
+"n_entities": 1,
+"node": 47,
+"records": 3,
+"segment": "PmDCSegment",
+"subtype_definitions": 0,
+"version": 23200
+}
+],
+"spec/sk_line.ipt": [
+{
+"flags": 3,
+"live": {
+"asmheader": 1
+},
+"n_entities": 1,
+"node": 3,
+"records": 3,
+"segment": "PmBRepSegment",
+"subtype_definitions": 0,
+"version": 23200
+},
+{
+"flags": 3,
+"live": {
+"asmheader": 1
+},
+"n_entities": 1,
+"node": 43,
+"records": 3,
+"segment": "PmDCSegment",
+"subtype_definitions": 0,
+"version": 23200
+}
+],
+"spec/sk_mirror.ipt": [
+{
+"flags": 3,
+"live": {
+"asmheader": 1
+},
+"n_entities": 1,
+"node": 3,
+"records": 3,
+"segment": "PmBRepSegment",
+"subtype_definitions": 0,
+"version": 23200
+},
+{
+"flags": 3,
+"live": {
+"asmheader": 1
+},
+"n_entities": 1,
+"node": 51,
+"records": 3,
+"segment": "PmDCSegment",
+"subtype_definitions": 0,
+"version": 23200
+}
+],
+"spec/sk_offset.ipt": [
+{
+"flags": 3,
+"live": {
+"asmheader": 1
+},
+"n_entities": 1,
+"node": 3,
+"records": 3,
+"segment": "PmBRepSegment",
+"subtype_definitions": 0,
+"version": 23200
+},
+{
+"flags": 3,
+"live": {
+"asmheader": 1
+},
+"n_entities": 1,
+"node": 74,
+"records": 3,
+"segment": "PmDCSegment",
+"subtype_definitions": 0,
+"version": 23200
+}
+],
+"spec/sk_offset10_point.ipt": [
+{
+"flags": 3,
+"live": {
+"asmheader": 1
+},
+"n_entities": 1,
+"node": 3,
+"records": 3,
+"segment": "PmBRepSegment",
+"subtype_definitions": 0,
+"version": 23200
+},
+{
+"flags": 3,
+"live": {
+"asmheader": 1
+},
+"n_entities": 1,
+"node": 31,
+"records": 3,
+"segment": "PmDCSegment",
+"subtype_definitions": 0,
+"version": 23200
+}
+],
+"spec/sk_param_expr.ipt": [
+{
+"flags": 3,
+"live": {
+"asmheader": 1
+},
+"n_entities": 1,
+"node": 3,
+"records": 3,
+"segment": "PmBRepSegment",
+"subtype_definitions": 0,
+"version": 23200
+},
+{
+"flags": 3,
+"live": {
+"asmheader": 1
+},
+"n_entities": 1,
+"node": 54,
+"records": 3,
+"segment": "PmDCSegment",
+"subtype_definitions": 0,
+"version": 23200
+}
+],
+"spec/sk_param_user.ipt": [
+{
+"flags": 3,
+"live": {
+"asmheader": 1
+},
+"n_entities": 1,
+"node": 3,
+"records": 3,
+"segment": "PmBRepSegment",
+"subtype_definitions": 0,
+"version": 23200
+},
+{
+"flags": 3,
+"live": {
+"asmheader": 1
+},
+"n_entities": 1,
+"node": 59,
+"records": 3,
+"segment": "PmDCSegment",
+"subtype_definitions": 0,
+"version": 23200
+}
+],
+"spec/sk_pattern_circ.ipt": [
+{
+"flags": 3,
+"live": {
+"asmheader": 1
+},
+"n_entities": 1,
+"node": 3,
+"records": 3,
+"segment": "PmBRepSegment",
+"subtype_definitions": 0,
+"version": 23200
+},
+{
+"flags": 3,
+"live": {
+"asmheader": 1
+},
+"n_entities": 1,
+"node": 58,
+"records": 3,
+"segment": "PmDCSegment",
+"subtype_definitions": 0,
+"version": 23200
+}
+],
+"spec/sk_pattern_rect.ipt": [
+{
+"flags": 3,
+"live": {
+"asmheader": 1
+},
+"n_entities": 1,
+"node": 3,
+"records": 3,
+"segment": "PmBRepSegment",
+"subtype_definitions": 0,
+"version": 23200
+},
+{
+"flags": 3,
+"live": {
+"asmheader": 1
+},
+"n_entities": 1,
+"node": 117,
+"records": 3,
+"segment": "PmDCSegment",
+"subtype_definitions": 0,
+"version": 23200
+}
+],
+"spec/sk_plane30_point.ipt": [
+{
+"flags": 3,
+"live": {
+"asmheader": 1
+},
+"n_entities": 1,
+"node": 3,
+"records": 3,
+"segment": "PmBRepSegment",
+"subtype_definitions": 0,
+"version": 23200
+},
+{
+"flags": 3,
+"live": {
+"asmheader": 1
+},
+"n_entities": 1,
+"node": 31,
+"records": 3,
+"segment": "PmDCSegment",
+"subtype_definitions": 0,
+"version": 23200
+}
+],
+"spec/sk_point.ipt": [
+{
+"flags": 3,
+"live": {
+"asmheader": 1
+},
+"n_entities": 1,
+"node": 3,
+"records": 3,
+"segment": "PmBRepSegment",
+"subtype_definitions": 0,
+"version": 23200
+},
+{
+"flags": 3,
+"live": {
+"asmheader": 1
+},
+"n_entities": 1,
+"node": 28,
+"records": 3,
+"segment": "PmDCSegment",
+"subtype_definitions": 0,
+"version": 23200
+}
+],
+"spec/sk_polygon.ipt": [
+{
+"flags": 3,
+"live": {
+"asmheader": 1
+},
+"n_entities": 1,
+"node": 3,
+"records": 3,
+"segment": "PmBRepSegment",
+"subtype_definitions": 0,
+"version": 23200
+},
+{
+"flags": 3,
+"live": {
+"asmheader": 1
+},
+"n_entities": 1,
+"node": 60,
+"records": 3,
+"segment": "PmDCSegment",
+"subtype_definitions": 0,
+"version": 23200
+}
+],
+"spec/sk_rect.ipt": [
+{
+"flags": 3,
+"live": {
+"asmheader": 1
+},
+"n_entities": 1,
+"node": 3,
+"records": 3,
+"segment": "PmBRepSegment",
+"subtype_definitions": 0,
+"version": 23200
+},
+{
+"flags": 3,
+"live": {
+"asmheader": 1
+},
+"n_entities": 1,
+"node": 52,
+"records": 3,
+"segment": "PmDCSegment",
+"subtype_definitions": 0,
+"version": 23200
+}
+],
+"spec/sk_spline.ipt": [
+{
+"flags": 3,
+"live": {
+"asmheader": 1
+},
+"n_entities": 1,
+"node": 3,
+"records": 3,
+"segment": "PmBRepSegment",
+"subtype_definitions": 0,
+"version": 23200
+},
+{
+"flags": 3,
+"live": {
+"asmheader": 1
+},
+"n_entities": 1,
+"node": 37,
+"records": 3,
+"segment": "PmDCSegment",
+"subtype_definitions": 0,
+"version": 23200
+}
+],
+"spec/sk_text.ipt": [
+{
+"flags": 3,
+"live": {
+"asmheader": 1
+},
+"n_entities": 1,
+"node": 3,
+"records": 3,
+"segment": "PmBRepSegment",
+"subtype_definitions": 0,
+"version": 23200
+},
+{
+"flags": 3,
+"live": {
+"asmheader": 1
+},
+"n_entities": 1,
+"node": 39,
+"records": 3,
+"segment": "PmDCSegment",
+"subtype_definitions": 0,
+"version": 23200
+}
+],
+"spec/sl_basic.ipt": [
+{
+"flags": 3,
+"live": {
+"ATTRIB_CUSTOM-attrib": 38,
+"asmheader": 1,
+"body": 1,
+"coedge": 48,
+"cone-surface": 2,
+"edge": 24,
+"ellipse-curve": 4,
+"face": 10,
+"loop": 12,
+"lump": 1,
+"plane-surface": 8,
+"point": 16,
+"shell": 1,
+"straight-curve": 22,
+"vertex": 16
+},
+"n_entities": 2,
+"node": 6,
+"records": 218,
+"segment": "PmBRepSegment",
+"subtype_definitions": 0,
+"version": 23200
+},
+{
+"flags": 3,
+"live": {
+"ATTRIB_CUSTOM-attrib": 8,
+"asmheader": 1,
+"body": 1,
+"coedge": 4,
+"edge": 4,
+"face": 1,
+"loop": 1,
+"lump": 1,
+"plane-surface": 1,
+"point": 4,
+"shell": 1,
+"straight-curve": 4,
+"vertex": 4
+},
+"n_entities": 2,
+"node": 117,
+"records": 37,
+"segment": "PmDCSegment",
+"subtype_definitions": 0,
+"version": 23200
+}
+],
+"spec/sm_contour.ipt": [
+{
+"flags": 3,
+"live": {
+"ATTRIB_CUSTOM-attrib": 26,
+"asmheader": 1,
+"body": 1,
+"coedge": 88,
+"cone-surface": 4,
+"edge": 44,
+"ellipse-curve": 8,
+"face": 22,
+"loop": 22,
+"lump": 1,
+"no_combine_attribute-st-attrib": 4,
+"plane-surface": 18,
+"point": 24,
+"shell": 1,
+"straight-curve": 36,
+"transform": 1,
+"vertex": 24
+},
+"n_entities": 2,
+"node": 7,
+"records": 337,
+"segment": "PmBRepSegment",
+"subtype_definitions": 0,
+"version": 23200
+},
+{
+"flags": 3,
+"live": {
+"ATTRIB_CUSTOM-attrib": 25,
+"asmheader": 1,
+"body": 3,
+"coedge": 11,
+"edge": 11,
+"ellipse-curve": 2,
+"lump": 3,
+"point": 14,
+"shell": 3,
+"straight-curve": 9,
+"vertex": 14,
+"wire": 3
+},
+"n_entities": 4,
+"node": 182,
+"records": 101,
+"segment": "PmDCSegment",
+"subtype_definitions": 0,
+"version": 23200
+}
+],
+"spec/sm_cut.ipt": [
+{
+"flags": 3,
+"live": {
+"ATTRIB_CUSTOM-attrib": 126,
+"asmheader": 1,
+"body": 3,
+"coedge": 100,
+"cone-surface": 1,
+"edge": 59,
+"ellipse-curve": 3,
+"face": 16,
+"intcurve-curve": 4,
+"loop": 19,
+"lump": 17,
+"name_attrib-gen-attrib": 16,
+"pcurve": 8,
+"plane-surface": 13,
+"point": 62,
+"shell": 17,
+"spline-surface": 2,
+"straight-curve": 55,
+"ufld_defm_data_attrib-at_ufld-attrib": 2,
+"vertex": 62,
+"wire": 16
+},
+"n_entities": 4,
+"node": 7,
+"records": 604,
+"segment": "MbBrepSegment",
+"subtype_definitions": 22,
+"version": 23200
+},
+{
+"flags": 3,
+"live": {
+"ATTRIB_CUSTOM-attrib": 86,
+"asmheader": 1,
+"body": 1,
+"coedge": 142,
+"cone-surface": 7,
+"edge": 71,
+"ellipse-curve": 15,
+"face": 34,
+"intcurve-curve": 4,
+"loop": 37,
+"lump": 1,
+"name_attrib-gen-attrib": 1,
+"no_combine_attribute-st-attrib": 4,
+"pcurve": 16,
+"plane-surface": 24,
+"point": 40,
+"shell": 1,
+"spline-surface": 2,
+"straight-curve": 56,
+"vertex": 40
+},
+"n_entities": 2,
+"node": 15,
+"records": 1279,
+"segment": "PmBRepSegment",
+"subtype_definitions": 24,
+"version": 23200
+},
+{
+"flags": 3,
+"live": {
+"ATTRIB_CUSTOM-attrib": 55,
+"asmheader": 1,
+"body": 7,
+"coedge": 25,
+"edge": 25,
+"ellipse-curve": 7,
+"face": 3,
+"loop": 3,
+"lump": 7,
+"plane-surface": 3,
+"point": 27,
+"shell": 7,
+"straight-curve": 18,
+"vertex": 27,
+"wire": 4
+},
+"n_entities": 8,
+"node": 565,
+"records": 221,
+"segment": "PmDCSegment",
+"subtype_definitions": 0,
+"version": 23200
+}
+],
+"spec/sm_empty.ipt": [
+{
+"flags": 3,
+"live": {
+"asmheader": 1
+},
+"n_entities": 1,
+"node": 3,
+"records": 3,
+"segment": "PmBRepSegment",
+"subtype_definitions": 0,
+"version": 23200
+},
+{
+"flags": 3,
+"live": {
+"asmheader": 1
+},
+"n_entities": 1,
+"node": 61,
+"records": 3,
+"segment": "PmDCSegment",
+"subtype_definitions": 0,
+"version": 23200
+}
+],
+"spec/sm_face.ipt": [
+{
+"flags": 3,
+"live": {
+"ATTRIB_CUSTOM-attrib": 30,
+"asmheader": 1,
+"body": 1,
+"coedge": 24,
+"edge": 12,
+"face": 6,
+"loop": 6,
+"lump": 1,
+"plane-surface": 6,
+"point": 8,
+"shell": 1,
+"straight-curve": 13,
+"vertex": 8
+},
+"n_entities": 2,
+"node": 5,
+"records": 120,
+"segment": "PmBRepSegment",
+"subtype_definitions": 0,
+"version": 23200
+},
+{
+"flags": 3,
+"live": {
+"ATTRIB_CUSTOM-attrib": 16,
+"asmheader": 1,
+"body": 2,
+"coedge": 8,
+"edge": 8,
+"face": 2,
+"loop": 2,
+"lump": 2,
+"plane-surface": 2,
+"point": 8,
+"shell": 2,
+"straight-curve": 8,
+"vertex": 8
+},
+"n_entities": 3,
+"node": 116,
+"records": 71,
+"segment": "PmDCSegment",
+"subtype_definitions": 0,
+"version": 23200
+}
+],
+"spec/sm_flange.ipt": [
+{
+"flags": 3,
+"live": {
+"ATTRIB_CUSTOM-attrib": 31,
+"asmheader": 1,
+"body": 1,
+"coedge": 56,
+"cone-surface": 2,
+"edge": 28,
+"ellipse-curve": 4,
+"face": 14,
+"loop": 14,
+"lump": 1,
+"no_combine_attribute-st-attrib": 2,
+"plane-surface": 12,
+"point": 16,
+"shell": 1,
+"straight-curve": 25,
+"vertex": 16
+},
+"n_entities": 2,
+"node": 8,
+"records": 317,
+"segment": "PmBRepSegment",
+"subtype_definitions": 0,
+"version": 23200
+},
+{
+"flags": 3,
+"live": {
+"ATTRIB_CUSTOM-attrib": 23,
+"asmheader": 1,
+"body": 3,
+"coedge": 10,
+"edge": 10,
+"ellipse-curve": 1,
+"face": 2,
+"loop": 2,
+"lump": 3,
+"plane-surface": 2,
+"point": 11,
+"shell": 3,
+"straight-curve": 9,
+"vertex": 11,
+"wire": 1
+},
+"n_entities": 4,
+"node": 234,
+"records": 94,
+"segment": "PmDCSegment",
+"subtype_definitions": 0,
+"version": 23200
+}
+],
+"spec/sm_flat.ipt": [
+{
+"flags": 3,
+"live": {
+"ATTRIB_CUSTOM-attrib": 104,
+"asmheader": 1,
+"body": 3,
+"coedge": 66,
+"edge": 42,
+"face": 10,
+"loop": 10,
+"lump": 17,
+"name_attrib-gen-attrib": 16,
+"plane-surface": 10,
+"point": 50,
+"shell": 17,
+"straight-curve": 43,
+"ufld_defm_data_attrib-at_ufld-attrib": 2,
+"vertex": 50,
+"wire": 16
+},
+"n_entities": 4,
+"node": 7,
+"records": 459,
+"segment": "MbBrepSegment",
+"subtype_definitions": 0,
+"version": 23200
+},
+{
+"flags": 3,
+"live": {
+"ATTRIB_CUSTOM-attrib": 78,
+"asmheader": 1,
+"body": 1,
+"coedge": 126,
+"cone-surface": 6,
+"edge": 63,
+"ellipse-curve": 14,
+"face": 31,
+"loop": 31,
+"lump": 1,
+"name_attrib-gen-attrib": 2,
+"no_combine_attribute-st-attrib": 5,
+"plane-surface": 23,
+"point": 34,
+"shell": 1,
+"straight-curve": 51,
+"vertex": 34
+},
+"n_entities": 2,
+"node": 13,
+"records": 851,
+"segment": "PmBRepSegment",
+"subtype_definitions": 0,
+"version": 23200
+},
+{
+"flags": 3,
+"live": {
+"ATTRIB_CUSTOM-attrib": 54,
+"asmheader": 1,
+"body": 6,
+"coedge": 24,
+"edge": 24,
+"ellipse-curve": 6,
+"face": 2,
+"loop": 2,
+"lump": 6,
+"plane-surface": 2,
+"point": 26,
+"shell": 6,
+"straight-curve": 18,
+"vertex": 26,
+"wire": 4
+},
+"n_entities": 7,
+"node": 481,
+"records": 209,
+"segment": "PmDCSegment",
+"subtype_definitions": 0,
+"version": 23200
+}
+],
+"spec/sm_hem.ipt": [
+{
+"flags": 3,
+"live": {
+"ATTRIB_CUSTOM-attrib": 72,
+"asmheader": 1,
+"body": 1,
+"coedge": 88,
+"cone-surface": 4,
+"edge": 44,
+"ellipse-curve": 10,
+"face": 22,
+"loop": 22,
+"lump": 1,
+"name_attrib-gen-attrib": 2,
+"no_combine_attribute-st-attrib": 4,
+"plane-surface": 16,
+"point": 24,
+"shell": 1,
+"straight-curve": 38,
+"vertex": 24
+},
+"n_entities": 2,
+"node": 9,
+"records": 541,
+"segment": "PmBRepSegment",
+"subtype_definitions": 0,
+"version": 23200
+},
+{
+"flags": 3,
+"live": {
+"ATTRIB_CUSTOM-attrib": 47,
+"asmheader": 1,
+"body": 5,
+"coedge": 22,
+"edge": 22,
+"ellipse-curve": 5,
+"face": 2,
+"loop": 2,
+"lump": 5,
+"plane-surface": 2,
+"point": 23,
+"shell": 5,
+"straight-curve": 17,
+"vertex": 23,
+"wire": 3
+},
+"n_entities": 6,
+"node": 336,
+"records": 186,
+"segment": "PmDCSegment",
+"subtype_definitions": 0,
+"version": 23200
+}
+],
+"spec/sm_punch.ipt": [
+{
+"flags": 3,
+"live": {
+"ATTRIB_CUSTOM-attrib": 57,
+"asmheader": 1,
+"body": 1,
+"coedge": 120,
+"cone-surface": 6,
+"edge": 60,
+"ellipse-curve": 16,
+"face": 28,
+"intcurve-curve": 2,
+"loop": 28,
+"lump": 1,
+"no_combine_attribute-st-attrib": 4,
+"plane-surface": 19,
+"point": 34,
+"shell": 1,
+"straight-curve": 40,
+"transform": 1,
+"vertex": 34
+},
+"n_entities": 2,
+"node": 8,
+"records": 531,
+"segment": "PmBRepSegment",
+"subtype_definitions": 2,
+"version": 23200
+},
+{
+"flags": 3,
+"live": {
+"ATTRIB_CUSTOM-attrib": 25,
+"asmheader": 1,
+"body": 3,
+"coedge": 11,
+"edge": 11,
+"ellipse-curve": 2,
+"lump": 3,
+"point": 14,
+"shell": 3,
+"straight-curve": 9,
+"vertex": 14,
+"wire": 3
+},
+"n_entities": 4,
+"node": 259,
+"records": 101,
+"segment": "PmDCSegment",
+"subtype_definitions": 0,
+"version": 23200
+}
+],
+"spec/sm_seam.ipt": [
+{
+"flags": 3,
+"live": {
+"ATTRIB_CUSTOM-attrib": 120,
+"asmheader": 1,
+"body": 3,
+"coedge": 96,
+"edge": 57,
+"face": 15,
+"intcurve-curve": 4,
+"loop": 15,
+"lump": 17,
+"name_attrib-gen-attrib": 16,
+"pcurve": 8,
+"plane-surface": 13,
+"point": 60,
+"shell": 17,
+"spline-surface": 2,
+"straight-curve": 54,
+"ufld_defm_data_attrib-at_ufld-attrib": 2,
+"vertex": 60,
+"wire": 16
+},
+"n_entities": 4,
+"node": 7,
+"records": 578,
+"segment": "MbBrepSegment",
+"subtype_definitions": 22,
+"version": 23200
+},
+{
+"flags": 3,
+"live": {
+"ATTRIB_CUSTOM-attrib": 83,
+"asmheader": 1,
+"body": 1,
+"coedge": 138,
+"cone-surface": 6,
+"edge": 69,
+"ellipse-curve": 12,
+"face": 33,
+"intcurve-curve": 4,
+"loop": 33,
+"lump": 1,
+"name_attrib-gen-attrib": 1,
+"no_combine_attribute-st-attrib": 4,
+"pcurve": 16,
+"plane-surface": 24,
+"point": 38,
+"shell": 1,
+"spline-surface": 2,
+"straight-curve": 55,
+"vertex": 38
+},
+"n_entities": 2,
+"node": 14,
+"records": 1190,
+"segment": "PmBRepSegment",
+"subtype_definitions": 24,
+"version": 23200
+},
+{
+"flags": 3,
+"live": {
+"ATTRIB_CUSTOM-attrib": 54,
+"asmheader": 1,
+"body": 6,
+"coedge": 24,
+"edge": 24,
+"ellipse-curve": 6,
+"face": 2,
+"loop": 2,
+"lump": 6,
+"plane-surface": 2,
+"point": 26,
+"shell": 6,
+"straight-curve": 18,
+"vertex": 26,
+"wire": 4
+},
+"n_entities": 7,
+"node": 532,
+"records": 209,
+"segment": "PmDCSegment",
+"subtype_definitions": 0,
+"version": 23200
+}
+],
+"spec/sp_base.ipt": [
+{
+"flags": 3,
+"live": {
+"ATTRIB_CUSTOM-attrib": 30,
+"asmheader": 1,
+"body": 1,
+"coedge": 24,
+"edge": 12,
+"face": 6,
+"loop": 6,
+"lump": 1,
+"plane-surface": 6,
+"point": 8,
+"shell": 1,
+"straight-curve": 13,
+"vertex": 8
+},
+"n_entities": 2,
+"node": 5,
+"records": 120,
+"segment": "PmBRepSegment",
+"subtype_definitions": 0,
+"version": 23200
+},
+{
+"flags": 3,
+"live": {
+"ATTRIB_CUSTOM-attrib": 8,
+"asmheader": 1,
+"body": 1,
+"coedge": 4,
+"edge": 4,
+"face": 1,
+"loop": 1,
+"lump": 1,
+"plane-surface": 1,
+"point": 4,
+"shell": 1,
+"straight-curve": 4,
+"vertex": 4
+},
+"n_entities": 2,
+"node": 74,
+"records": 37,
+"segment": "PmDCSegment",
+"subtype_definitions": 0,
+"version": 23200
+}
+],
+"spec/sp_faces.ipt": [
+{
+"flags": 3,
+"live": {
+"ATTRIB_CUSTOM-attrib": 64,
+"asmheader": 1,
+"body": 1,
+"coedge": 40,
+"edge": 20,
+"face": 10,
+"loop": 10,
+"lump": 1,
+"no_merge_attribute-st-attrib": 4,
+"plane-surface": 6,
+"point": 12,
+"shell": 1,
+"straight-curve": 17,
+"vertex": 12
+},
+"n_entities": 2,
+"node": 6,
+"records": 245,
+"segment": "PmBRepSegment",
+"subtype_definitions": 0,
+"version": 23200
+},
+{
+"flags": 3,
+"live": {
+"ATTRIB_CUSTOM-attrib": 8,
+"asmheader": 1,
+"body": 1,
+"coedge": 4,
+"edge": 4,
+"face": 1,
+"loop": 1,
+"lump": 1,
+"plane-surface": 1,
+"point": 4,
+"shell": 1,
+"straight-curve": 4,
+"vertex": 4
+},
+"n_entities": 2,
+"node": 98,
+"records": 37,
+"segment": "PmDCSegment",
+"subtype_definitions": 0,
+"version": 23200
+}
+],
+"spec/sp_solid.ipt": [
+{
+"flags": 3,
+"live": {
+"ATTRIB_CUSTOM-attrib": 88,
+"asmheader": 1,
+"body": 2,
+"coedge": 48,
+"edge": 24,
+"face": 12,
+"loop": 12,
+"lump": 2,
+"plane-surface": 12,
+"point": 16,
+"shell": 2,
+"straight-curve": 27,
+"vertex": 16
+},
+"n_entities": 3,
+"node": 9,
+"records": 506,
+"segment": "PmBRepSegment",
+"subtype_definitions": 0,
+"version": 23200
+},
+{
+"flags": 3,
+"live": {
+"ATTRIB_CUSTOM-attrib": 8,
+"asmheader": 1,
+"body": 1,
+"coedge": 4,
+"edge": 4,
+"face": 1,
+"loop": 1,
+"lump": 1,
+"plane-surface": 1,
+"point": 4,
+"shell": 1,
+"straight-curve": 4,
+"vertex": 4
+},
+"n_entities": 2,
+"node": 110,
+"records": 37,
+"segment": "PmDCSegment",
+"subtype_definitions": 0,
+"version": 23200
+}
+],
+"spec/sp_trim.ipt": [
+{
+"flags": 3,
+"live": {
+"ATTRIB_CUSTOM-attrib": 38,
+"asmheader": 1,
+"body": 1,
+"coedge": 24,
+"edge": 12,
+"face": 6,
+"loop": 6,
+"lump": 1,
+"plane-surface": 6,
+"point": 8,
+"shell": 1,
+"straight-curve": 15,
+"vertex": 8
+},
+"n_entities": 2,
+"node": 7,
+"records": 287,
+"segment": "PmBRepSegment",
+"subtype_definitions": 0,
+"version": 23200
+},
+{
+"flags": 3,
+"live": {
+"ATTRIB_CUSTOM-attrib": 8,
+"asmheader": 1,
+"body": 1,
+"coedge": 4,
+"edge": 4,
+"face": 1,
+"loop": 1,
+"lump": 1,
+"plane-surface": 1,
+"point": 4,
+"shell": 1,
+"straight-curve": 4,
+"vertex": 4
+},
+"n_entities": 2,
+"node": 106,
+"records": 37,
+"segment": "PmDCSegment",
+"subtype_definitions": 0,
+"version": 23200
+}
+],
+"spec/st_basic.ipt": [
+{
+"flags": 3,
+"live": {
+"ATTRIB_CUSTOM-attrib": 58,
+"asmheader": 1,
+"body": 2,
+"coedge": 28,
+"edge": 16,
+"face": 7,
+"loop": 7,
+"lump": 2,
+"plane-surface": 7,
+"point": 12,
+"shell": 2,
+"straight-curve": 17,
+"vertex": 12
+},
+"n_entities": 3,
+"node": 9,
+"records": 299,
+"segment": "PmBRepSegment",
+"subtype_definitions": 0,
+"version": 23200
+},
+{
+"flags": 3,
+"live": {
+"ATTRIB_CUSTOM-attrib": 8,
+"asmheader": 1,
+"body": 1,
+"coedge": 4,
+"edge": 4,
+"face": 1,
+"loop": 1,
+"lump": 1,
+"plane-surface": 1,
+"point": 4,
+"shell": 1,
+"straight-curve": 4,
+"vertex": 4
+},
+"n_entities": 2,
+"node": 145,
+"records": 37,
+"segment": "PmDCSegment",
+"subtype_definitions": 0,
+"version": 23200
+}
+],
+"spec/sw_base.ipt": [
+{
+"flags": 3,
+"live": {
+"asmheader": 1
+},
+"n_entities": 1,
+"node": 3,
+"records": 3,
+"segment": "PmBRepSegment",
+"subtype_definitions": 0,
+"version": 23200
+},
+{
+"flags": 3,
+"live": {
+"asmheader": 1
+},
+"n_entities": 1,
+"node": 74,
+"records": 3,
+"segment": "PmDCSegment",
+"subtype_definitions": 0,
+"version": 23200
+}
+],
+"spec/sw_basic.ipt": [
+{
+"flags": 3,
+"live": {
+"ATTRIB_CUSTOM-attrib": 30,
+"asmheader": 1,
+"body": 1,
+"coedge": 24,
+"edge": 12,
+"face": 6,
+"loop": 6,
+"lump": 1,
+"plane-surface": 6,
+"point": 8,
+"shell": 1,
+"straight-curve": 13,
+"vertex": 8
+},
+"n_entities": 2,
+"node": 5,
+"records": 120,
+"segment": "PmBRepSegment",
+"subtype_definitions": 0,
+"version": 23200
+},
+{
+"flags": 3,
+"live": {
+"ATTRIB_CUSTOM-attrib": 11,
+"asmheader": 1,
+"body": 2,
+"coedge": 5,
+"edge": 5,
+"face": 1,
+"loop": 1,
+"lump": 2,
+"plane-surface": 1,
+"point": 6,
+"shell": 2,
+"straight-curve": 5,
+"vertex": 6,
+"wire": 1
+},
+"n_entities": 3,
+"node": 92,
+"records": 51,
+"segment": "PmDCSegment",
+"subtype_definitions": 0,
+"version": 23200
+}
+],
+"spec/sw_taper.ipt": [
+{
+"flags": 3,
+"live": {
+"ATTRIB_CUSTOM-attrib": 30,
+"asmheader": 1,
+"body": 1,
+"coedge": 24,
+"edge": 12,
+"face": 6,
+"loop": 6,
+"lump": 1,
+"plane-surface": 6,
+"point": 8,
+"shell": 1,
+"straight-curve": 13,
+"vertex": 8
+},
+"n_entities": 2,
+"node": 5,
+"records": 120,
+"segment": "PmBRepSegment",
+"subtype_definitions": 0,
+"version": 23200
+},
+{
+"flags": 3,
+"live": {
+"ATTRIB_CUSTOM-attrib": 11,
+"asmheader": 1,
+"body": 2,
+"coedge": 5,
+"edge": 5,
+"face": 1,
+"loop": 1,
+"lump": 2,
+"plane-surface": 1,
+"point": 6,
+"shell": 2,
+"straight-curve": 5,
+"vertex": 6,
+"wire": 1
+},
+"n_entities": 3,
+"node": 92,
+"records": 51,
+"segment": "PmDCSegment",
+"subtype_definitions": 0,
+"version": 23200
+}
+],
+"spec/sw_twist.ipt": [
+{
+"flags": 3,
+"live": {
+"ATTRIB_CUSTOM-attrib": 30,
+"asmheader": 1,
+"body": 1,
+"coedge": 24,
+"edge": 12,
+"face": 6,
+"intcurve-curve": 4,
+"loop": 6,
+"lump": 1,
+"pcurve": 16,
+"plane-surface": 2,
+"point": 8,
+"shell": 1,
+"spline-surface": 4,
+"straight-curve": 9,
+"vertex": 8
+},
+"n_entities": 2,
+"node": 5,
+"records": 136,
+"segment": "PmBRepSegment",
+"subtype_definitions": 20,
+"version": 23200
+},
+{
+"flags": 3,
+"live": {
+"ATTRIB_CUSTOM-attrib": 11,
+"asmheader": 1,
+"body": 2,
+"coedge": 5,
+"edge": 5,
+"face": 1,
+"loop": 1,
+"lump": 2,
+"plane-surface": 1,
+"point": 6,
+"shell": 2,
+"straight-curve": 5,
+"vertex": 6,
+"wire": 1
+},
+"n_entities": 3,
+"node": 92,
+"records": 51,
+"segment": "PmDCSegment",
+"subtype_definitions": 0,
+"version": 23200
+}
+],
+"spec/th_full.ipt": [
+{
+"flags": 3,
+"live": {
+"ATTRIB_CUSTOM-attrib": 35,
+"asmheader": 1,
+"body": 1,
+"coedge": 28,
+"cone-surface": 1,
+"edge": 14,
+"ellipse-curve": 2,
+"face": 7,
+"loop": 10,
+"lump": 1,
+"plane-surface": 6,
+"point": 10,
+"shell": 1,
+"straight-curve": 14,
+"vertex": 10
+},
+"n_entities": 2,
+"node": 7,
+"records": 161,
+"segment": "PmBRepSegment",
+"subtype_definitions": 0,
+"version": 23200
+},
+{
+"flags": 3,
+"live": {
+"ATTRIB_CUSTOM-attrib": 8,
+"asmheader": 1,
+"body": 1,
+"coedge": 4,
+"edge": 4,
+"face": 1,
+"loop": 1,
+"lump": 1,
+"plane-surface": 1,
+"point": 4,
+"shell": 1,
+"straight-curve": 4,
+"vertex": 4
+},
+"n_entities": 2,
+"node": 135,
+"records": 37,
+"segment": "PmDCSegment",
+"subtype_definitions": 0,
+"version": 23200
+}
+],
+"spec/th_partial_lh.ipt": [
+{
+"flags": 3,
+"live": {
+"ATTRIB_CUSTOM-attrib": 38,
+"asmheader": 1,
+"body": 1,
+"coedge": 28,
+"cone-surface": 1,
+"edge": 14,
+"ellipse-curve": 2,
+"face": 7,
+"loop": 10,
+"lump": 1,
+"plane-surface": 6,
+"point": 10,
+"shell": 1,
+"straight-curve": 14,
+"vertex": 10
+},
+"n_entities": 2,
+"node": 7,
+"records": 169,
+"segment": "PmBRepSegment",
+"subtype_definitions": 0,
+"version": 23200
+},
+{
+"flags": 3,
+"live": {
+"ATTRIB_CUSTOM-attrib": 8,
+"asmheader": 1,
+"body": 1,
+"coedge": 4,
+"edge": 4,
+"face": 1,
+"loop": 1,
+"lump": 1,
+"plane-surface": 1,
+"point": 4,
+"shell": 1,
+"straight-curve": 4,
+"vertex": 4
+},
+"n_entities": 2,
+"node": 138,
+"records": 37,
+"segment": "PmDCSegment",
+"subtype_definitions": 0,
+"version": 23200
+}
+],
+"spec/tk_join.ipt": [
+{
+"flags": 3,
+"live": {
+"ATTRIB_CUSTOM-attrib": 20,
+"asmheader": 1,
+"body": 1,
+"coedge": 24,
+"edge": 12,
+"face": 6,
+"loop": 6,
+"lump": 1,
+"plane-surface": 6,
+"point": 8,
+"shell": 1,
+"straight-curve": 13,
+"vertex": 8
+},
+"n_entities": 2,
+"node": 6,
+"records": 183,
+"segment": "PmBRepSegment",
+"subtype_definitions": 0,
+"version": 23200
+},
+{
+"flags": 3,
+"live": {
+"ATTRIB_CUSTOM-attrib": 8,
+"asmheader": 1,
+"body": 1,
+"coedge": 4,
+"edge": 4,
+"face": 1,
+"loop": 1,
+"lump": 1,
+"plane-surface": 1,
+"point": 4,
+"shell": 1,
+"straight-curve": 4,
+"vertex": 4
+},
+"n_entities": 2,
+"node": 111,
+"records": 37,
+"segment": "PmDCSegment",
+"subtype_definitions": 0,
+"version": 23200
+}
+],
+"spec/tk_newsolid.ipt": [
+{
+"flags": 3,
+"live": {
+"ATTRIB_CUSTOM-attrib": 42,
+"asmheader": 1,
+"body": 2,
+"coedge": 48,
+"edge": 24,
+"face": 12,
+"loop": 12,
+"lump": 2,
+"plane-surface": 12,
+"point": 16,
+"shell": 2,
+"straight-curve": 26,
+"vertex": 16
+},
+"n_entities": 3,
+"node": 7,
+"records": 234,
+"segment": "PmBRepSegment",
+"subtype_definitions": 0,
+"version": 23200
+},
+{
+"flags": 3,
+"live": {
+"ATTRIB_CUSTOM-attrib": 8,
+"asmheader": 1,
+"body": 1,
+"coedge": 4,
+"edge": 4,
+"face": 1,
+"loop": 1,
+"lump": 1,
+"plane-surface": 1,
+"point": 4,
+"shell": 1,
+"straight-curve": 4,
+"vertex": 4
+},
+"n_entities": 2,
+"node": 112,
+"records": 37,
+"segment": "PmDCSegment",
+"subtype_definitions": 0,
+"version": 23200
+}
+],
+"spec/tk_surface.ipt": [
+{
+"flags": 3,
+"live": {
+"ATTRIB_CUSTOM-attrib": 41,
+"asmheader": 1,
+"body": 2,
+"coedge": 28,
+"edge": 16,
+"face": 7,
+"loop": 7,
+"lump": 2,
+"plane-surface": 7,
+"point": 12,
+"shell": 2,
+"straight-curve": 17,
+"vertex": 12
+},
+"n_entities": 3,
+"node": 7,
+"records": 171,
+"segment": "PmBRepSegment",
+"subtype_definitions": 0,
+"version": 23200
+},
+{
+"flags": 3,
+"live": {
+"ATTRIB_CUSTOM-attrib": 8,
+"asmheader": 1,
+"body": 1,
+"coedge": 4,
+"edge": 4,
+"face": 1,
+"loop": 1,
+"lump": 1,
+"plane-surface": 1,
+"point": 4,
+"shell": 1,
+"straight-curve": 4,
+"vertex": 4
+},
+"n_entities": 2,
+"node": 108,
+"records": 37,
+"segment": "PmDCSegment",
+"subtype_definitions": 0,
+"version": 23200
+}
+],
+"spec/tr_basic.ipt": [
+{
+"flags": 3,
+"live": {
+"ATTRIB_CUSTOM-attrib": 43,
+"asmheader": 1,
+"body": 2,
+"coedge": 28,
+"edge": 16,
+"face": 7,
+"loop": 7,
+"lump": 2,
+"plane-surface": 7,
+"point": 12,
+"shell": 2,
+"straight-curve": 17,
+"vertex": 12
+},
+"n_entities": 3,
+"node": 8,
+"records": 197,
+"segment": "PmBRepSegment",
+"subtype_definitions": 0,
+"version": 23200
+},
+{
+"flags": 3,
+"live": {
+"ATTRIB_CUSTOM-attrib": 8,
+"asmheader": 1,
+"body": 1,
+"coedge": 4,
+"edge": 4,
+"face": 1,
+"loop": 1,
+"lump": 1,
+"plane-surface": 1,
+"point": 4,
+"shell": 1,
+"straight-curve": 4,
+"vertex": 4
+},
+"n_entities": 2,
+"node": 121,
+"records": 37,
+"segment": "PmDCSegment",
+"subtype_definitions": 0,
+"version": 23200
+}
+],
+"spec/uw_basic.ipt": [
+{
+"flags": 3,
+"live": {
+"ATTRIB_CUSTOM-attrib": 52,
+"asmheader": 1,
+"body": 2,
+"coedge": 32,
+"cone-surface": 2,
+"edge": 20,
+"ellipse-curve": 5,
+"face": 7,
+"intcurve-curve": 8,
+"loop": 7,
+"lump": 2,
+"plane-surface": 5,
+"point": 16,
+"shell": 2,
+"straight-curve": 8,
+"vertex": 16
+},
+"n_entities": 3,
+"node": 7,
+"records": 220,
+"segment": "PmBRepSegment",
+"subtype_definitions": 8,
+"version": 23200
+},
+{
+"flags": 3,
+"live": {
+"ATTRIB_CUSTOM-attrib": 8,
+"asmheader": 1,
+"body": 1,
+"coedge": 4,
+"edge": 4,
+"face": 1,
+"loop": 1,
+"lump": 1,
+"plane-surface": 1,
+"point": 4,
+"shell": 1,
+"straight-curve": 4,
+"vertex": 4
+},
+"n_entities": 2,
+"node": 127,
+"records": 37,
+"segment": "PmDCSegment",
+"subtype_definitions": 0,
+"version": 23200
+}
+],
+"spec/wa_2pts.ipt": [
+{
+"flags": 3,
+"live": {
+"asmheader": 1
+},
+"n_entities": 1,
+"node": 3,
+"records": 3,
+"segment": "PmBRepSegment",
+"subtype_definitions": 0,
+"version": 23200
+},
+{
+"flags": 3,
+"live": {
+"asmheader": 1
+},
+"n_entities": 1,
+"node": 24,
+"records": 3,
+"segment": "PmDCSegment",
+"subtype_definitions": 0,
+"version": 23200
+}
+],
+"spec/wa_normal_plane_pt.ipt": [
+{
+"flags": 3,
+"live": {
+"asmheader": 1
+},
+"n_entities": 1,
+"node": 3,
+"records": 3,
+"segment": "PmBRepSegment",
+"subtype_definitions": 0,
+"version": 23200
+},
+{
+"flags": 3,
+"live": {
+"asmheader": 1
+},
+"n_entities": 1,
+"node": 24,
+"records": 3,
+"segment": "PmDCSegment",
+"subtype_definitions": 0,
+"version": 23200
+}
+],
+"spec/wa_parallel_pt.ipt": [
+{
+"flags": 3,
+"live": {
+"asmheader": 1
+},
+"n_entities": 1,
+"node": 3,
+"records": 3,
+"segment": "PmBRepSegment",
+"subtype_definitions": 0,
+"version": 23200
+},
+{
+"flags": 3,
+"live": {
+"asmheader": 1
+},
+"n_entities": 1,
+"node": 24,
+"records": 3,
+"segment": "PmDCSegment",
+"subtype_definitions": 0,
+"version": 23200
+}
+],
+"spec/wa_xy_yz.ipt": [
+{
+"flags": 3,
+"live": {
+"asmheader": 1
+},
+"n_entities": 1,
+"node": 3,
+"records": 3,
+"segment": "PmBRepSegment",
+"subtype_definitions": 0,
+"version": 23200
+},
+{
+"flags": 3,
+"live": {
+"asmheader": 1
+},
+"n_entities": 1,
+"node": 23,
+"records": 3,
+"segment": "PmDCSegment",
+"subtype_definitions": 0,
+"version": 23200
+}
+],
+"spec/wg_more1.ipt": [
+{
+"flags": 3,
+"live": {
+"ATTRIB_CUSTOM-attrib": 27,
+"asmheader": 1,
+"body": 2,
+"coedge": 30,
+"edge": 15,
+"ellipse-curve": 6,
+"face": 8,
+"loop": 7,
+"lump": 2,
+"plane-surface": 6,
+"point": 10,
+"shell": 2,
+"sphere-surface": 2,
+"straight-curve": 13,
+"vertex": 10
+},
+"n_entities": 3,
+"node": 9,
+"records": 260,
+"segment": "PmBRepSegment",
+"subtype_definitions": 0,
+"version": 23200
+},
+{
+"flags": 3,
+"live": {
+"ATTRIB_CUSTOM-attrib": 12,
+"asmheader": 1,
+"body": 2,
+"coedge": 6,
+"edge": 6,
+"ellipse-curve": 1,
+"face": 1,
+"loop": 1,
+"lump": 2,
+"plane-surface": 1,
+"point": 6,
+"shell": 2,
+"straight-curve": 5,
+"vertex": 6,
+"wire": 1
+},
+"n_entities": 3,
+"node": 208,
+"records": 55,
+"segment": "PmDCSegment",
+"subtype_definitions": 0,
+"version": 23200
+}
+],
+"spec/wg_more2.ipt": [
+{
+"flags": 3,
+"live": {
+"ATTRIB_CUSTOM-attrib": 19,
+"asmheader": 1,
+"body": 1,
+"coedge": 10,
+"cone-surface": 2,
+"edge": 5,
+"ellipse-curve": 6,
+"face": 5,
+"loop": 10,
+"lump": 1,
+"plane-surface": 2,
+"point": 5,
+"shell": 1,
+"torus-surface": 1,
+"vertex": 5
+},
+"n_entities": 2,
+"node": 6,
+"records": 129,
+"segment": "PmBRepSegment",
+"subtype_definitions": 0,
+"version": 23200
+},
+{
+"flags": 3,
+"live": {
+"ATTRIB_CUSTOM-attrib": 8,
+"asmheader": 1,
+"body": 1,
+"coedge": 4,
+"edge": 4,
+"face": 1,
+"loop": 1,
+"lump": 1,
+"plane-surface": 1,
+"point": 4,
+"shell": 1,
+"straight-curve": 4,
+"vertex": 4
+},
+"n_entities": 2,
+"node": 147,
+"records": 37,
+"segment": "PmDCSegment",
+"subtype_definitions": 0,
+"version": 23200
+}
+],
+"spec/wp_2edges.ipt": [
+{
+"flags": 3,
+"live": {
+"asmheader": 1
+},
+"n_entities": 1,
+"node": 3,
+"records": 3,
+"segment": "PmBRepSegment",
+"subtype_definitions": 0,
+"version": 23200
+},
+{
+"flags": 3,
+"live": {
+"asmheader": 1
+},
+"n_entities": 1,
+"node": 23,
+"records": 3,
+"segment": "PmDCSegment",
+"subtype_definitions": 0,
+"version": 23200
+}
+],
+"spec/wp_angle30.ipt": [
+{
+"flags": 3,
+"live": {
+"asmheader": 1
+},
+"n_entities": 1,
+"node": 3,
+"records": 3,
+"segment": "PmBRepSegment",
+"subtype_definitions": 0,
+"version": 23200
+},
+{
+"flags": 3,
+"live": {
+"asmheader": 1
+},
+"n_entities": 1,
+"node": 24,
+"records": 3,
+"segment": "PmDCSegment",
+"subtype_definitions": 0,
+"version": 23200
+}
+],
+"spec/wp_base.ipt": [
+{
+"flags": 3,
+"live": {
+"asmheader": 1
+},
+"n_entities": 1,
+"node": 3,
+"records": 3,
+"segment": "PmBRepSegment",
+"subtype_definitions": 0,
+"version": 23200
+},
+{
+"flags": 3,
+"live": {
+"asmheader": 1
+},
+"n_entities": 1,
+"node": 21,
+"records": 3,
+"segment": "PmDCSegment",
+"subtype_definitions": 0,
+"version": 23200
+}
+],
+"spec/wp_midplane.ipt": [
+{
+"flags": 3,
+"live": {
+"asmheader": 1
+},
+"n_entities": 1,
+"node": 3,
+"records": 3,
+"segment": "PmBRepSegment",
+"subtype_definitions": 0,
+"version": 23200
+},
+{
+"flags": 3,
+"live": {
+"asmheader": 1
+},
+"n_entities": 1,
+"node": 26,
+"records": 3,
+"segment": "PmDCSegment",
+"subtype_definitions": 0,
+"version": 23200
+}
+],
+"spec/wp_normal_axis_pt.ipt": [
+{
+"flags": 3,
+"live": {
+"asmheader": 1
+},
+"n_entities": 1,
+"node": 3,
+"records": 3,
+"segment": "PmBRepSegment",
+"subtype_definitions": 0,
+"version": 23200
+},
+{
+"flags": 3,
+"live": {
+"asmheader": 1
+},
+"n_entities": 1,
+"node": 24,
+"records": 3,
+"segment": "PmDCSegment",
+"subtype_definitions": 0,
+"version": 23200
+}
+],
+"spec/wp_offset10.ipt": [
+{
+"flags": 3,
+"live": {
+"asmheader": 1
+},
+"n_entities": 1,
+"node": 3,
+"records": 3,
+"segment": "PmBRepSegment",
+"subtype_definitions": 0,
+"version": 23200
+},
+{
+"flags": 3,
+"live": {
+"asmheader": 1
+},
+"n_entities": 1,
+"node": 24,
+"records": 3,
+"segment": "PmDCSegment",
+"subtype_definitions": 0,
+"version": 23200
+}
+],
+"spec/wp_offset20.ipt": [
+{
+"flags": 3,
+"live": {
+"asmheader": 1
+},
+"n_entities": 1,
+"node": 3,
+"records": 3,
+"segment": "PmBRepSegment",
+"subtype_definitions": 0,
+"version": 23200
+},
+{
+"flags": 3,
+"live": {
+"asmheader": 1
+},
+"n_entities": 1,
+"node": 24,
+"records": 3,
+"segment": "PmDCSegment",
+"subtype_definitions": 0,
+"version": 23200
+}
+],
+"spec/wp_parallel_pt.ipt": [
+{
+"flags": 3,
+"live": {
+"asmheader": 1
+},
+"n_entities": 1,
+"node": 3,
+"records": 3,
+"segment": "PmBRepSegment",
+"subtype_definitions": 0,
+"version": 23200
+},
+{
+"flags": 3,
+"live": {
+"asmheader": 1
+},
+"n_entities": 1,
+"node": 24,
+"records": 3,
+"segment": "PmDCSegment",
+"subtype_definitions": 0,
+"version": 23200
+}
+],
+"spec/wpt_2lines.ipt": [
+{
+"flags": 3,
+"live": {
+"asmheader": 1
+},
+"n_entities": 1,
+"node": 3,
+"records": 3,
+"segment": "PmBRepSegment",
+"subtype_definitions": 0,
+"version": 23200
+},
+{
+"flags": 3,
+"live": {
+"asmheader": 1
+},
+"n_entities": 1,
+"node": 23,
+"records": 3,
+"segment": "PmDCSegment",
+"subtype_definitions": 0,
+"version": 23200
+}
+],
+"spec/wpt_3planes.ipt": [
+{
+"flags": 3,
+"live": {
+"asmheader": 1
+},
+"n_entities": 1,
+"node": 3,
+"records": 3,
+"segment": "PmBRepSegment",
+"subtype_definitions": 0,
+"version": 23200
+},
+{
+"flags": 3,
+"live": {
+"asmheader": 1
+},
+"n_entities": 1,
+"node": 26,
+"records": 3,
+"segment": "PmDCSegment",
+"subtype_definitions": 0,
+"version": 23200
+}
+],
+"spec/wpt_fixed.ipt": [
+{
+"flags": 3,
+"live": {
+"asmheader": 1
+},
+"n_entities": 1,
+"node": 3,
+"records": 3,
+"segment": "PmBRepSegment",
+"subtype_definitions": 0,
+"version": 23200
+},
+{
+"flags": 3,
+"live": {
+"asmheader": 1
+},
+"n_entities": 1,
+"node": 22,
+"records": 3,
+"segment": "PmDCSegment",
+"subtype_definitions": 0,
+"version": 23200
+}
+],
+"spec/wpt_plane_line.ipt": [
+{
+"flags": 3,
+"live": {
+"asmheader": 1
+},
+"n_entities": 1,
+"node": 3,
+"records": 3,
+"segment": "PmBRepSegment",
+"subtype_definitions": 0,
+"version": 23200
+},
+{
+"flags": 3,
+"live": {
+"asmheader": 1
+},
+"n_entities": 1,
+"node": 26,
+"records": 3,
+"segment": "PmDCSegment",
+"subtype_definitions": 0,
+"version": 23200
+}
+],
+"spec/xt_basic.ipt": [
+{
+"flags": 3,
+"live": {
+"ATTRIB_CUSTOM-attrib": 45,
+"asmheader": 1,
+"body": 2,
+"coedge": 28,
+"edge": 16,
+"face": 7,
+"loop": 7,
+"lump": 2,
+"plane-surface": 7,
+"point": 12,
+"shell": 2,
+"straight-curve": 17,
+"vertex": 12
+},
+"n_entities": 3,
+"node": 9,
+"records": 232,
+"segment": "PmBRepSegment",
+"subtype_definitions": 0,
+"version": 23200
+},
+{
+"flags": 3,
+"live": {
+"ATTRIB_CUSTOM-attrib": 8,
+"asmheader": 1,
+"body": 1,
+"coedge": 4,
+"edge": 4,
+"face": 1,
+"loop": 1,
+"lump": 1,
+"plane-surface": 1,
+"point": 4,
+"shell": 1,
+"straight-curve": 4,
+"vertex": 4
+},
+"n_entities": 2,
+"node": 131,
+"records": 37,
+"segment": "PmDCSegment",
+"subtype_definitions": 0,
+"version": 23200
+}
+]
+}

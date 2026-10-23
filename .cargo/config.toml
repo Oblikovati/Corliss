@@ -1,0 +1,3 @@
+[alias]
+# `cargo xtask <command>` runs the repository automation in `xtask/`: the CI gates and the release check.
+xtask = "run --package xtask --"

@@ -1,0 +1,6 @@
+# Sources and docs are stored with LF whatever the contributor's core.autocrlf.
+* text=auto eol=lf
+# Fixtures are Inventor's exact bytes (compound files, UTF-16 project files, oracle data):
+# never convert them.
+tests/fixtures/** -text
+*.zst binary

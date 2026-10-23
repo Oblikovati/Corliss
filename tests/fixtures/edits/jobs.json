@@ -1,0 +1,102 @@
+[
+ {
+  "job": "P0_touch.ipt",
+  "source": "spec/ex_rect20.ipt",
+  "guids": []
+ },
+ {
+  "job": "P1_userparam.ipt",
+  "source": "fixture_part.ipt",
+  "guids": []
+ },
+ {
+  "job": "W1_mate20.iam",
+  "source": "spec/as_mate.iam",
+  "guids": []
+ },
+ {
+  "job": "W2_ground2.iam",
+  "source": "spec/as_place2.iam",
+  "guids": []
+ },
+ {
+  "job": "W3_move2.iam",
+  "source": "spec/as_place2.iam",
+  "guids": []
+ },
+ {
+  "job": "W5_add3.iam",
+  "source": "spec/as_place2.iam",
+  "guids": [
+   "551144c0000000408000000140008000",
+   "551144c0000000408000000240008000"
+  ]
+ },
+ {
+  "job": "W6_del2.iam",
+  "source": "spec/as_place3.iam",
+  "guids": [
+   "551144c0000000408000000340008000"
+  ]
+ },
+ {
+  "job": "W8_delmate.iam",
+  "source": "spec/as_mate.iam",
+  "guids": [
+   "551144c0000000408000000440008000"
+  ]
+ },
+ {
+  "job": "W10_addmate.iam",
+  "source": "spec/as_delmate.iam",
+  "guids": [
+   "551144c0000000408000000540008000"
+  ]
+ },
+ {
+  "job": "W13_flush.iam",
+  "source": "spec/as_mate.iam",
+  "guids": [
+   "551144c0000000408000000640008000"
+  ]
+ },
+ {
+  "job": "W14_angle.iam",
+  "source": "spec/as_place2.iam",
+  "guids": [
+   "551144c0000000408000000740008000"
+  ]
+ },
+ {
+  "job": "R1_note.idw",
+  "source": "spec/dw_note.idw",
+  "guids": []
+ },
+ {
+  "job": "R2_rename.idw",
+  "source": "spec/dw_proj.idw",
+  "guids": []
+ },
+ {
+  "job": "R3_move.idw",
+  "source": "spec/dw_proj.idw",
+  "guids": []
+ },
+ {
+  "job": "R4_scale.idw",
+  "source": "spec/dw_proj.idw",
+  "guids": []
+ },
+ {
+  "job": "R6_addnote.idw",
+  "source": "spec/dw_proj.idw",
+  "guids": [
+   "551144c0000000408000000840008000"
+  ]
+ },
+ {
+  "job": "R7_delnote.idw",
+  "source": "spec/dw_note.idw",
+  "guids": []
+ }
+]
